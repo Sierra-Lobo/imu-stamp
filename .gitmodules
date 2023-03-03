@@ -1,0 +1,9 @@
+[submodule "software/Adafruit_CircuitPython_MMC56x3"]
+	path = software/Adafruit_CircuitPython_MMC56x3
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MMC56x3
+[submodule "software/SierraLobo_CircuitPython_IAM20380"]
+	path = software/SierraLobo_CircuitPython_IAM20380
+	url = https://github.com/Sierra-Lobo/SierraLobo_CircuitPython_IAM20380
+[submodule "software/SierraLobo_CircuitPython_MC3419"]
+	path = software/SierraLobo_CircuitPython_MC3419
+	url = https://github.com/Sierra-Lobo/SierraLobo_CircuitPython_MC3419
