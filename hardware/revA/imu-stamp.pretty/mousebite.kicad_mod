@@ -1,0 +1,18 @@
+(footprint "mousebite" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c1e9ef40-7515-4b07-bdac-268c50813cb2)
+  )
+  (fp_text value "mousebite" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e47529a0-d5ff-4e3e-96d3-fefa06b5695b)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 63ad9ab6-c878-4f5c-a61e-4d11c692c489)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 0.24 0.24) (drill 0.45) (layers F&B.Cu *.Mask) (tstamp 27d426b4-2a8c-43c2-a9a4-557b60c59822))
+)

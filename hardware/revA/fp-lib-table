@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "imu-stamp")(type "KiCad")(uri "${KIPRJMOD}/imu-stamp.pretty")(options "")(descr ""))
+)
