@@ -1,0 +1,1666 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/KicadFont 6 0 R
+/KicadFontI 7 0 R
+/KicadFontB 8 0 R
+/KicadFontBI 9 0 R
+/KicadFont12bbecec-5e1b-4866-b624-c1e4159c2760 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI57b1e5d3-a0ae-4d98-8b1b-df1cb177e780 <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontB78554659-093f-4a0f-af36-502bf973ba04 <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBIa3c39a2a-3c5d-45bc-9e0b-011436b4f9bb <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFont7231d8f4-254b-411c-8b5a-4fbe4bc30c74 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI9fb0be5d-7370-4813-bea2-d924a56ef441 <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBe79a2fd4-ace4-46d8-9928-bf40677c0c94 <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBIc5732df0-90bb-490f-a297-e4d8172c992c <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFont0760bf24-a83d-40ae-9b3d-cae4a544ea4a <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontIa2c50054-ebba-4f69-b122-203e02b4abd1 <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontB61c83796-ccec-4c48-b7d9-f044186ab9ad <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBI5e7565a0-f81e-4c9b-adfa-9c3a264c0171 <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFonta055ce53-e5a0-449b-9543-d5722b9896a9 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI3ca26a7d-0f62-462a-ba5d-c55bd94e225c <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBbea4840d-6719-4f94-9de4-4fd7b3f15e00 <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBI5b6c32ef-d62d-4105-b34b-b7fb7d7187ee <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFont92b3b89a-0a89-4867-bfe9-3a05edf5c9f4 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontIba4f4311-331c-4e19-a221-1c0a5ef40f70 <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBdb625b08-20ff-4680-9e36-95cefbab2ab1 <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBIc6154bfd-d53a-43d4-8a1a-de6fb8b582a2 <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageB ]
+>>
+/MediaBox [ 0 0 841.896 595.296 ]
+/Contents 10 0 R
+/Annots [ null null null null null null null null 11 0 R null null null null null null null null 12 0 R null null 13 0 R null 14 0 R null null null null null 15 0 R null 16 0 R null null 17 0 R null null null null null null null null null null null null 18 0 R null null null null null null null null 19 0 R null null 20 0 R null 21 0 R null null null null null 22 0 R null 23 0 R null null 24 0 R null null null null null null null null null null null null 25 0 R null null null null null null null null 26 0 R null null 27 0 R null 28 0 R null null null null null 29 0 R null 30 0 R null null 31 0 R null null null null null null null null null null null null 32 0 R null null null null null null null null 33 0 R null null 34 0 R null 35 0 R null null null null null 36 0 R null 37 0 R null null 38 0 R null null null null null null null null null null null null 39 0 R null null null null null null null null 40 0 R null null 41 0 R null 42 0 R null null null null null 43 0 R null 44 0 R null null 45 0 R null null null null null null null null null null null null 46 0 R null null null null null null null null 47 0 R null null 48 0 R null 49 0 R null null null null null 50 0 R null 51 0 R null null 52 0 R null null null null ]
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/KicadFont 53 0 R
+/KicadFontI 54 0 R
+/KicadFontB 55 0 R
+/KicadFontBI 56 0 R
+/KicadFonte5b0728f-41e5-4bb9-88ac-0d35369326ab <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI1d064b20-f69b-4ed6-851c-9938726a327f <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontB3384b03e-9a31-4bf7-8b19-28e113ece761 <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBIfeedb828-820e-4b0c-ba9a-7c45b66e20c2 <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontb5132290-e367-44d0-a815-28889bd5d032 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI78e7a642-6d6e-4186-bf13-885c4090ffa8 <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontB8f907acd-f39c-48c7-b66a-90e2e7a4941a <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBIeb4fc197-0016-4655-9622-ecf0c97715a4 <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFont7b90cedc-5326-4079-be32-73aa6d9af107 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI838a7e01-bc43-4725-8000-3f937801198a <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontB36bd82ba-2032-436b-b4a6-1cf5d3f05368 <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBI436867e1-9064-4855-83c9-69340a1deb60 <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFont1435207f-a0fa-4425-8698-255cb12326f0 <<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontI0145fbe7-5328-4758-ab51-71fa89d6da61 <<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBe8f28d29-d5be-45a2-83ef-af1ea0e43edf <<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+/KicadFontBI9c7648a3-bcb9-41e0-9e0c-2d8682feb5c7 <<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageB ]
+>>
+/MediaBox [ 0 0 841.896 595.296 ]
+/Contents 57 0 R
+/Annots [ null null null null null null null null 58 0 R null null null null null null null null 59 0 R null null 60 0 R null 61 0 R null null null null null 62 0 R null 63 0 R null null 64 0 R null null null null null null null null null null null null 65 0 R null null null null null null null null 66 0 R null null 67 0 R null 68 0 R null null null null null 69 0 R null 70 0 R null null 71 0 R null null null null null null null null null null null null 72 0 R null null null null null null null null 73 0 R null null 74 0 R null 75 0 R null null null null null 76 0 R null 77 0 R null null 78 0 R null null null null null null null null null null null null 79 0 R null null null null null null null null 80 0 R null null 81 0 R null 82 0 R null null null null null 83 0 R null 84 0 R null null 85 0 R null null null null null null null null null null null null 86 0 R null null null null null null null null 87 0 R null null 88 0 R null 89 0 R null null null null null 90 0 R null 91 0 R null null 92 0 R null null null null ]
+>>
+endobj
+5 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<<
+/Filter /FlateDecode
+/Length 48666
+>>
+stream
+xœ´}IŽ&9“Ý¾N‘'HpN @;I7P D,Z]_$ÍžŒŠ¬FºgþÎ0ûÜ>#étÆÿøë?ø¿ð3„ž~„ýŸþù÷ç_ñÇ]ÿû?ëYb?îÿïÿþö§ÿþ_þ?si¥ýø¿)ÿ»R!„<—Õ2Bk?ë:j	?ÛÏÃÉÄIuq>6§:¦Ÿƒè’~¦Í	åg&NêÌ‰Äé3•õ´ã„ù³[©>f·zûãg±–§çxg9-Îõ¯•j¹€sô¶²}²–[­ë_ë]«ƒ8RÃáRŠã z)±,hŠw¾ýÏßŒÙ*U,Kƒ‰ÔâDâ(^!;DWÑf‡yïõŠTëéŠT«9jÅÕ€Þróudq²+§r4RÒH‘^,k¤àÄEJ`8\J•"T/2u„Ñ4õÈáû$Ri¤íÏ*ÝXåÝ‘J³3§.Î¶–cø7'w¦wi½j&ùœS$Îª½ÑqjhH•v§w•çç<Ø.=pIá_iœpbe8qâˆTì•l‰æØN›1Öc+‡£‚£¥€”–šl+Zðýø‚ñÑÊ³]ÑÊ3_ÑÊ£:ÜsOW´rí'ÕrE+åyE+¥îb•â¸b•b½b¥à¥R@z¹ZF\Ô;p´ÒRB/p€eE
+Þš_ðýýH­Þ'œþ£®æ}zÀÍÉÄiÔÕç¡+õT‹§_•”ú²Å¡R-NdNhçm`9å¼1ŒTÈÝéé¼uŒå*qF¸8£R£R£pŽÞ1sµ<&õeêÝ˜ƒ9(áp)UŠpP½@J-MõÎãû RaÖÓ—j¤'x…Y²E4Ì|zqÅ<ÌX}¤Â8o Ëé³3R}¸zo¾Ž,NvåTŽ`!R‚ëDÅ²`.ÞI\¤†Ã¥T)ÂAõ)µ4Õ;ïƒÞ¯ÎØVo^[ŠÑÕû-Ï6’›S©gXžœR´´jo#NK»¯.¼ã™Õk=x_§-l§“jèDsüæë«ÛàgàaÏg,ÒB®–ZVš}¾…¾ß=FgcžgÄîz•ÝïªoÂÿEJÊ(š±.X±w„æÇ|Dª¥5Êq‘j©©åëô‘ji¹\¤'úH	GÑ€”"ÍŠ*¬+òð±)çoè|ÞˆF¢ÔpÅª¬1µUYv|¬ÀÑ@JK	ÍŠ¬+ZðO¢uaü$Z­U«V¸Åˆõò«Ã«UÁ®X£h@JƒfEÖyò‘é#»H­O+Rƒ¾˜ŒÎ‘û©±¬øH£þCJËÍŠ¬+VðO#eñ}§C·QêqéuXö˜
+,Þ=–Œg(&k¼ÔhŒ+œÚ¦m¯“ÇR¢¹-[ÅFIGÆì]Kü¥‡±22Œ§ÑË˜Ûã8ZHi9¡Y±€uÅnD?¾/ô}'î{Œ]îŸŒoÜ‡ÿ¹Ÿ3eGq€”bÍŠ'¬+æðOãÂ}‹åäxEŠû(£™û1cû:ã!8Z
+HiI¡YÑ€uE"RãFˆÞèjo}õ#-FZJá"%h‰fAT¬êâŸFæ¼³-Mou)~ó›HñèÀDŠG&Ràh¤ ¥‘‚f¬k¤È?Ž“Ã÷AœFv~æóp®ù™q¾"ÌŒW
+×üÌHéšŸ9]ó3#—k~fäêægFn×üÌâ\ó3Â‘&‘Ò™JÒ«3•°¬3•ðNf»¤†®ù/ÆAõ)µ4Õ;ï“H•lç<?çšó¥¸9Ï±ê‰Ÿó¥ßsžµßsžT›­ÔªŽNo‹÷œg‹÷œ'8Š¤/Ò«ˆÂ²bï4.(áÔkN™qP½@J-MõÎãû$Ræ<WE¤:ÍyÖ)xõrhA´Óœg‚y§9ÏÅA\¸_³šó4R3d§wÒœ§±<i†“½³œ!X@j^¤w¢°<sx7$.(áp)UŠpP½@J-MõÎãû$R“ÖL¤&­#X¼ö:‚":­#(æ3ÐˆHã2#­#X­#©X]XzöudÆÖ\9•#Xˆ”àÅzQ±,˜‹w)áp)5R„ƒF
+H™:Âhšzäð}2ëW²OmŽO-Ž[GXôµŽ°8×:BõZGXœk¡ÆæÖ}­#lŽO)ý‹J¡‚^ôRjý˜z‡¾NK`8×:pP½åZ§Q4Õ»’ßyO­RÿžÚÿžZ·6Wc¿ÖæçZ›«q\ks‹s­Í-Nõ5`\ks›ãßSÊQ,Æµö	½Šè¸Ö>Õ;K¿Ö>µ”*ÕÜÚ§"eêÈµöyãûè=Eß¯=–<ï)Â¯q_ÜÎsl‹“8ƒ£2;s}ãŽð¾Ù£\CgŽšHì0:­³uâ°ÝÙ#µÀã—åÔ˜i-2e&§u¢³¼¾iÀaßÖ÷€ó4J§@@µB°
+Õ/éƒè¬^zP›@tfÌ‰âÑÐ³ŸUÀäã3÷øÓÄg&ú:Çêã3sÎ>>ë…djÅ¢&I :ÂX‚Q‚¢X¤Å/Ž…ø-4—L%PzÕ
+|`ª_Ó'ë…½–3;5C¡Uø5r­Lz}òj$¾rHæ÷}©<Ç_Ú¬F¯Òj_9O}Y_cÆ“2Ç™Õƒ' Õ.=ÓO½àULñ#‡d¼ Jmâé¯œÇ~TZÇX# ^U§5^õæ¦Iâã‹Ž7¼É«uçMkÜdý¢Iâã‹Ž7b”Cæ,lëÐj;ÖæbrÓxþiU?PKÕp`›$<õÜ´Aõ-W=¶!sÓÏ½Aï¤Þ OSoÀuÈÜô‹ÞHÝGëêúŒ9ë_9Z½ž7<Ò¶Ž¶eØÿÊÑöíõ<1¤0ÏÈ0Ö=7¼G)žùü;¾ëRœgl»÷
+TâäpÞ‰q¢½yãŠ-}QæIF8%'S"¤TkI™|Ë%5ñMé=šÄžNëÞû0Ý=;Zœo;XÄÃáªPPÍ@J­MõÐãûB¤úl¼2û}®ÑLµ>öýÝm9úœÏpYÏ0†Ã˜)ÆÕhfìõöOéÝÞ‹“}òü´'ÂîhÁ×£>ª‹”Ò\>• Ð	”Ô*TÏ<¶oD©·B³CbýßåaÃ×¶¾@½ár.À1bf$”´T
+xªf`®Ö)*äŸÒûÑœD7ÖÚV»LÎr[_½¾µ… ¯g†Ã¥T) ¡š–Z¢ê¡Çøh­q½¯ÄþjÃˆûXù¥¨3lRR|‹àÑR	 
+À\­RTÈ/¥ËWë+£¢õ±Îým“ÝÒÚU‡J+W=3.ŸJÕ”Ô:T=¶oD)÷@ïq±ŸG¾|Ì³^µ­¼¤¬¡þô‘RŽ`&RÀU5{µNÑ!ÿ¢üNiHüXkZí²:Ë©ç[jýªg†Ãe„PP­@J-šâÇ÷I¤j¦5Ó½ƒõŒo‡Ös.l¿~¦`® ÖJ±«™ËUï’¥1ál¼£@h^¥V‰Ö’Ó¹†OT&±ÛzÏ”ŽØq"±!Š¤3–		¬Ì'À¯˜çå¹ápéT
+¨f ¤¶¤úç±}¥ž#µ‰Ò^é­½OÒ#º÷E‡9í‹Ô¨Œ3cjè‚¨Ab½µ)n¢uÏ¤fgy½·©ÆH¤ÀQ, ¥xA³b
+ëŠ;üÓØ †S±Ÿ R@B5-µDÕCñ“hÍ4\¬ö>Ðæ›Ùc:yß‰â>[2‘Yß:9ê Kq-pq*ï×f­‹Óhìn?ÃeTpP)`¥š§ZæêŸÆ%0ìÛ‘H' ¥q",5JÛ'»–c·ï§M7ŠÑ qÐŽ¼Egý•Í›¦††{Õ°âCïYå´yIåÜ›osh¿‹ZÏ“ëLG„Ão•Â›B5ãm¢Öé}£þá¤ePÊ	 ¡Z–Zf<Å7‹ïó8a´§–1îRïhd¦Þcì¦%¤Ñb 4c¤À:´ZE40VRN™’Â˜Kõb\fjÝLjxFj™p¤&ŠPPÍ@J­–êŸÅöyŒðý¤–ñ£Þá+GK€/!-%¾–	Ãa´T
+ˆªf ®Ö|}(_(*…¯ÕŒ/µŽ¯!S“ø‹ÉÔ5á ¤*4T3Së„©úg1~+ÌH¨eÌ	¨w˜7Ð`nAK9åd0FK¥€¨jêj‘Áw½rðí¯R˜PÍ4ƒ ¶1Ç þÑ,„– 4Ê¨À:”Z%,Õ/‹íãÉüžX–Y6ñMfâÄž«“òÉlž `9„’È0ŠF+#m,s4dvL9˜AS)Ì²©fÌÄ©mÌÖ©˜ÑÓ2(¥T) ¡š–Z'<Õ?‹ïãqÞH£ñ<,^Fš˜K<ã›±OþU;Z¬Ãò(iä„zÇ#)Ë¡Ñ–HÉˆL4Ë¨MlËÈŽý³œ˜Ç%S…kŽ±@Š­ÇÐ.cp#=¥¹” Ð©HÁ.°„gÛ¾œL”ø[ÀD‰¿Lœø›ÂÄ‰¿;$*òmb9ôýb¤øÇhæï c¿•¤¬ÊQ4 ¥xA³b
+ëŠ:<D\P¡+â	 ¡Z–Z¢êÇø…Ù-þÎ6xñ·¸Á”¿×îüMobÃßý–Ã{8TêÌ½<¿`lŸ)¢	H(Z¤Sñ„UÅž!*ð]h.J Õ
+”Ô.Tß<¶ÞOuú½_!r ;°V{v—`VØ;=Ü.½Õ—¿÷+ì¯‡ä9±ù½_!§éôfFO-çü.=áÈî*‘’X¬Wöh‰eÙÅ%ÞÉN/)áp)UŠpP½@J-MõÎãû$Råœa°‘*±\‘*‰÷	¦{´Û§
+ö;IdjåýCÊYõÖÇjÕ>§·Žé÷é…J+Ë&Và(RÄH¯b
+ËŠ:¼ÓÈ †Ã¥T) ¡š–Ú¢êŸÇøÉiš½oúx4­Dí”ŒX¢v]÷™«¬Ñœ½ºÇþüÌ(ô¶hƒÏ¸$Þ	úŒžŒD£ñÞ<ÖÚb ‘–Xn1&ñMé"õJ"‘[ÿÙÖœyýK,ç8zßrô¾“—D« $–IñîÂöÉù´Ü†Ñê¾iµZ‘Ú¦Cs×¬æ/µ¹˜4~Ï
+Ýú%Ñ&GU´îó™®v¬×Q¢”%p4NÒ8A³Æ	Ö5Nðã"þÍ%T	  Z”Z&,Õ7‹í³ÿüæ.…W	×0–9lk®®ùô)cw<—Sýòô&N²ÖNØw©0:8¬7tzïÂ2eú0ÞQN¡Ã‰ü%œ1+s 5íd½ctzŸ‹åÅÁ¸<])HI)E/ã –)ñŽÐüø‚ï‘êó|•šHõ9¦Ôâ`]šQ_ßÚÃÇª¯aŽÕúÂ<¾ƒÔÈÕÇª¯ÂÛXü@.V'«‹•á0bFŠ1…^ ®–õN8R‘’RŠ^ABlZâßÄ>žãòç¬ñ•íhq®lGkœé²Ô¯lG#Õ+ÛÑú&¿²-H¯lGcïîuÙŽçÊv´Bse;2Îcc¤8ÓÑÌYWŒuÞ‡h<GK)-)4ØV´à!úñã7¢Ê•íhq®lGcŸ;µ¸‡te;!ÜÙŽf¸³­êè£ÕG÷ÙŽö·­Ïv´Œ>V†ƒœC*…¬DÐ‹¼Ej¹Ô;DJK€Hi))à€H)Rˆ¡ùñß'cŠŠ³n™O¨µŠ³„•wý´Jg	—¡Uœ%ìÈÒPq–°ãtsÃYBåà,¡Hu:K(z;ÎŠåŽ³„XÉŽìá©Q*8t–0'ä·ÀYBÍ®€³„	™PÃÁYB‘"T/RË@S½óø>‰TÇY7‰TÇYBÅ‹Î
+¢g	ó³„—‰³„ÊÁYB‘šÕ×€‰³„byâ,¡D
+ÅRŠéUDaY1‡w”Àpp–P¤Õ¤LÁYB­Gß'sIaPV˜1q²&Œsv#ò»R¶ž™å\M¤ì$û´&s2e`™•w’•óE£4õ#F"JOˆÖÝóEc7Ÿ/Pøe9½ÉŽO–é%9­û´Yt–{”³5ì[Ãù.tDVH ÕJÁ*T¿<¦O¢SÎ¼Î>ó3N{%ÓÇg•ñŠÏ>ócãÓRqñÙY}|Íx­«2V[§ÜGp’ JÐ¨(Âª"¿ø%S	”^µØ‚ê—ÇôItÖ«òj;#X”F¼ÛÎžkö±Õ·Ù|Û™Ã·Bðmgq¢m;‹N¾í((¨á¤ZIXV´áâß…ÎwÛª•Bt€ FÇcúl}Ð·=ïhÛÎž™ôm§†}ÛYœlÛÎž%µmg¯ÐÕ+>yä+>yVc5Oßv”£Ñ!	Ä¢ZÒêÅBý:ú¶£¥W­Àv úå1}TsXzÒúÿŸBíèõVK{ŽpgÄ*››úùmÿý÷zrÐ3üÛtrStî'‰Š¤Kä‚ÑøIØ£ßª“«Fçÿ|!;5òL×”‚E€(”$‹@	-ÍÉµ` JJ-¤Àý–œ\
+o"°íîÒwÿ"6>þú/`KQë®v«vMSæU»¦©]ÃÕ®îjW»jW5:ëU»ª©]ÍÕ®þÇjWwµk\µkšš0¯Ú5Mí®vuW»ÚU»ªÑY¯ÚUMíj®v½…€¯]ÝÕ®þníê®ïêWßÕMßÕ¯¾«›¾«»¾«»¾«_}W7}W¿ú®nú®îú®þÇú®îú®~õ]Ýô]ýê»ºé»ºë»ºë»úÕwuÓwõ«ïê¦ïê®ïzW»ºë»úË}Ww}W¿ú®nú®~õ]Ýô]Ýõ]Ýõ]ýê»ºé»úÕwuÓwu×wõ?Öwu×wõ«ïê¦ïêWßÕMßÕ]ßÕ]ßÕ¯¾«›¾«_}W7}Ww}×køÚåú®þrß5\ß5®¾k˜¾k\}×0}×p}×p}×¸ú®aú®qõ]Ãô]Ãõ]ãõ]Ãõ]ãê»†é»ÆÕwÓw×w×w«ï¦ïWß5Lß5\ßõ®v×w·ú.úBÔ}	g·ß}wÊœþî”9ï»Sæ¼ïN™ã¾;eŽûî”ÙýÝ)³ßw§Ì~ß"ÉÔ'R’ÍõJ¾?±,Å;É(%0œûîÆAõÎûîAS½›oÝ2û}wÊì÷Ý)³û»Sf»ïN™í¾;eÖûî”Yï»Sfõw§Ìzß2ë}wŠp‹zßÂzÑzå<Sï4.í¾;EJ©RÝß"H™:rßráûdí—sGr&¹OÍi²ÍÜ‘&çŽ4ë8w¤É?È¹#-§ÞyîNîH£—sGËœ)Òä¹Gs*BJó’Þyçæ4¹áÝ¼ssZÎ¼ò2óÎÍi,MõÎãû$RœÕDŠó±¼N>Vƒ(çc5˜s>VÎÇj9áÎÉ·[ÜùXeÎ¾j"Žb)Å‹ô*¢°¬˜Ã;J`8åÎÍI8¨^ ¥–¦zçñ}2û"Ís…eýSèV"çžë<[ý•C2—Žç¾ìmÑø222ûÁòWÉ|\:ûÒã™;_V÷Çg£`ù8$óqéxîKÎ{>X}I™Ï‘ˆå¯’ù¸t<÷ežN»]ÒDÎF¶ü•C2—Žç¾ìYÛj|i‰Ï/ˆå¯’ù¸t<÷e&>'Åô8;D­å¯œÉ+¢^Çc_ÖèyØ6½ºÌé[ð?pHæãÒñdíæÇ7Âëaõ-ÿ@‹/—Ž¼Ñ8	GâBÖ¿Ð¥KÇÞHŽÔX¶~ÓR/ox#m[8Ò–ÙúMKË¾t¼áôzÂ‘^Ž­ß´ôy—Ž7¼‘÷p¤ÿgë7-oƒKÇÞè›R8òf$ë_hyO^:ÞðFÆÂ‘1[¿iA\:å>ûíö¦:$œFkè»·[égÍð‡¥>¾èyáfºÚu3]ÅÝL×B¾n¦k!]7Óµ€~w¿YÝg¤ÎrF/ß1g,ó=tìå ƒJÅên¦k±]7ÓµØ¯›éZì×Ít–Ã¥T)ÂAõ)µ4Õ;ï7Ói¤pßšâE7²)¢¸³M1Ç½nÜýf8|?œ‘:7È½|Çœ±Ì÷Ði¤„#Xˆ”àÅzQ±,˜‹w)áp)UŠpP½@J-MõÎãû(Gu§;È8“ë¹«ÀärZr·ŠÄWÎÃl®ëküœ7_z<;WÅÐj_9O}É#ý4ù‡ÇÇ½J«eH|å<õ%Ž*Y~Ï@¢{Øàhµ‰¯œÇ¾ô³êŠœœLKþMñå+G2r:Ï}‘Œ¥Ð‹ì¤jùGò•:oÄH²¹ª-dsgo™›~œÍUjžzƒúªÞ€ë¹éçÞ Mª7hÉê8°™›~îz+õ}œz¬Cæ¦_ôFj18Zkgú'Zë°×ñ†7Ú¾ÁÑöLÖoZ[·×ñ(_3òÁ¶@gÒ{•|»™¬/òíò	 ½ªJgJ&çìëU2îò)ªÞ$ã.8]2îBªKÎ]hî’sÖ;åÜ=þ)½^û|¶¡KÎÝátä‹»¡Êýí’qç]ªdÜŽdÜ…pPÍÀ
+¶¦zçñ}!R}¯7e©5HÂ™*ùv9O'Jq2×D[ÒÅásŠ@ÃpºäÛ…T—|»ÐÜ%ßn“Ø5ñOé}o]qcHìo—òEŠÝ}^u¾íƒ]M³É¹›. H©å*9wáÇ÷Hí›7Š‹TïqAÎÝ|};ù ’/éê•¦GC8]rîŽSÕÜ%çî”Ø5ñOéÝß¸VØÛ(ˆ¥äÜÍ°#9wëUvK	GrîB
+H¨f ¥Ö«äÜ…‡ã7¢E·ÚhÕ‘É¹›¯:×BDý‘¬»Å£Á´à%]²îBk—¼»Ib×Ä7C‡€–*yw%v’w·!v’w—³0‹o;Ãš¯k†#ywÇ…‚jRj]Ð=¾oD*wäÏ‡ýŒ{^ÄÇ<ûUãv>ÛêË*'æáf"Õ%ïn—7òîV‰_ÿòÕÓˆ§äÝ•\ú’w×û–Ú¼jšáHÞÝäPP­@J-šâÇ÷I¤†ä†Í|6sHÞÝÆØÉ»Ëg*ú¼»œçåœŒ¤¼»äá”¼»LKÞ]HLÎ»SòîÂîä¼»8ù89ïn½$¢Ü·@:c¼»ÅyµÏÓç·áHÖÝâJ¯Z‡äÜ…Ý!9wá›ÇõÉ(4H>XŽÐâ ç.#5‚äÜÅ½WArî2Þ#HÎ]^¿–œ»LKÎ]HDÉ¹­QrîÂr”œ»È%çn½¤¢~g"ç.0ëŒºx'qÿG2î‡‚j’o–ƒäÛ…wß'‘JœqJ’oh¥ìñL’o˜'É·Ë»$ß.v3ßòF–|»Ðše•v³äÛE”²äÛ­—”bÍŠg–|»Åy§1ÿ†#Ùv‹Á@u&Éµ»‰síÂ3‹ë£;m»{'"¹va©H®]~sŒ"¹v‘S¡J®]Ù#¹v…#¹v!Õ$×.47ÉµëMrí	á ç)y;ˆfyƒˆu~Çˆò’2(§H®ÝäP­@K-3žâ›Å÷yœd”'–e¬%ÞÉxLü—1›”‘Gu‚‚ÐÈ¢*M²íBk“|»°Ü$ß.ò\ã(‘’±–h–ñ˜ÖŒÙ´a\§5M8REªH¾]h.’o·KäÜ8Ïáû<Nòí$–åëE¼“/)|I)åKI0É·) ªš›äÛ½##_OÂ‘¯‘’/Ñ,_9ZSšì‚“|»¸‰Qj›p¤FŠT‘|»Ð\$ß®ììîëÉaü<V2#!–eN@¼“y)Ì-H)eþA0É·[¥§C¾Ý.}òíÂz“|»q|»²³ùv17 šyö@lËü‚Ö%ÌAh}N‘œ»éÂz–Z.ÝÍI8|ÇIçø`YgÙà›ÎÄÁ­CuF8XŽdÝÒÛ!ïnñ­ÃXoÈ»‹Y>áÈLšHñ\›è•Ù8±-3vâŸÌêI”S$ë®¼µ$ë.4/Ø&<Õ7‹ïã±ÞØyç£ë¬;H9çnòã “™lÚ±ÒÈ	õ.KÎ]áHÎ]HeÉ¹Í<r3¶³äÜåûÏ„K¸¤è~n«9Æ)É¹;°j#9w›+ƒÐ’s‰sîBg’œ»²ã•rîŠgÛ¾œL”²Ç	RArî&ÿUa’sQ‰’sW8E3ÕñWäÜ…fþ2Ö£äÜEœÀQ4¢äÜ^QrîÓ(9wz”œ»Í•AhÉ¹‰ 9w¡5HÎ]X¢êÇø…™¾³/|‹+¦øZWÜñE¯±ÁW¿åHÎ]HÍæjæŒíÉ9w9RL"!h±NÁS¬
+æâGE|ZrîBbHÎ]h’sv¤úæ±}²ë¨·{×Qo÷®£skµÙÔË½ë¨§{×QK÷®£î]Guú]GuÜ»Žê¸w£ûz ¥{H¯î‚eÝ?ïtJ`8åÞuD8¨^ ¥–¦zçñ}©¯]G‹sí:Š5¸]G±Ìk×ÑêX®]G1÷k×QÌõÚuÏÜFoÎ×®£˜óµëH8Š¤/Ò«ˆÂ²bï4.(áÌk×ã z”©#ñÚutáû(÷$gJŒ3GÈ¦Ë•u³Çê²nžr>“c”oUpvÖ&ŸÉ1‡+ëfçü©byçÖóysº²n*GòUŠ”d´d½’óR,K^LñN8R‘’RŠ^ÆA,+Rð."cÞ…ï‘Ú7&©ŒL·‚h	Ýa^‘VâRr¹"Us¿"Uk‡õÖæ³}Ö~—³öá^"%ˆ²^Á\,K\Ä;áH	DJJ)z­#‚”Ô£YÁqø>ZÂ™³eŠOgå&ë*t~«*gú"Ö(
+ÎôEÎlÜ3Îô)gúD*Ó™>Ñ›q¦O,gœé«’Ugú2ÞÙšE2šÒ™¾ŠõcXÞgV‡ónE†+áàLŸHªH©e ©Þy|eÅ™3‰TÂ™>Á+Ñ™>A4áLŸ`žp¦Oâq¦O98Ó'Raúp¦O,œé“H£X@Jñ"½Š(,+æðNã‚Îô‰á z”ZšêÇ÷I¤Z¶§Ïñù:ÍØ[q§{«×iÆÞúuš±÷~f<³zî4cÁf<YÝiÆ“õØfŽœÇ)9³ÉzåT§X–sŸâœ•N½N‹2ªH©e ©Þy|}K{Bø|Kë„pÓ^¿N÷™îÂÙA•SîÂ¡úó¬¡Ý'„C»Oƒ£'g!¥§kI¯ž¿…e=¡ï4.(á„ë6ã ‘R¦ŽŒëö…ï£z	;;ÇO¾œ³.´oá ±h
+ã‡æ‡ÛÔß;ë\ ôë™9I¦Žæó,ÑùèÉŽ=ÑLôß©eyž±ïûËYDD{rG8tnDü5¸mÑÁ„ ä™:úŸºï€‹ŠOÝyE÷¡6ø•<Yïû»È”yf¤Æ}¢¾¨Iy
+©F /%êK(ôõË¿öàêšÐRg„Ã1‡<êô£Ö¨}âˆwGÞûþgpA}úD[ýB]€çZ[P6y‚ËŽú"´ÔæHÜY×
+¶ÀuF<84{Ç’Þ÷—q©œñ³NdQ­”#4ÄÓãUäÈ¢Z‘g4`OAE&Ò@YS+2•
+Í¹LE¢!ß©hmÈˆÊv›àƒ·ÂXEƒÌê{“Õz²;GkùôàÑú¶¯¤°¾+u-Fë o²*Š_¦O2yKÏ‚è4d	NÈ#ªH"×¨¢l¤†l¥Bs>S•@ÎSÕJ9Qa•s¦šè€£ÑÉÓ Š"¬*Òð±€ßJÇäcƒÒ­ŒØ‚ê—ÇôÑMpÝ¿Ÿ‡ûÛôý¼3,Û÷ó¾gMßÏ;Î°’Ý¾Ÿ…æž’èG¡Y{ZXÆâkð¾¿ÝÛB»ö·ÂáþQª%@«e”'ú°òÝ¾Ÿ™–“e¹7eÝÒ×²mþ•=YïûÛÈ”äßÏLsÔKÑ÷óÎ¯mßÏ;·¾Ÿ—Ÿ)¸º¦§”Pg„Ã1‡<êôk­}y"Ù÷³õýÏà¢õ…iŽv)öý¬žkmAÙðÊBKaŽÄ5p­`RgØüšìûÙúþ2.m¯pwZ³¦¯µ¶¿~ÎZæ.Zt¯ÕÞWÇ}ß÷¶×²ùf´Âû ßj•xtå•D‘È”Ïßh-ëK°¼<ß„>;!š•èûÞÏnµ®¯m¹q‹,¯¯k¹•‹|[ç»ÒT:#Á­Œ’±ÌHï<¶OÞÓ­5ìjà(í}<ÝaÕfâÕ[¹-EÙ/Á·Q`M£2s"- [»$&öw@k‘×åen‹GN'pH¼&v¾¦lÝàÎþIdØ¥©„F‚Q0Z)c™Ñ4‘òø¾°F¹7ù5ÊJ7ÏÊÚÜN(â×(k/×åžÒök”–Ã³	*uÖ^^m4–yE’½³œQ¯5ÊºWÌåb_k”uÌkrq®5JËÁœÉtk”F/RË@S½óø¾°Fi"Å+o¯3C§ˆòêÁœWøL\xÐrx†N¥ÎZ¢ÑË«Æ2¯HšH£X@Jñ"½Š(,+æðNã‚æ!§[£4z”©#˜ï¬×åãH•²wÂ!«)(ÊÍZÖkVsº–ºæt-5ÍéZj²rL%~’(ÊÍªrÁè¤œ®jïüÆ¾°œñóí¯h›Õ””dXlVÛRmVÛR›“³YmA›Õ:°2YmáäþDV[D ¥9«-E32ƒ¾vœÓìç£–ZÂ¿%+ÇT·µ‹óJ«\5:«¯]ôûÒlíú¹9j@ ÚŒÜm.¥ÍÈ-µ„kNÎfäÕ|íblFnµWµv‰ÜŸÈÈt[»^ËÈ¨¹¾«_}W7}W¿ú®nú®îú®îú®~õ]Ýô]ýê»ºé»ºë»þÀmˆšë»úÕwuÓwõ«ïê¦ïê®ïê®ïêWßÕMßÕ¯¾«›¾«»¾ëåÛ×w½v› G­¹¾«]}W3}W»ú®fú®æú®æú®võ]Íô]íê»šé»šë»þÀM(µæú®võ]Íô]íê»šé»šë»šë»ÚÕw5Ówµ«ïj¦ïj®ïzù&DÀõ]¯Ý„‚¨¹¾«]}W3}W»ú®fú®æú®æú®võ]Íô]íê»šé»šë»þÀ-Nˆšë»ÚÕw5Ówµ«ïj¦ïj®ïj®ïjWßÕLßÕ®¾«™¾«¹¾ëå[œ×w½v‹ÓÞD»õ÷ŽÚs]ö‚£LÚPøŒ@é<÷¾>Ÿ(›û¾9t§à(wðR~Ð‰î4‰î4ZÝ)(vÝ È~YÎÂ”wlC¦µá´69ãËû4Õt¾õœïBséT¨VBV úå1}²‹#Ò}œ&:îãœÏß)’oV´ÝÇ‰xð­y†¦û8U¢!/®hmc˜Z±(ÚÇ.ÑŽ ÀŒ’hÅª -~!ð[h.™Æ¥×Ø Djt<¦O¢3ij¬¯°Ðûm”pcÁ¹Y}ï_¡ÙB¢ÿÞûUP?ù‰˜ôŽƒhèma?/ta7A°E¶@ô±€;è	õ™4¸2¼ÜoZµÂGh”n}?š²·DçHÖøy<qÎ©©<h #4£y Šy€ßÅ_–·þ¿ŽÍ)Ã~ñLÂtâËYë{/à¾‡!uÊšøyþ}—uy¡ƒbyÖÊÚd´'­td¶·õ3õ÷_b_ü<Ë[ÿßÞ÷S+µjª7JSÜ=¸/!CKÍÔ›E·jjÒ¢Ñ÷°<hŠ«¡?ÏòT/ µFíãwñ—å­ÿo¯µIgŒöXãÓÒùÔá5îäÓXýÔáÖ;Õa¢ÿæÛ±³yb–`B‡@Ï3?Ïò1±E¶@ô–€x>Bƒ-ÃÛíjô“Þ+õ9Bjã{9ee§6>kêoÞ‘õ÷=ÏòJ×ƒŽÒ‘õ±|ëlïè'êï¿Ô>~ÿXÞúÿú~ºžÏž‘R‘‡]8ó¬‘o{ý´b\¡.DŸrƒ$ðDŽ$B[B8qÐ<ÖÛdDcÏ^5Oˆ—¬Á—ãí´OóœÌ°jÐ“ß±3aö‚ÞÙ9ž•-¢Ï[ºSÎ!<‘B:å¡½·„æ:ÉòkÅ£ ²À4ÆÍ<!>²[†·{ Z[ÐHhôÓ÷@{ºïfs=Pßkê¦Ršz ¡Ñ@ý,hð|”>¬þ±¨Ç“£j„D{¹@—´J–N¦”U`ÿ»÷÷ó:é¡wYÓHæ÷ýµ2DZ¨£ûï¿”³×ìŽ¾#Ýs2º7u4³mú•¼‚œõùm<
+F
+‰FÉBWŠvÁHgRm(4Ò™\[zÅH‡¯Ù°¼Ð‰jKÅHgðóé¶G#ÂuöõwŒtXÞúÿv[ÊlkÐÛJij×-Ã7j×-“ïx[µ‚²ñï…Ëy¡ém¥täçY¾w¶wôw¼­Ä¾üÿXÞúÿ66ôÆ•¯¡yôßè-_m´`¿V0Í(z	óõ 4=(]XËó×ë—o±ßÅ_–·þ¿Ý¦B¦:Éï(¥'÷ Füê1û†ê±Ð(C~Ô† /4½¡”Nü<ÉãýCúõýûò»øÇòÖÿ·÷˜íü	¦ÞÍqŸqN[oæzëØz3S¶Þ¬j1éåAs½Qº°>–çzÁú¥Þˆ}ü.þ²¼õÿõÑñ˜4.¨;³ú§åœ=¶;{5íå	i½Ý([%Ñg;'nè‰è\ 4(}lœ128‘u’†3C$uô“ü«øÇ²¾¯ïO¤/“¶û~Þ¹IœNwHí1)W`¨Øa{ÆLÓ¾SÊ@„'Za	ÖÀ4Û8à– m¶I6˜>»3KðâwÁP[Ž×OY$×32›í™ë´=sÜúõ÷n{f¥ñ}.4_Cßß¤_[ì£…‰¿ÜÂ¬ÿèÞBtoôŠ{£·0Ì)óF—ß‹Ìë¸7úÑoßè³û7úÌöN”}£Ëïít÷Fgý¯~Æl½Qšãsqõ&æáêMä‘˜üÎ#7‘ÍõFéÂÏGWoX¿Ìëˆ}ù=Øzãýûž'ç3<yZ>-§ï=®{¥âÜ†ÑÛ9ÿ²×%
+Í$úŒ|C1¿×LÏC^ècá<ÏœUk|ilõ}FÊìž€‡÷ex¡A»WÏœúÂ™éø³WNÏ{Ötv¶ÚLô.Á~²êƒò•ˆ¥ó¥Î¹C4´m»¨¦òBž/Yƒ/ÇÛk¥=¸þGiê?v2Ûÿì>Ûÿìdp¶ÿÙÁö?JSÿýäÑ¿~í`_®ÿqþ¿>2Œ<ê<2y$VyÔÜy$6ƒPgd˜øyþ=5Œ²y¤šæ-@7z‰|£÷ëgêŒ+FÙü{”Q2ùcü{dØ93Öj@c­¥óé¬ÅŒ¯µ¬Ñ‚[ËÔRDh¬ÖÍ«-Çj,èj|Àâ3k°exûÝµóÑy²Âû”™Ó8GZ½s>£3{w~®&ô~¿ÄÊxbtÞg@˜fGœÊ•½8ù*ÄÓ[‚½'ÄoÖàËñ6J£ø7<h¼¡Çðoøõ=èÞð³ú7üœþox¡ùy¼ÁI¿¾áa¿‹¿,oýûýU6JsûèÕaSzsØìn>£7‡ÒÜ¾”æ•Þæ°~i]b¿W‡÷ÿõï®ì°_¥;lf›)Xâ÷á°ßìBó”¿H¿~QÀ>~YÞúÿ‡Þè˜#Tz¸7:æ ñÆÅ¡¾‘“{£‹¼ÐÕ¿ÑyŽOäyõË¡Ø—ßá_toô?1GØÓtõFh´‰œ]½é¹û6U‚«7½Wo„F›šÛäÑfH¿¶)ØÇïâ/Ë[ÿ__‡|º;%Z‡ Ýâ‡îü 4ïžhN¯¡ÎzAäçù÷½N7¼Ð‰×ˆ®´£Däë¾¿3A?SgN1óóø=ðó,oýû=Õ83íª3t£÷B£Œš-z/4º1à=µo‚‰æ÷^èyÈé=:N~žåce{½	µŸ‡}ùýƒ¼õÿÍ-÷ÕbíÜr¯gg•Î-ïóÖCæ–‰²sËò;õµ"/tvn¹¯·/=Ïò;{½Ì-3eæ–åwñå­ÿo×›I«ómœüÖŸ†3ÓU¥@«û²#-º¡V\Sü4ÿ?Ÿ,EÚ÷óÂ)'ß¯È¨Ú÷ßG7Û>¿©§$yyþúšyOüNâ5s¦'ö±…Ìmýô{#–,ÔY1ü<ÿž"?Ïò ;Í#Èþ2 ýC¾`¿‹¿ØGgü{l3²ÿêš¿Öjø«rFÿÕ9±Vƒß¹½@^hþêœºvCÏÿÕyô›¯N¶/¿]›9òÖÿ×Ï½óöÍ³“\ÿe/A<kpº“ òû¿'~ßB^hÞËû  }¤_÷À>~‡·þ¿M*¡Q¶á±ÉÉc“«Ç&OÐŒh”ò(;éWl`¿Ã?È[ÿßÆ¦Vðº¹Ð¼î½6½?y]¼;Y£¬›Óæwä×ay¡yÝ\h^÷fù:y]üègj?Ïöåwñå­ÿ¯ïžä™Ê™ü4œJ+k¡ò=OõÌ@Ö°†X”ÿ•g$§°žèVž¨Â3žB~–eKä§Y;Ñgÿ$ÛÇâ1kð%øøÐú"e[RÎL@ç¬Ñ©íãè4ûDg‰ÔEúâ~žåWS1ú7tŠü*Þ²¬÷þml¸Í¯¶_áÌ³ÛúˆÆ+aŸ¬µ}/4þ•ß+YZ¨£ý”œÈúX>"Ú÷ßg!Û¦ßÄ/–ôž¿>sL'nS¡ìÜ [>«­{Þ^™'gñ¢ùNô™	>ïtüž
+?ÏòBýçyæP–IÈ³»_õ}fŽÙy‚N³´õþí‘ß,”‡lçž |ØÂ9y$ÝOÎ‘Õ‡îL#;+4ÝúNôÙPéfuyb°iPúØ8ÌÙy3ŽkØýU36ˆ>»
+Ø~B¼dW9^ïsp—üY)û4œD÷2¬êBYŸÚé*eÂßíP§5#úµ'~–eA“öý¼pèN‘‰­±~¢¶'ÄcÖàKðvûÊ4;w®ž]“ÊiùÌ¯Qï³Ð~:-~¨3ŸøiþçsYZ¨£æ‰³oÝ:Ï³|;ïeè'êÌÿ±}üï ïý»ö”Ü)GOj§ÿ1ºÓe÷››:wÐï^õì búô³…2±Ë}i¦Žöóô¡;­=ˆìÎúÓŒv¢¹×7¿Ã7È{ï__·Š¼¢[pW pÆ8;†v¾—s_@:'?G´*LôY‰J$'F%	húØ8àÄ“‡Úìlsðˆ s–6x¡OÀKÖàËñzÂÊå¹ðÓpbj\ƒ¨†ï¼oT‡‚P§NðW üÎï Èƒ&T‹˜CQECˆ,A9EµˆŸçßÅg–÷ex{fgçHG^¤qfvÀ™4O¹>sÎJ[;gâÎÖ…>»Gz‘¬úû‰‚ìÁ,š,œý)àTÖÉvžËil½%Èü.>³¼/ÃÛ}t¬=î£…Ó÷(£—ƒO¨§Gìƒñ	Ø¸½Næ‰åµÈòß¹pÿLtŸü$KöVŒæMígÉ.ÿÆAÒûüöL)fVZâ|pÊi»ŽîÓ•4fÝ'žòÙ_„:»KxÔ*¿ó—å•æó7ÊYA&	ÖPÏYX¨|2F=àßÅC–¿Êðú®&É[C«æ†sòÁí=E”Ãpgõ¥]G|S`¨Øu49Ó?±¿€ŠÑ t.\fpv;¨?DCßÙa»Ú`šv6±?/¡Á—ãýÑaã,È¼· ìX£³Ák7g?ìÛ’Ý[pÎ0fóD§Ìæ,ß)¯9ö€®¬m²}Ú3 íº« öå	ñ˜5ø¼Ž÷üiD|±3'§36å7G¦¯€ÀYju¼ç7üÎo&’EÚé{9ôM ò)FÑ¾ÿ¦¯u~öü&ž²¤÷üíÖµÏž‘–ìïù[{×bÞØíD²cpŸa°OŒšŒ4S²_èÆ»ý Ûx7 ´7Ù/HÖåwöòÞû×w[ð­¯<ë®4Ÿ1«|“,Ïª÷–ºuï­5;ë~îãF^è€Ý'îèyÎŽÎ³ê¤_gÝa_~gÿDÞúÿö›<…Fû$¯p(;Êjæƒö2u‘}¦¡Ó^¦CŸS‘%ø‰ŒÌù¬AhÉÄ›‘¿íù@ÑÀ÷Ôˆ¦Ï,y¡O–`¾o ÔÂépdÊ²SwÃ©¤M‰I7ñŠÑ,“³ÖÖ3ÍÔœÒI§Jšƒt=O4¯îá¼.[¯|GãCÍt‰ÒÍø”<›Ò>¿ØzC·~4{k¿¯;æ@S_|pež+?-çNù}ëƒ’’!·qŽ¶~~±ö ™ù3Ôéã9qªçDøŸ„†ó¤vb;©³ôXïIvøé¬ü¾Î<­WÛÿûK>Jå3¹J}¼'Ÿø­¨ß:·•NŠ=¶ÂÝWmôMYùdêIs¢¹x] zõ½/h­ó|ˆßOt&:noÂ­@|ÔSc£9\oé}t·Zcl×jN,´Þˆšjõv~_óS	Ô‘BsU€³Ë£ðt£†äŸ5óK“ÕùÆ´‡;–³}cR“9ÔI—§ÚfUë±ñ
+ãÛ9&HivÖ« ¿ò@Š}#¼Sõ?öŒQÆòy@¨‡Á[ƒ>`òœ0žôz1/Hg=6"efŽüMÈt‰éèûäàn3=Ñ€„é½ƒá1,’Qp<)eN¤Xãi®Í‘ëXÀ¡ÔEOºØJI¹éÆTÍOÚ"F—©:-#@¤¡ƒc¯`3æ/#¶ÁkÚƒOš¿ÑL·^ºY¤ž¹qÕ[ËC½Ô¥øšaÛ¤«0Ïð¤êq5éûæÚf«IŸ¥½]MÎ—öÙ£›9¥©8PŸ£#»á§RáIóáêÇß1¶ú¹
+ùÊ×BÓ´c{aøŠÖSÏÍ79qm¤ÏÖwÆV{æ¥ÿì6šW|Ÿ¿%°/O·ÇGµ¤—†“ËÜæål24~¥J¾¤Yi¥Br3¬H¦f’Öòw†&Ó'rJKz­íHõ“Êø¼ƒÝdŽÎ|¨G/ÛÁ6\jš&·wpvÒØ'sv·¦3KBÕ:¼Õ µã;Ý \ò6’Ãw²*Š™CZ­åLcw¾fZ“•œÔ#ïD·šdÒ¸>*ƒûØä¿¯ò¡)ƒ$ó`ùµRØ¸i²¹=²ðå}¤óJ±…òÊì•©M±î)Má1Â‹‘°u_[Bâ+Î^ˆ×ÖÁúmÝ}á#ãÐO×Ý½Ì¹‰Esè­7ÊYmÚç¿Ÿf®ÏÒýz¾4z•ô‘ï¸ÏIýØ}-ÌsÔåEÂóY¨yöbùú5ðüãuÊ”¦9L˜~´Å4ÛéXÉŽž^í0¹{ü¼&MÞ)‰í_áØúí¾¬_«ï¾Ú&K#”7ûûÂ×QîþþuÊk h¾µÝ×÷óÖ2ƒÑ¯WÛ>^šâ¨ç•2©£=:<3ž¯¿½hñ)ÔxÖñÌ}9÷™šŽGÄÊ;M—ÞçBŸ# {|V/MÓ­§©êT!Ñu®__šÑ££á<2ø4œz¶Ã½4VˆvÜÜdÜón0+i"óèsÙëù¼"þì3üZ-îù\ŸÂ;õ¦Æn¦ƒ$yË[cKã­ù¼èýÝ~Î:G|ÞpÃÝÁÖðÓ«ƒx§9ážíe¼Ö™ÙOLfëç9sê8;_ß	°©q©ùÑŽ­¢16^Aýµ>jXÝŸH,½ŸÎ¦´'3¡_ß±>oÄ'^ãÝ-1NíÞ´Ò']3~6˜}‚¡½JûV:ï¨i«Ù»“¬2DÞWC„—ç8DÒ˜ôª£é¿´7›ó¥¹.¤f°Ó–‡zT]C?o¦6ßæÝG:ã(L½2àW^	4€ï/|ãüKõxxwœí›´§zhIg¢©U¢&,yg®’^k».ºÀ¾ôÍ'-ã#?bz2!‘Nò$¤WÑ6ôdíZûSí]Ó[½«©ôõûæXÎzûéÑ;#þ|ºZó¼/‘ÞC×S~mÆD>‹pÀ,^èb%+eeªõÉàùŸÆ ºIÃJ¯I®WB§q
+Óû¬Ï#Lp²oTŠ'èU¦ñLó*så3¶|Öœcë‰æÓ,{íÍje;¯ÔBÎµ‚`ÎŒòÈk»A÷ìfÕ)¯·æÓ>Yyý„=¥P_xÉ™«;ÿ‰ó¬qÚž+„I©p$qºÄ9§ìdóÀLü±2u2ÌyçM-I"Vâ*Ùóp ‚ddhœY…8ïlõþj…·¡<¶‚Ý {…¬ŽæfzÎ¥Ï¶±z0ÎŠèlçøÎx¸åÛûhç§o£¶'ø¿IøÒùÃy¼…ãÓây+çÍ´·\Ð MîÙâli˜Ý84ÿ¨ê˜ÃArþàñž;€Ÿ_Jñ¨ïw­r{½”?Þ)/ñ¤ÕDÉmbãûÒz\±SÕ¼ÑzäüpÔwi²º_\”Çò³Ù³N='‘_Z‚ní´“-rœNu¿»þj­X»ï¼‘aäbÀ–æ§(¶s¦F„Hm­½Õi4Ÿ„+Õe0>ïHì¾->.ƒÌºPZâ+ƒ;‡#Y@$3I¡L¯'úl,ä|¯œÆ××ÓúäÅ»9‘qºì¥I‡>äŽËOÓŸm^ü§…}òÚ–ãé›kâ^ŸCê¥M{&Ãƒdœ”Aîaúú¥æŽ#›Ê/Å›s˜¦¼qúbnŸ;mP®îþdõÍj¿’1Å)1ö2ZÎ³NéÖt¦°øú»5{¤CÜòº=û*H‘¯ÜN<p¬)ôùBEôz>e?Îs½ð8œô±Ÿ_ÊðDwÙ*­ÓùÁËÒ#ŸÓ™¤=d¥?[j ¾ò)Á6ÚÃMÿ^Ï§óýÉ|:E_½µÞ¿óò9]‘¬QÇÍz[-Ÿæ8ÑN˜þ¨E_š¬î§;àôµ¾û!êöS¯§"Î“ÏLd^Ð­
+ÌYÝó³¡M`]¥'ä~œD9­Àôþj8q‰=W{†‹Sê™‚X¯‡Žó¤OVºSz9•ØWËv§•9Æ.K±gFï¾ÄÚUÚ•åã¯ÿõÛqtàh“Qéñ`¾8ýN\‘Ú]qú9·G%¡ÑL÷“ØÑH´=¨V«pÚIÌHZ¿ßç u®“I@ŠiøÚv
+Ì$å!OÎÑóÑƒ÷Th‡À,]qhkXÈ<¤—X3ÇÔ–2u&pÒ®Uûô³Y:ÐPR$ößê$Z­BBktJ
+HìÚ•åIÛÉµ'Îg/zrmÅ€9{iô|†ŠÔÎGu¡ï…“Ó¶MƒìZ£rŠ—ÉtÝ¦ÑËcûÈ°wFëIL?¬eËqez‚Nj-›ÑI#ƒè‚cJÁR¦¤©‡Dh\«”S¸V‰ÌN¬åQgŽ±ÍRìŸÑ¼8@#ÑD¥]™ 3rÅÅyô^È´º_'Ú»p:âÇ2ñ9Oj=Ô­aXwô˜S]¢Ìc8L‹M‘˜èc sµ"gSiSŽ'=Lît1uÞ«Üò¤þ.5~g…“úw¤Ê1m…ÖíK¶ôêj;Þr!S"ó¸ÿÉãL´÷>3õƒ.š'SU"P:T£•9k ÒÙn vµ<àP«_¾zë…F¾÷Îýÿþ"¡Åtz"7ÞnÚáñ¤¦5´è	ÙÑÐKÕrÆéÂ9©N'qÐKZ‡ƒ^ªÓÈ¥¬7^ðtITÿD¦dUˆ^æÛ,Åþ‰ÞEÓº“X¶W¦G£„HïÈÔxiE³r«`ŽÖH™z²§²»©Imž7¾Òý–ØIý¦«YÌ15kÇ¥»šÕs¸fõØ¨¦IÍZ*ùÏ5‰=}•xcìÿRôÇ©5¦7åœ¤Ðó$Š-äE” ˆ‰>©e[£\ñÄécD_Á$tÛé¬!»Ó£èó<Û—'àÉßïD~šì{_!fv)}<\]ƒñ§Dµ|û{/Ú'J!H—Oèãdá½œA•ò‘uü.žië÷/J×§LœT:Ð)m.›MÇw>|(²žÍ¯WÏIR¨@—m1½w¾îT“$[']Aš™ÚO»ú+ù$²ÖçïJF;Ì©Q¥']}@ý(ÅÇå·“~ÕþZ(0Ë‚¢a•ný$)&rŸ#¦våwxE²ÆçocÖöÅ~í‡^Ò$t\uj}úóûð|ùÎ7úïó…©åã‰™y),[Š¯hGÿ¡²±Ÿ:'Ú‰>Ï³}y‚½cyãû÷µrïê(6y	èv®ÍÈ§í|©¥9éréFËö×ó¯H‚¢+–”Î»Å°d¢ÖÄzÚ[Å¯ðˆ$¿ß×È”Î55š\Œè~Ž†Ä»ÊØ_z&aØˆ|ÁFªgBŸh'-¾j Í‰¸§œ‹HTC.ÖB¦º)Ð¯ä$ïßÇ-wÂ‘¨¾‘_/Ò£{Š‹œ~ˆ[¤¾OŸ¨4'Âò ENèÒÙLÑíÑûx‚|#iñúû67ƒosBŸ63£os3ßmnßæfµmN(ns ©Í@-
+ÚµÍÁ¾<l›³¾[Âžâ¤ÑËI=òi9ñô»}ÏNé¥&Y	_²±¿ƒª¢5Jz ƒ\øÊœýMvž`ûbßll}$Øy‚½®ß—·È›.È’9_Œ¾ÓµÓ›¯œhá$yáh®fžÍ¯ïº#)T¢$ÍB‡“8žÞ{g#ëeê¤„§÷~•÷\ÿáýý¾žf~W$Ã½û¿õµpŽ?QßH‰r˜ú›¾ƒÌ¯…ßØ$)_N'ôîÿ I}#ô¢ç„Uü
+Ž¤õ÷ûRÓje¦ôEíkÊt„ÕÆ¹NQF`môl=½‹H‚¢ñ—Ò{Å’<ºb½2öb«ò+<"Iãï÷50ÐW&úK¥w×Ã4½!Ž(£·ì1eûk¦:F’BQ_©ôîí Iý ô¢Ÿ„UþU<:’ÖßoK5S¬6VJoÄgJÕŒ»vºíi£5÷B®ùµ%–R|¡ºÐs–äx°^‰–Ø•ßáÉŸ1*ÉÒ¥×Ê³1ÂiãŒLg¡÷ëÎîq®!CþäCcÄáž…ßk¬tå+L”sÒûù$$W‡>ðOÀKhpåø>’•ÆjœUçÓr&]ùF[¥ödëöQòð0M—ÞŸw—>A£IÕ úØ8à´NO†sñaüarýT¾œ^èð\9¾/ïì®—QúÔ¾9´—A~#ý^1Û_“ö2†âï¡Ï˜Ÿ$ñ=Ày“¤Þ’UÔZñèÔZëï¿¾NB´OK'y#œ+;äÀ”¼ä×"o¶l©èßË-y#ÌaßDéA~•ï;óF`½ßŒ¥c®6V†ÞˆÇÜL¬8_Ä*æibK0±RŠb¥t;—%M+ä!Â·[•_«ÆÊûû‹1	®@•­%Â)ýŒvJ|$¦ŸÑŽ$¥«GT¥ûû Üö"Z.ØÎYaùhäý‡>ÏÃ<!ïÊð}YçYë´ii„ÓÚOº&(ðû°²ì'•>ÑèQŸèÝÊwMIyž&º„ã§È¦yÊ!Ú_¸¦öñüƒW‚oKº p-PéÝŽöb½¶±zVó´î}¢æ×LTŠZ hjG$‰6Fzµ’Uýµšèüý¾·ŒÔNõ*èýE³>HÎ¶»Ä—•Ò©Ç$oùÍ¯‰z–Š¯gºíž%õ|¬—©s%)E¿rOB’Ößïßñ}3×ÇÔ™«á|AÊLÞút»æ2÷¦R;ÛÉkøÅs}BŸÙ:Èb.Úu®öñûv¤Õëï{Ì0ÝuODïo‹m'F>)´·¯¦'É ×­A³1¦i8‹.ôE×„¨ŸÎÙ›$êÜ©EaáPçiò€eoYÒúþ}	Çôï¡OÏ>ƒ}'Pž}'Ìlß	³Øw‚PüNúôì$‰^Ÿó‡È;¬âWñèHZ¿ï'«+•¡w­êÍ”
+'^¥FöfJµ(S*C¾LÈ”
+’\×p’u‘­â×jJåýý¾÷(Ãµ„>c­2M©8'Ž~#Ô”í¯Ù”J)þFúŒ˜H£)Îµ#c-²Š_Å£#iýý×ž_ßJ7ééñ}Í=²|}s_Ñ—“¤PÕ÷ôç’Éöôòõ«øåþÃûû}\<W…>õè¬ìJËÝ×À<l\ã'S…â(t£ëðl$½ZÉªüZl´þ~_ªXy—Câ$` 3]KOfåpîíYT/BoêAßPòûäõoHƒN‰žö8…¥W6è+¼¡ÎÓÍý
+ÏHÖøý}_ØêYIÐ4 ÷^õ*<³j-Uêï8ICEoØ†û•®2„,¨L½¡Ðq÷i,¨¿c½½¡ØÅïðŠdÏÿ:k"‡Â…î³&½ž÷†?”Ìšè¯Ô7°¤PuØY“5r.glÉ²gT+šeÍvùWñ‰e­ÏßÆ,ZEÐÓºÂ™teýüœñM<kÆœ»‚¨¿÷Ó-Û_;› Ë4i?ÏƒÓ÷®ÈÚO‚Ì/ëfÛò+|…¬óý+qþ4ûI•>c¤}aïyä€’…¢9ÿfm4~`IP<ºúŒHrðÈ‰3YÈÈŠ¬Ê¯ðˆ$¿ß¿ÍÆðca¡ÏˆvL;žÑ…g²cá™íXX(OÌäíLv,<£iÇÂswGÒúûýÌAäYL¬y}Ö,â™ÿÄzF<³£ºÞ»]íˆ<¯Ê’ xµ4­V$V2H¯®tUù•=bIãï÷¥âC´R*¡o9ØRåäK•³-U.¶TBq©@“o$	¿I¯–Š¬âWxD’ÖßïKµºœ·R €>³÷ídµ	<³ÏÉdÞ¿ñ| üÎéÞXÏü}æïE–g÷Y·Ìý³eü
+¯HÖøüýª)nçÓÛ…3q,]xZiÇ­ÜnH4­ºWÃÙ«ò”ž„>6Ž8í´Ñ°Æ^t=+nP<ô¹”•½Àâ%kðåøuy))DãœÂ™gåëX:3çwÍé@4ÊëžHtÑ'4=h&Åpz¦'XÃ Tš7¢Ñ\‡z'ÄKÖàËñ}yìEdà´s]i(ñ\nEøá"°C+ÜÏîUù•Æ,*ºòuæÊ)‘ž yÚ•í9r)Ù6~…gu¾ÿb®äÌ¾ííÉVÁÉfH*]»>4Î5£‘¯&úÌmŒìŸ˜…³ÐÇÆ‘ çŒŒ†3"06}$àž€—ÐàÊñ‹•’IGT9è|._ÊÏ~…¶ÒïùzÉ»qèíÇî/º}"»ªô±p$À‰ñ¼ïDÃ²5¬C	xAOÀG’w%øÅ#Z‹¶	=˜“Â™%	­ÐÊ¹ßàäDŸ–G#}¢Ój†h`šlÐUÑÌ‰z3Öû™-Ñ Æ½ê…<¿¡Á•ã_íôeeÓ
+€“ÏWr={d
+ÕHNAPøZøUq³ý•¾ö 	êh¦¯qæDª‹,}tŠîC§É2~…Wu~ÿ¢/ÔbôþVáÐ¾ð°ßgf={õÆ×CŸ~ñÌƒ›'h/ŠhšwMNÌô¦€†ÀzÃÆ¡O¯/ø	ñ’5ørüb¶³Nº«A3–€ÓhWßÞßuÆ§«Wßk‰’ãäÐŸ9Òf8{žÒÊ3U&æH‰ÎgˆÊ&ÚÙ'Úý÷_Æ>ž€ÐàJð‹Èv¶$·¬‚½#Ë^i[ßu‘ã„:1Ú«tú+­à‰,hÒNµ€9½PLüÞ7>D;Q'ž£›_ÅW–õ¾ÿbMŒ¾üÌ¡}pv*ß±W¡Ò™¥o9äOôYÁ:ý­y¢ÒÙ-‘gš,	pF¢'XÃ8y¸M"žx™|ßá3ä]¾ï‰zãç4‘8å¬|Í~r¸îïºqÞ’è¡~?ö9Ü{†½BçÂ}’pR$ÐãéwÄFÄäâž€—ÐàÊñ‹Õ2j)&íƒpÊy7½KhQu·ANQ©…î}IòKÁ»–¥@'ž{RN¤Ý·,ÊyK²æC§É*ýª>‘ìåõ/Ö=3íq§¤(Ÿ–Co‹^J§±L´Êˆ4*•ÇGëµ’ýƒvÒ‹Ð¹ðlpÒÁB5Äh-ÄHOÃúþAÖ•à#†Ì«’9XG	{xÔu¤MÐ•˜Ðx„<1è‚¢u%F9ƒßÿWfzTX‰øCÖ•àWß1ÔkÑ]ðŸ–3Çœó´¿ÁNŸH}Ãdû+÷§úh§/æ4GùT#:^!ÙÆ¯âYÃ·›õýûz»÷:ŸÝ‹š
+^oßIž(Ù!­ÇKòY¯_ôg2OŒÓ–TƒÐ2×(^q1œ¹h±yOz'à%4¸r|_Þ=ŸužKéxV”"}_ð\R¯`ö¤·ì¯5èL—RW£ˆ¦ù*’Ä\éÕ™.ØÕßï"Yãó/v­ÑŽ[“ŒF8‘v.¥V¨¦3§«ékÞ‰.’'rˆÜNIƒÐoæÔLlÓ±†sÒ®©¦iÏ[áUR~‚¼T®ßÏ5Ÿö€Õ¦¶7ÙÔ*íÏ{î-uú">{þjôÿvöDŠQ¼.ÀT$]"wRÖ±ÎèIØ£ßÈÈ©Ÿß—%u[¢àSN¶,”‡eÙé†´,t?äˆBYˆ‚O#I'Ê{ôù9õóßâÒ]\Æ—aâ2®¸—áâÒ]\Ú—fâÒ®¸4—æâÒÿqé..ãŠË0qW\†‰Ëpqé..íŠK3qiW\š‰KsqùuYšä‘¸ô«½tÓ^úÕ^ºi/Ýµ—îÚK¿ÚK7í¥_í¥›öÒ]{éÿ‰öÒ]{éW{é¦½ô«½tÓ^ºk/Ýµ—~µ—nÚK¿ÚK7í¥»öò/e¡òºöÒ¯öÒM{éW{é¦½t×^ºk/ýj/Ý´—~µ—nÚKwí¥ÿ'ÚKwí¥_í¥›öÒ¯öÒM{é®½t×^úÕ^ºi/ýj/Ý´—îÚË¿”¥Ñ-Š6.ãj/Ã´—qµ—aÚËpíe¸ö2®ö2L{W{¦½×^Æ¢½×^ÆÕ^†i/ãj/Ã´—áÚËpíe\íe˜ö2®ö2L{®½ü²,¥Ì¢eE>•½ÙXÊRjèZ–²óÿIYJM&ž È.(òIå¶¿ÐIeQ{ç7ö…åŒŸßï¶±qŸl\JµqYT·e±q…²Ø¸¨•ÅÆEíÑo6.ÖÏ‰’ï25|\Nûf¹í¾ü[2ý¨nãÂmXåšÆ…Û¾ÚkÈ?ÿ%.(Kµý˜àÄþÚ~Lðåßl?ªÛ¸HYl?ÍÇ…³ý˜õóßââÚK¿ÚK7í¥_í¥›öÒ]{é®½ô«½tÓ^úÕ^ºi/Ýµ—_¾+Q^×^úÕ^ºi/ýj/Ý´—îÚKwí¥_í¥›öÒ¯öÒM{é®½üº,TÞæÚK»ÚK3í¥]í¥™öÒ\{i®½´«½4Ó^ÚÕ^ši/Íµ—_Ž-¹¼Íµ—vµ—fÚK»ÚK3í¥¹öÒ\{iW{i¦½´«½4Ó^šk/¿.—×µ—vµ—fÚK»ÚK3í¥¹öÒ\{iW{i¦½´«½4Ó^šk/¿ÞiVíw%¨«½4Ó^ÚÕ^ši/Íµ—æÚK»ÚK3í¥]í¥™öÒ\{ùÇ²üN®“ÿö×zúöúçßŸÅÿuýïÿ¬ú^øÿqÿ{TÿóOKµuíwäWJ¼eoõí8	KÊÙršŠf'€:Oã÷pÒ¤´‰g'å©XîÃ#gZÆr
+N„TßÇñŠÕÜgª?õÅÉç 7ùg9-RN•Ú×%xÍí4k}/ WçaCŠ)…ápIEJÐÍŒ—ØDÅ¿ãU%/n;¯.'xA´§nA¬·Î8Õ=™Yò½Ô+:mpåÐf#Õ'Í­zÛ­F²-ÑG£E2+hÕXÁ²Æ
+ÞId¤†Ã¥T) ¡š–Z¢êŸÇøI´öýÜ{yõu­ÄPZ¢$a™vIfØóÙn±8ga•8”Œ«ÎysÎ’¯•ªgŠÕ¼Þ	Ø®É˜à_’VŽ§†•'k©HÉ6ŒæH¨ë±'çÓRHh)¡U‘€e`ßÍ/ø¾©Œ{¯-:¦hÍ5¨ïÔnÅE&§~qö4õpR©&®¹Ð¼S;t«”9ý—x˜Îb“ÅC9@L¥€ªjòjb£þ­%€„–Z	XV´à!úñãßÖêÎM#;µ«Íi']µüEŸT'¡ßé©§MJ~X#ž©tä ª•ûP-%ÎàÄl"µ^ýd[4ï´‘ÞúÞ¶Ä?Ë•S©ÑoÍcPo¥ÖÇÍìáN78])‡KªR@C5^jˆªãÑ
+36J™‹h-N!Ý@,˜Œ„j“ÓYù0FõÑYðœ·‚åðF*œ·‹Ñ¼†ÎvŸ‘l#ZÂ4XFð­‚¨XÔÅ;‰Œ”Àp¸”*$T3ÐRë@Týó?è	ëÖt¶ëE^ö[ÞRº…‚ÅJóÜRÔþwöÝŸt˜¦ãÚ8ÙÖPœzá´Îi'EªM~OˆæõåK½†Xïcˆ‡«CúqRFæj©J‹ò|ô>W'ik³v'üUß„#þ‹””Q4b]°bïÍ/ø>ˆTK§™H5$·Rë;Q½‹Ôú(j>Rm'¹r‘Ž¢)EšUXWäá!bSÎØÒÐœ”J%Öë«}K“U¡¥{ã8ZHi)¡Y‘€uEþI´.ŒŸD«µêbÕ
+zÁz£ïãáú¶½bµ*Ø+pH)bÐ¬¨Âº"Oþ!2{Û¡ÔõŠÔ8é¶­Î‘û©QÒ)pÔHi¡Yq€uÅ
+þi¤,¾ãÔ×ËØFélstXö˜
+,Þ=–Œg(&}¹ŠŽSÛô±]câ„´¦¬™6\›(õ½é:i);Ý2ep0ÆÊÈ0žF/cnls\Œàh ¥å„fÅÖ/x¸ýpø¾Ð÷Iœ¸ï1v¹2¾qfüç~Î”ÅRŠ4+ž°®˜Ã?÷-–Ã›œUŠû(£™û1cû:ã!8Z
+HiI¡YÑ€uE"RãFˆÞèjo}õ#-FZJá"%h‰fAT¬êâŸFæ¼³-Mou)~ó›HñèÀDŠG&Ràh¤ ¥‘‚f¬k¤È?Ž“Ã÷AœF
+v¦æÜÿÜ\ÉHñš©YCÜk¦f¤|ÍÔŒ4¯™š‘Ã5S3r¼fjFN×LÍÈéš©ŽÌ6‰”Î^B³Î^ÂºÎ^ÂC™û’RNºfÃÕLx©m ªþyŒŸD«t;úy8×,è ƒuÕ2¯YÐUÂ{t½Ó¯YÐÚïYÐ}ÔÍÏ‚Öém×yÏ‚‚£hŒâ­Š(,+êðN#ƒ(¥T) ¡š–Z¢êŸÇøI´:Í‚žc8V²¿é¦àÕi´NA´Ó,h‚z§YÐ:%2ƒfA-‡fAÔh¼eR4šÑ1Öõ:ìŸåAR#Ýš‡ 
+ëC‡‡C¢ƒR—T¥€†j&¼Ô6Uÿ<Æ¢5Ä4Z3Ð
+ƒ"6­0(ª3pA~†Z|t&_^`9´Â`¤"­0Í±xÛ‘Ö4ZÂ4XFð­‚¨XÔÅ;‰Œ”Àp¸”*$T3ÐRë@Týó?™,Õ¿·6Ç¾9}­0,ÎµÂ°8×
+CõZaXœk…aq®†Å¹V6Ç¿·”ƒžF¥Ð©fôXj½šzˆžOKa8×*Ž¢¡šKõ¶ËµŠscü$Z=ù÷Öæø÷Öâ\«w‹s­Þ-Îµz·Js­Þ-Îµz·8×êÝâo{\«wÊQ4†[!U­Šè¸VHÕ;L¿VHµ”*Õ¯REK­÷k…ôÆøÙ{+PÝ-|ïæâÔéÚ©ÕOÓÅmàš’~.‡ÚWgu¼‘èÛ—k=^–Î¸ž;ktZ'Æ$lwv¾¬4<Áœ\::™2“ÓZ:.På}uZt¾ñeâ;h”N%€€j%„`ª_Ó'ï©H·MktV/Ï½á4ãI·c\L>>8xÌÄ—ŸÎ”èÁHäœ}|f.¦VÌL_Èá
+,Á(‰FAQ¬
+ÒâÇBüšK¦(½j>°Õ/é£µúÊ)øq©ãä¤WFÝeÍ_9$óû¾Tž{‡/mV£Wiµ‰¯œ§¾ä“Fž”9(e({ZíÒó7ýÔ‹Ø
+¥Hf?rHÆ¢Ô&žþÊyìG¥õ5úY9íqv{ËÆ››&‰/:Þðf_ªÕ7õì6Ö/š$>¾èx#FY./e[|-*èÌÊÆä¦ñüÓ:«~ –ª'àÀ6Ixê¹hƒê	Z®zlCæ¦Ÿ{ƒÞI½AŸ¦Þ€ë¹é½‘ºŽÖÕI×	ýGë¯×ó†GÚ¶ÁÑ¶û_9Ú¾½ž'#†Nƒ³?òegžD\F7÷u!ûÝ_¹:S¦/†\øÐ…/cÁ3Ó¥m†SBq2%ÒHJµ–”É±\ÎÕPä›ÒáÌ
+Y‰=GÖp’r[»¡òþñmËç¿áp	U
+(¨f ¥Ö¦zèñ}!R}69~Köûìq!û¾¬Ûrô}™@´eísâÆÃp3#Å¸ÍŒ½±~¢Ãþ)½Û{q£Oš­ƒÇ‰°;Zðõ¨ê"¥4—O%€t%µ
+$Õ3íQê;‰ýÞûåá¾îØ—b'{É®œ;}ÆtH(h©ðTÍÀ\­STÈ?¥÷;¢9‰6$n¬µõˆ¸±å}y¤¯C­Å«ž—R¥€„jZjˆª‡ã7¢Es+6Zõ¤ƒ°>VþB@)öÞÅâKŠï#`<Z*D¡˜«UŠ
+ù¥ôSøÖWÎ"«sÛdg·´vÕ¡ÒÊUÏ‡Ë§R@@5%µ$ÕCíQÊç
+O¥<òåc>iŸ\9Þ@RVìeU<„#˜‰pUÍÀ^­StÈ?C‡(¿“D?Ö*—Šå}TÁú–Z¿ê™áp!T+RË‚¦xçñ})Jî»÷Šò¹³rÒ—|’÷ok;áïy¦`® ÖJ±;×KN;ßÜ{÷è¡ï4šW¯U¢µät¶Æe»w±b–šèˆ("¢H:c™ÀšyÁ|üŠØ	+ž—N¥€€jJjHªÛ'Qê™’Ÿh”L„· ÕvôÑN©§æv¬JTv‚¦bé‚¨AbPâO£uœ‹H¬åq®y²‘G±€”âÍŠ)¬+îðOcƒNÅ>H	Õ´Ô:U=ÆO¢5Óp±ÚW6‡ØÌÓÉûQ÷Ù’‰ÌúÖ¡dJ—âZàâTÚ·­‹Óhßìn?“°à RÀJ5OµÌÕ?J`8ØÏ#‘"4N@JãDXj”,¶Ov4Ÿäôò~Út£à9‘Þ"‹3Ïå&ò¦©a§³´o£öîùè9m^Ry÷æÛÚ£Öóä:Óáð[@¥ð¦PÍx›¨uzß¨x#i”ƒrBH¨V ¥–OñÍâû<Ní©eŒ»Ô;™©÷»i	it§Í©p„N ­VŒ•”ƒñ”JaÌ¥z1.3µƒÇn¦5<#µL8RE
+(¨f ¥Ö	KõÏbû<Fø~RËø‚Qïð•£%À—–_KŠ„á0Z*DU3PWëˆ¾>”ƒ/•ÂWŒjÆ—ŽZÇ×©IüÅdêšpPR•ªˆ©uÂTý³?f$Ô2æÔ;Ìh	0· ¥Äüƒ"a8Œ–JQÕÔÕ:"ƒïzåàÛ_¥0? šiAmcŽAý£Y-h”Q%€t)µJXª_ÛÇ1’ù=±,³lâ›ÌÄ‰ÿ<W'å“Ù<AÀr%‘aVFÚXæhÈì˜r0ƒ¦R˜eSÍ˜‰SÛ˜­Sÿ0£§ePJ©R@B5-µNxªßÇã¼‘FãyX½Œ41—xÆ7#Ç€ñ¯¡îÓŽ’FN¨w<’²m‰”ŒÈD³ŒÚÄ¶ŒìØ?Ë‰y\R1UH±æ¤Øz<n[cp#=¥¹” Ð©HÁ.°„gÛ¾œL”ø[ÀD‰¿Lœø›ÂÄ‰¿;$*òmb9ôýb¤øÇhæï c¿•¤¬ÊQ4 ¥xA³b
+ëŠ:<D\P¡+â	 ¡Z–Z¢êÇø…Ù-þÎ6xñ·¸Á”¿×îüMobÃßý–Ã{8TêÌ½<¿`lŸ)¢	H(Z¤Sñ„UÅž!*ð]h.J Õ
+”Ô.Tß<¶ÏÞOÝïÖûtêÙ£‚=X«_n~¿Þê»›ß¯wúw·_/¤ýŽ°(yº•âÕTs¦+WŒõ’ß¯'Ùa%R²K4ËN-±.»¹ÄCÙñ%¥PJªR@C51µTÕCó“ˆìæ‘ˆÉn@Ál_ñâvì…Òèý«Ø~k|jÉ~Ç^¨Øù%Rµñî#Ñ\O»QÛ²ãRâ%»)’Q¼ U1…eÅÞilPÃáRªPÍ²›R¬QõÏcüä´ÍÎ‚qjËä´èµ7Þ)™Ÿ®Ùg²NûÂZÍnü„á8Sè­ÑŸI™´€Æ^XH´0ïÑc­-q‰åcß”.çT„•Èç¢r«5g^Ë9ÎŸÞ·½ïBÇä%Ñ*(‰eAR¼»°}r~-·ac´ºq¾(WÊté»A³$Þ+ˆ—Ú\L¿o…Æîd‘h“£*Z{¬¾v¬×R¢”%p4NÒ8A³Æ	Ö5Nðã"þÍ%T	  Z”Z&,Õ7‹í“½¯“ÎfÄWŸìr¨ÿN	ïÎ)bŠ{ß#õ)t<Ã'‡è*ÇÉXu‚T”4Ç(;æÙzÄÞñ0^ƒ“N•Îzè’Ú¹²Õ<v®g}>w#*¥))©h4Äº &ª_p~!b'³Ó°[¬/3®}–ê±ï3cu“ãs2MyÎþÂŸNjïŸNóÈX‡õ5p´%í#á”£a8Œ˜È0¦ª¸«eÄF½Ž”@¤¤”¢YÛ‚–ø7±SæÂø…œ;kLyeG©»ìH#õ+;ÒHíÊŽ4R¹²#=nªN*ö+;ÒˆíÊŽ4b½²#-Î•Ép8ï‘âÜ8F3çÏ1Ö#ü‡ËŽdJ 	-%´*°¬à[Wv$á<TWv¤Å¹³#ÍygGÚ5ÆçBÚ©ú/N¼³#í]p>;Òž+óÙ‘Æ¸³#qgGRr©ò©fä:Rë”IýcºßÙ‘´”ÐªH VŠ¢Eˆ~|ÁøÉØ¢â\æÓk‹sN‹Uœ®8kØø„Y«8kØß¡â¬axŸã¬¡rpÖP¤ÎŠæ†³†b½á¬a–\8kØ$«Î–[óî³³>²hÆYÃÄ-IJa88k˜o4T3á¥¶¨úç1~­sp­³†‚ØÀYCAuà¬¡ ?pÖP¢3qÖP98k(RgEó,ÞöÄYC‰8ŠÉ(^ÐªˆÂ²¢ï42(áà¬a¾‘PÍ@K­QõÏcüèd(_,4&NÜ„qÎtD~ãÓ×{›YÎÛDÊf2‹œ·É”±e½e
+]4*t£ëT"Ñ%ZFkštÉ,ìæ3Þƒ_–Ó›ìe™^’ÓÚe4Ë=Ê™ö­‡á|:"$€€j%„`ª_Ó'Ñ)tõš‰NáëÕÓ^áôñÙgÅ}|*.Ïáx´T\|v/ããÓh&ÜhmÝÖŠÖ)W’FE$€4*Š°ªHÃ/Ä~ƒFÉT¥W­Àv úå1}î¶3‚EiÄ»íì9h›Q}Û™Í·9|Û©!ßv'Ú¶³èäÛŽr€‚ÊNªU‘„eE¾!ð]è|·  Z	!Djt<¦Ïæe}ÛÙóŽ¶íì™IßvjØ»‡C{ç¢ÔøÔ‹m;{å®^ñÉ#_ñÉ³«yú¶£I 6ÐÕ*V¿(ê·ÐÑ·-½j>°Õ/é£ÕÂ;Kóœ>Kóœw–æ9ï,ÍsÞYšç¸³4ÏqgižãÎÒ<Ç¥yŽ;K³p$ÿ‡HIŽÑ,YDÄºd%‰”Âpî,Í‚†jž>K³ ªþÍòR–æÙî,Í³ÝYšg»³4ÏvgižíÎÒ<ë¥yÖ;Kó¬w–æY}–æYï,ÍÂQ4ªÏÒ,ZÑzgiï42íÎÒ,¥T©vgi´Ôz»³4_?™5â¼4œ›âyiL®ÎKc²‘p^“±„óÒ˜¬&œ—Æp8/‘â¼4F3ç¥1Ö9ÉtŽfkÔ¼sÿ˜¬/°®™aàá¼sÿXN¿ò“Óçþ1¶¨úç1~-Îùd¢Å9ŸbœóÉ Ê9ŸòœóÉD‡s>YNºóÒpÎ'£ùä|2¶9Ã“‰8ŠÉ(^Ð:ï¼Zux7ï¼Z†ƒRª˜w^-cˆªã'Ù>ÚYS^oÀÄ£
+áÔBsÄkÔJþþ‡¤>¾èyÁ£³+8;ÆÌ´SHíß–úø¢çêÂXÖP#Ðn1±ÿ•CR_ô¼áÑÞ9’œGõ¬E;û_8$õñEÏ=.ëÎ£™y´%ö¿pXêã‹ž'%š+75­Ç!ó¹Ý/­Ù^Ï™š-º¥‹ý›cj¶×ó†GZ³ÁÑzû_9Z³½ž7<Òš-º¥‹ý/­Ù^Ï™šÝZaÿÇÔl¯çGëuE_5bzÎ(ç&¾r:bèt<÷eçé‰Æ—=û×å¯’ù¸t<ö¥Çó¥(¾ôÀëibù8$óqéxîKÎÚÓ)ónb±ü•C2—Žç¾ÔÄ§,˜.‰w:‹å¯’ù¸t<÷¥Ÿ{HÔ—–x«XþÊé|w‰×ñÜ—™x·<Ót+€µü•C2—ŽÇ¾¬aì°mzéaÙò?pHæãÒñd¦ið7ñF8b=¬¾åhñåÒñ‚7'áH\ÈúZ¢téxÃ©ÁÂ‘ËÖoZêï¥ão¤mGÚ2[¿iiÙ—Ž7¼‘^O8ÒË±õ›–>ïÒñ†7ò>Žôÿlý¦åmpéxÁ}S
+GÞŒdý-ïÉKÇÞÈB82f`ë7-#ˆKÇ·µÐÜmA-HVH¾§…|ÝÔ‚ä…ä{vZH×mA–C÷õ)¾ÓÇhæ{Œu¾ˆý³œ˜¯Û‚Z¼ï!j±]·-Îu[P‹ýº-Èr¸¤ñ¾;Éh&¼Ô6Uÿ<Æ/Ü¤ÑÂý7ŠîÈQTqŽ"»v4:¸ÇrèÎ+E÷úÍçæc›ïÒh	GÐ`™xßA¤ˆŠeA]¼“ÈH	‡Kï{“Œf ¥Ö¨úç1~”´Ó½0œEolë&žÐ’7O$¾rfÒ;3•ÕøÒÏ.Dõ´Z†ÄWÎS_òH?MîÇ±FOF¯Òj_9O}‰£J†Eš/¥»qàhµ‰¯œÇ¾ômIò¡1-¹ÏÄ—¯É†æt<÷E²ÅA/2Ã©å/Éçt¼#É¤§¶dß.8œ9Odnúq&=©yêê«z¬Cæ¦Ÿ{ƒ6©Þ %«7àÀ:dnú¹7è­Ôôqê8°™›~Ñ©Åàh­éŸh­Ã^ÇÞhûGÛ3Y¿imÝ^Ç£\™ÈÅ·Þrç<`¯’ëf6Ë™Q¤SËØ›[%×!çKêU²–ŸÈ°‰l‡àtÉv©.ù¡¹K¾CXï”ïðø§ôz=óß.ù‡Ó«ëÿ·÷6Ý–ìFvØüýŠÚƒWN ñ•ÃnJZKÒ¨»©YO‹äÛL[mÑöZúõN½#Ï9÷VÕ½ê‰›«É:ûn  Ÿ“»e=}Z,Úa™'V³E;4Ä¢j*µÃÊ9[´Ã™FcšvlßðT=ÊX¹6éõ¨zF:[¬C=i-ÖáŒÔ¥%½y7D­HµX‡šªZ¬CÍ¹Z¬Ãb¾+¦ßúÝßJ”¢5óÆ:±ºLn£(“nýGªiˆX¼Ãèì ùª¥–älñU;¶ïGxªG=Oä©Zõ´³jXë›Äâˆ\ÒM_o6kR-Þas6]9W‹wh¯7Ïx‡A{Æ;¬Ü
+¯2%õ¥Å;ÜUŽÅ;Ì®=ye% Äâj*µÄÊ9[¼C•ž-Þ¡jÈ6þo¨Ð[ý¤F#ó±»:W¶ õÇ"&¶Æümö²Õ"j®ÕbFó]1Ýà·Ì•0ÅõMPßYÌÃ¢¾³˜‡óvŒé–æÎÌÒ‹yØœVÎÙbz¿,Ù¾á©½jìâl1³õÈó°º—6ûzYÌÃ:Ëjö0Älf©ªÅ<¬ö%Ò˜‡ÙüWL?ø½í®%ÆcSZÌC‹cl1Y·XWÓ ±˜‡‘¬°rUK-ÉfMÓŽíû3žj—ocœÑ5Å2mÓ,æá<·Z›Å<œwì{d˜¯#æáÐð°˜‡ó·Å<ÔÇŒy¨yóPå3æ¡Þx9fÌÃìR‹u=òÔµ‚%5¤DZ…¤-[õÄ"&*ýÊµY¼C•Û,Þ¡êÆvý™Qèf±ø¦‡.DãNKµÍâê›#›Å;œön›Å;7ß‚Å;œ¿-Þ¡¦ïPsïP%‹w¨7ó‚Å;Ì.UXóLw¨65éÓê¦ùÅôÄ¢&²ÂÊu³X‡*y³X‡ªÛ÷§^œñøÔOÑbªµâÎöŒëPm-ÖáðÊn±ço‹u¨)v‹u¨¹î¶7ªrw‹u¨^Ú-Öav©–­4çeÏÝb&ÒnùDõÄ"&°ÁÊ3ZœC•gœCÕíúsoÒ7©%‹s¨’’Å9Ô;ÀÉâÎ¯KËçp~Z±8‡†XœCMU,Î¡æ\,Î¡J/çP-aˆöü–Ê¾–³}ALúüÆ˜~ö²2,$YœÃH–X¹ªµ–äiOÓíûó~²QžI¶±–igã1ÓßÆlVÆ9ª3+Øo`g)ŠE:Ô\‹Å:TÉÅbêéBCte©l¬e9ÛxlÕ³­Z¤ãºUÓ±Úh©’Å:ÔœÕZKú´§é‡öýy?ÙÜÉ$ÛìÅ´³Ž•ÀfAVJ›)™% ±X‡šJ-ºr.ëÐ{ÆfO†ØìÄRÙÆr¶YÎª):ZuIgK«¶b5ÒR%‹u¨9«Å–ôTiöD6þy_ÙŠ„I¶5ÓÎÖ¬¶¶`¥´õ³ ë0[O§±«õYëP¥‹u¸«,Öa²ö9cêÚ€å<WL¶­/¬º¤k«¾’,Þat¶Ð|ÕZKrª´&Aöýi?­5>•¼VÙT·µ§ú¯Õ:-ãZÑS; bƒõvó0që éEcê*Ÿ!¶’f©æZ›åk«q&ÛVìL?[Õ³2,$YÄCûjYÄCÍYí¥²‡=—nhßŸëµó7àX¯í©$Îx‡‘ÇAæÀ±RÛ£Ö»Ýâbñ5Õnñ5ç9rÙ»Å;œoÏÖÛÒïPG-»Å;,šÊâ6Ýµ±x‡…Ê`¿-Þ¡¦ˆ3Þ¡æ-Þ¡Ê¶\š¡m?`æ^Ú4bYj³x‡‘g`ñÍâªW‚Å;4$­è@sÖcñ5ç9éÁâªŸYÖïPí,Þ¡Ú4X¼Cµz°x‡…Ê`¿-Þ¡¦Ø,Þ¡æºY¼C•¬]Ú±?`%byKçÙË^:_6ÕÙú²»Îè—otÖˆÅ;ÔTG¡Z k û˜ñ§§æo³„¥0kÍ<Íž&ÕlnšM¯˜îöÛâjŠfñ5×fñU®ZréÆ¶ý©÷n“?}TŸÿ©»?}T£?}Tƒ?}T²?}T’?}Tvú¨Dú¨DúH‘uºGS­@šó:#¤Ò×9"Õp5ÒR ýé#µÆÊyØkÉV‹.ýØÆ?õ–tu§BªîôQHÅ>
+)»ÓG×ÔÝ>
+{s§Â^Ýé£°;–óžYöžÝé#C–5Fše/ÍuYT%/««vË3Z@²;}d–X9«µ–tµèÒmüSñ¾ftª.Ì|5‚ÕU¥·ÕWAßê±8X¡ùXY=¶5#1¯XYîuË9êK[&;6ãª~=j*GÏ2Äb„Y*‹#f9[¬±õÆ#3±RX*+©ålÖ0éj/ÕoXô¯7„·Ò¾Ë©Ðe±´[²iÕ”¢Ùyî_d9¨wRIégŒ¥ÊûaÈÈ9§×¤çÌ%Í¹}ekböšiÌ¢–«YÝ$›gL;C¬–ÊJi9›%Lö²–ê7,ú×›ft‘ôÆnž/Ñ\ÈˆÅ£û.IoEÇYöšôV´’ÞŠŽÛüÖ&½mÈ®·¢-Õ®·¢-ç]oE›ô]oEÛ.ƒ"#>8¦:RTDoEgÝ‰Pé‡½¶©ö˜H•½½5VÎÃ^K¶ZtéÇ6þ©mzc×¼õV´Y,ê­h³jÔ[Ñfù ·¢Í;AoE/DoE¯Tz+ÚrËz+Ú¼¥È²ÆH³ì¥¹.‹ªäeuÕnyFK°-åJ¥–X9«µ–tµèÒmü3Þ*o„Ë+¾™îd×¢ÚôÞv-ÕÝ¯¥¹áµ&w#¼Öìn„×ZÜðZ«»^ku7Â±[í–Ên¾[Îv7Þ¤ÛýyÓÐîØ[) ©îÖ½Ycå<ìµd«E—~lãŸñÖ1ÚÂ)ˆ‹¶pÍK\´…z$mA"fò}ý-øh[ôÑ¶ÝG[ØG[Ø’¶ ÈŠA0Ò¬(šëŠc ’W¬ÕnyFK Hr-ÌËWj­å-µèòÛø§âE=ù9bU"ûF×ï9bŽ[û²bôô_ß$"ûˆÒ4þ*++–rþ’œ…;~ï’Ÿ¥›È³œÇïÎWÉÆPÍf¬û·Ë
+—¯ABùòÿþ =¶¯ÛvùúJ¿rß6{¿G‘(õÅôÛòF%¿Ñ:ÊÐôó—äoöÉý}ž°ìÓ{Ý•·üÛè_‡f––uÿXË¤CV&¬ÆØoñúõë±¢FÐØ`Z_f[Ó¿Öêšý¶:cÈô¹¦×:¡ùk­YòbÚIzÖýsì¢õÅ~‹·—^ZTóU[´lÆ˜e×úb¿­ÆLÄün}›ÔŠ)aÖÓ@~OífJÖýƒí’gÔµ|h$»<â´m#’]Ö8n›F²ËëmÓ3Y£Ám#r]Öhqö{Æ“³EcÎY®E£ÒM¹Åì£qiºËV¬W1å4×~x0T²DÍ¨[	u_¿Gé Å´ ä*R©fAÓËÙôg"ªZÏ¢Þ)©Mí¤±Ü–%5ÞÛ²¶F„›þ(1Î~Ï˜r+…Æ[¹Ž¸t*uÆ­ï(²¼#)Ì73ÇeE•º,­z©/Tïõ{”RÌÒC®AÇ`S®ZpéÅ6ý©Wz*Ÿ™ýmÙÖ÷¹G¹Äïs¶¾Ï=
+XÃ”¿Ïö{ö”šRûQÍyõ´*Y¦ÙÌuÿèÞVs_ý­!³ÇUýFºJ =î*£1jÃô¿Ïó·õ˜3íìMgÞÖ×–m}ŸM3KËº´eRäïóü=½žÒú>÷§ø}îQP×÷ùÒ3nT×Ö-&­3†LŸkz­šÿª5*ß¿Ï¨ûçØeÕ—ù{z;%ü>/ÍWmÑ²)CË®9Øo«11¿Ûš†ÔŠ)ÁêÌÔ@ÿñûŒº°]Jß¯cO{œ´)ýFµì5}ådÞ–nýÜÝìãô•€¢¯¥„4Ï	”ùÒHœ{€ú;ÏFK±˜Êk_MÚIr
+Át³ßrR¢`ŠÚßd«˜kísª%×zØK)C·!Ý×ïW¥˜€\§•@ò´$hÇ¶ý™ït)EO=L/õs>•lUŽ8wwí½šì<Å|¯F÷ü¦Wú´âïR\ŠCÏh®usß^%×9rZ~RdÙBS½=c6ÒÁîS?óÌÔý%„Ó
+ë´HžÖO±}?`³0Ã=Ì~ë+íÚõƒ¼‡Ùƒv)gŽ<kr{˜ˆÌõ„êw!ç¹	ÒçŽåÔ‘~f‰ö0s«>çn1ÚÃÌ}¯€ö0s;Ü&"ºrÒ¼5VÎÃ^K¶ZtéÇ6þ€=LðÖÜ•‹Í;°êÜÝËÏ@ðÎÜ%Dd®ÕU¿Û9Ë~$Èž;–à-E–5Fše/ÍuYT%/««vË3Z@tE²yK¬œÕZKºZtéÇ6þ©}–:ß‚û<Å‘z$ø­Uú˜4O¥:Gë5Hð­ÇnŸÈˆßRÖ7TÆOýG$xHG$xÈ5ŽHð&7Ž¸ïS/D®¯´®¬Ï4¥4Êµ¬wY¦ä~>ó ÝêIwû=K·R¨V®ÃB*U-¸ôb›þŒwÆ;Zèm¼¢`vÚæYr¯(€µ·ñŠ‚úcÆ:‡ßã…•¢h|+Ëµ´µâú5NÆ˜w1+ÌÓJ–£YÑ¤š¥M/õ…êm¿gÉ–o´ôË7jõŽZpy‡mÚ½ó×þUFp5~ÙúÖ?¿¿„/ÿéúÿùEþ".“\‚AãíowäúVÆ”‚,áÔ}´ˆÛx$qþŽa_ú§GéŸ¥ªqÏÏÒ\€e¤±ß×Hê{Ó¼’s\“!L>ŒiÒvD@ÞJ—äÐ	¦KóÊ£t0Ü–CYb•¢ÄyF»oŒ‰Æ!!5“<s¾~“Ãaã°1Æ³*š~ü’ü…=~çí¤Üûq2È[~[¥+CµéIû>yTsâxèÊhÈÔ1Ž-a+Aïú•qßæã“±9>j9Øo+§!¢©¥Ÿå0	VRÓAª£¤ç2<+©µ‘«)ÀÈPf•8†Ö(ó@AVÁ'/Ó©¼•Ž5xK^” ¶(o›ËUoÕà­†±Èd9(²oýCß;º8‚|„*–UÍÆïoÒ­5@úöµLµô÷!)i›ÔÍ!Ö¾Õ¾dŒßß~YZCõž9p9Þö0Ûé”MÜ4–˜Þi¹žíà&B¯sc`xý’§%Wþã÷7ÙH®€\¿[ÇGúùkä/|EZH¬ô›¹‡ÈoI1u0†ê¬9PÞ¶š¶‚UfõÔ+«y¦‹3óã:Œå÷ÚÓ‡Í¹æ'OS¥=ÈÇ¼[?0ÕDÞH÷@Ú@§Ë[?@^ÞÒ¾ƒo¤3y–îyœ;Ê‹Ç3«ø¼QÚ[–~Á£Ê@h„ž¼js	a o¥‹²ÐéòÌû^ç·E¿åIÛ(òVºÒô[®éòÌ*ýIe”wy%½-o¥Sy+ÝKyÇ×-çÞ–r8â¸ÜÂ¸œ·ºcáy’CØ÷­÷­©pª‰¼Ùoµ#ðE:_ãvÔm}«Û¡Ïé×¼GÁïýÑw„¯ùú­_ó…ô¯ñJ?¾ÕK‚~ÍUý»ê7R“þOú¬Ö¯žF*¥!³”ûM¨åœrB9çc‹±W²“ýÖr.D4µô³&ÁÊi:L†é(é¹oöÎrÐÿ 2›ÄW£³¿>–G^¦Sy+kð–<sòÎooÛŽ¾' sÌ!>kLbšÙ¨¥…ÑŽôïIZãJ?Û˜e!cÄ1ÓÏñˆåo#Ó@¦óLÏexÛ»l#	1Ö
+ŒÞ¶Z-F8' 2âhµÎëc<bùÛˆ¥õ…Ùý8T³ôúËF,ãK?Ç#«:b1Œ¡:kT†·­¦-`•Y=õrÄâX˜îåˆE.`oº^MJ6byúõº
+­#–<GáÉF,ù…´j#/m ÏJ—lÄ2åµjcŠò4Ý’§éÞÇ¹£¼øÒœ;Ê{nÍëK¼IË”^[[´–W^Œ ˜é®¡Îþb±oÛd¹êìö–´{ª—Òú&T#ú9>*:îØ^4]ß%ã#M7‘gzæÌ¶ÜÓ{lÉ,H÷ºtGÍlKC^Ú’ó>où<³ÉÕ;Œí±¦cÛ|Ì-Ëöjl;ÓIø€ˆé&ò¬µÆy½©†½¾¹Þ´ÒÙú–¥[ë[Ÿ²¸þ¶®×·]V<Cíû®Ýl!Ä¸þª@êaøSï4ÍY‰ý‘ü½¯ZmáKm5íCúqìóç_õ§²þjü;¢IÞ+Yµ¿œœ³œ‡žUàAÉõ_wd%z¯ü¸—Aúüý½¥Øû[iX
+C¾3§ëK(Ë+'C¾3§Kíëë+'C¾3§°u« ‹&ð®|tï–ó¿^í§ƒáËÕøäÌO•W:Jo^ÿû_þ·ÿü—o¿ýñ?üŸÿÇß¶Z¶?ü9¦_kûMÛoúõøÃõ¯o¿ý)ý–SúÓoé·/ýyÕëã÷å÷þeÿòûÿë—þÍúýÿøå	ÿë—ßÿË/ÿþ÷Ws¾kRYß%÷Ýú>ýû5b²ß½|×0Uv€cH7yw¬õœÆrr¿Hf'æ1aÅþ	¿Í$:li•êóAÁ÷Z}ïôËÚŸbõøÊêûžË¨Õ¹ŽJu!­GY¹¬·Ï#Qöìlî±Îª¹:"Ñ¶aÛ%	aìh79„	+OOÆ2û[!kyÎc(1ÍFÄ>{?õÒc(m±~¾žä=¤ã³êÉþªžä½¨Ñ{yÏûÐeyØcµ—£Û.ŽX%ÿäÎèw!ƒã0&,‰p´üÂˆèF¼*Ñ¬+C­÷=ÌÁ¹ÇÃæ8Aiýíî¤µ{1iŒ¡V]ñXgõEÆæXŒ	+ïJdìo.í¾vÖØOŒRíL¯jç5U”(yW]È»#²¬ÕwÚ¤KãÄiýÌV·Klº¤ã±žSLq~ÞR×7%bÿO°T~e©#ö÷Gvh¡Gì¯õdjÇV¨®uyóÒVÊˆ0ŽMä¯Öî±ÎçÚ™Å˜°Ê6¼nÒ9¡´¨5cul¾Oð²´O`¥­Vå1ÔzµP¡VýõZYŒ¡WP"cèáìdÒðIÃÉòr8bNø%º€”œ+ó5 !@þ~ah8â Á‰•‘Î¡â ×ªF ÈX®rÐàdþ8ÊCl†ç¨7ÎQ™3ŒM²œºyœ#s¹ _ÕA g5y¾`ÿ@™W÷ã °s  Ÿs ?‹ÓHW„ .¬2Ï”Z§ä:¥^Kß;©^9)òýyé$zå¥È÷ç¥Óè•—"ßŸ×œI¯¬&ðÞœ¾or}U’«·oÿ“ëÔ7fŽdÓXýÓfà(R®YYå)¸bkr}½â×²ÓäZ±5¹N}±4¹VÌ´J=¦ÃGO®?Åêïš\§œ+Ì¬û=Ê¯{¥¹µbkvF÷˜Î®™ƒÈš]³4ÆÖ|WTÄé®é<æ±©‡¡Œ6'Xà8¬½•Ùc:hÍ®±bzäëãf×ŸRQÞ5»^ÞÓù&zØc:»N©‡T©0»VdÍ-™ÃØš§‚g´f¼©?(µñŒW1Ð»ïMÆÆzOX=èjŠÌšHì»9¥±Ä‰îýÜÝXù‰ ÆxlÍ±™ÅØšc³DÆÖµÿ¸9ö§ÔÑwÍ±STÌ±ÑZcŽJoÕæØ)ö X‰æØŠé97ÇþK½kŽ½Ú©Î¶°5{lÍÀ°…yòZmÕAk^ˆ­ÞckŽÉ,ÆÖ|•ä´f¾¬9ck}ƒÇ€}ƒÇ@"´.îÐR=v€zì1°)±ïDÆÀÓÚ7Ì¹ö§Tø÷ÌµaH8&Ö4ndÈæO8<qÍ·mp‚¿möD#J†lö•—‘Å€êæ %	Üå ›ë¡ã´ÊŒ£n†lîé9GeŽœe!dó`§3B6ŸveGhq Ñ:hÉ‚æï ¥3yUrèŽ´,è8 -O°Ïs`Ÿwç±¾AÍYå~ß\RçŒùØò8ï4&•ã÷÷çÓÿ7Î“å#'E¾?¯pŒ ô+/E>¦J[k_küRZ–`¤ÚýÝ«>(Åk2Òò—"çò¤„u³ÒK˜FÄûÒúûu.e|­rô±Ìèª<Ö¯„õËm+ÝGëR0ôã’ý»õÁÆúû—ÆÚû•¿~¼9¦±;šRº>d=–FŒq¶uÖ5BëðŽ69ˆtF;¾†½ÿž±Sÿé†!k«zÀc(m‹Õtb5ß¶Ýé½IKN{Ê][K¼›ácÆ.ÖÕ¾–Â,‡ëè3ŒÌ¬‰`_`9¬kJo”R–Ãò¥¤¢<†¶ÚÝYª#ÄHižðÕƒÃÚƒÃPóXÃMó·ZÆV°šgÖ[¬k[ñˆÛ‡wD¿{Ù¶f=¾&9‰[Í…n5Y5ôÒöØçB°Ç:ëÊðÕ0‹±‹Õ³ª¥Ò1ôoÜõ»èAG-¿Ä#…ìjºbu}‰b—ŸÃ¬w„£Y-wJ+ÍÊæ0Ôüš1jïâ0´@mV;†ÖìkbÉYs`èd1†‰;¡fŒ#œ[Ó¾0Rö­éÿîeMŸþ9J¢ÛrØú!úD^T¬Û´‡ÅŽÌrØ²ü¥ÊÁ-b «¯º~§ú•û~Å–oŽ£ç¾Q±å›ã¸¾ô›~kV»>>Ý‰õG$þn)¶´¿*·ïÖ'´lpô &G&+(¶ì©~@{Þ}ƒ¬÷ç±SÏÎs ß;œ…Ã«Q7êz>ß?˜9­±¬ÒýÐ¡¬Ìê¿ÁH¶Ïgj…ìÔhÛ9W¾k+S²ƒ†±ù\S²ÄÊ¼)üŒa/Áe/0èÅÛÁ:hpöÆ¯Œ¿çF£Wg]rÖÈÕA ï¶¦ ¿—²ÑxÔAc:\²ç ´80uÐ¹ŒI„§e­:Ê´ÆªÛèH• ü»S„¾> º#ú®1ªƒ Ükìù¨^c}äøt6›ÿùÃÓYU×ètÚv	°jˆƒNN7@£‡ÚËYÀ\ýÙhPê sI4×H	À¿7¨Æœ5uè»†¢‚2¯a¡ƒÀvk€é ðs ?’,„Îåü€Îªü?ü9]²†8Àq¥ƒ†KZõ„ÌÜkäI€õ>8ît¹G2wà˜ÓA‹#N-Y0Þté£MF¬Ô8ÖtYÇ:½[>¦’õ;.×HžSÊ?VÇúÃ&é*Å­Žýö·?ýóV_žä¨m`,ýTÖ.[–Š×ðpî>xìb]_ûÛ…Xë¬°IwõÉsUÛcÂ*ý:Ù5,Z¥<&¬£/¿G•‡HgÄÐã	•ó°M
+AÀ)û®UÊc&«G†ÐY¦?už”?]U&.ÿÄÀ–ÓdË»_ˆUcß–"¥¿µÔ˜5±Îê!Ñ®Üûû&Gœ,Æ„%‘fJ;eS‰ŒuV–ð»Ìb¬³R7‰S/°D)‡+!" 8Œ4²;cÂ’€¿ìCÆ€Eµ1˜ký–81Ð¾oîµŸ˜Y8ˆ —±_“©êjó¶9ºži[ê‘¡Vð˜°äxZÔcÂ’Ð•è^ÄÊò0*æ•C?fâX„uVÚ6×v<ÖYý¶ñá´gLX!»6í1`AóH„úî1Ðž<ÄX‚XŒË‚$‘1aÕéŽÈb¬šÅX êzÛZ–¨´_gÔ«V´îÉ"ì\éÈŒ	+FŸSŒò™òŸêô\Øhj¹¾#‚œÈ’Œ™Þ”ÏÎ›ì§úÜd½oAI/l—°]ãv¸ü¬Àa¶­ÊË~ýa†käõ¡£˜ÿü—ßýöÇ5„©ûÕ±|ŽÌÿÏWÃùwý¿þ®ÿ×CéWß¿V™ÿ÷žËC©2+~ŽÔÚËºõÿzyäº^#	qÔü”Å%CúóÆ:€»jI?ÛŠ¬}›Áô²}´”5SB^y¿&
+sÈ¸µ Ñb!¯‰\MÉ†9ŠA^uFÍïwÍO©Ã ¯~0J‡–Ö>^îÆ¼;o:<ÓëÄ0îVäýú¦F~…4"Ïö#AIuÎ–‘Îˆ#5që¬P‹—Epbï†r?I2»z¬³¶«ÓÊ©¯ÒkÉFo¾€‡,¬-3iµO#J›h]¯V¨¬õÄ üè]‡-Ñ»3Ÿð,Icì\5‚jÉ!¯©¢ç&rÍU¿î‘YÖ›{}¿æ¢,Â:«¿¹s«rXgÕ½ù¶ç°Îê/%Þ$½V•êOá&W9Äbb&H8Y‚¥SfXT‰y=æuÛYàÄ@÷~CNg;‹1t54œ˜Jß;;(‚P13Dìá
+]¯à°ÎÚ· =ý`1ÖY1±Ù¿	©7{¶I!¬³B“xíû5[HZ8Æ€•³ÆìqÈÃžÃa¦5ÖNB ôXÏ–$cà”·Ç­¯^B+Ýw‰TNmyO­¯¹‚½5zÅaÀÂjà°såN¬&œ¾D{-»kZ+iÅ˜°¶ê¾37ùOuºË»ºÐÂ½£"X>‡uVÈÕ_ÖY—[ýhÂaÂ:$@7~oÖY{,üÝ"Dy¾Ó´j±Ã€…]‚ÃLvg„€ÖØ1:, ÞclI~aì¼yj°Ê&¬åãþp«-+Õ£œ@^®çÀy“ýTŸ²š¼Ós®Ë\0ÊANÅ+2Yµƒ,gÙ¹Æ9Lr:ªï¥¯ÎPFÑK«œä>–Ž¡s¥z”hÕ÷£çDÐy“ÿL§òJ¿INßEÐ
+¥Œðˆë³Wú[‹>¯‰­VóB«_Ó÷ES{kÅ–Ý¯IHö-ÝaŽÏ&¬ü¼ÁaçM‡§z=˜[÷ÔÞêÝXÉa•Â•Áb¬³öñ”	T†„³Ë#*X&¬m|îáãî0`ÁÇ!‡Ý¢Ã@süÜ:¬@•1°(±;Õ(¯mGâNHü¼;LXóiUÊ‹0amc@Z9¬kÕŽÛugLXò°ØCíÍÑmÛ]µ"„Q¥b„a¥"H8aço!ÆÀ/! ‡çqàí0+;rA×Âw¸yA+ÀD°•+¶}|ÛtXgõÛÇÞ!Œ	kÛÝ›¡ÎÙëm¸å0a¥1Jƒì0`AfäavhNu’1°µÆÀ¢Äbœƒ}ÛÁa§í’‘vÚþygîÏ€M#o«MBçJõ(§åç£üÙFà¼É~ªÏM–®õ¯²]Hnbá1ÙÙˆÍ-qxLX¹¸%	«É`¢î˜ñF<¶vIÐ4fD¨ííÁªK,ï8lÊ–¯ìeóÅ#ÿ +Ê³o$ áì2D%ÍÖ¶»6ï1ÙÍ«ã‘g´(cÀ"ï0ÉÓŒöTk;PdlJµ¹JÄk´D=ö¯Û” s¥"ï0&¬½zïtÞä?Õé./Ì‡V—¼°W{ˆZ¥¿!h‡	k²®©­ÇDbÏ¿®É­Ç@¯rßIX·´z¼€±õ7·´x+«GÇ­Ú×àŽ~m×:})1lŽ~ý}	ß®OÖQ~ýöíOß~MßRûõõÇ¯ÞÒ5)¿ýáøíO÷YþñOÿÏ[ÇrÂ–¶ˆ;Ø—B-æ/¥” Íç‚ú™Oâ Gr$œ#lžƒÐà>´ã Á¹¾0ò(ß|ˆÆA§¢å¦ÐA‹[ÛZ²Ö6*#KcØ uÐ*9[¡eAâ¤k^;Í@qpö=zBÂ‰5Ó¦¶ƒçêdñ@‚ƒ‡ÊNÐ’ÛÌZ:³'ZegB§Œe!48±yÎ:ˆà Uv8ˆpAµ7Ô§•â}Pç\úW®w<;Ð²9tZ"’EÐàlû-Ÿmfx¨ÏY`ç¡ ¶DV.ä	‚–ÆœË¶ßs!Ÿ?Ðeÿ!†ï;yð)ç'ÿé/ÿÃŸÄp5WAú)Ïüw¯ãÕlAËÁA¶-V9®…‡âÖY)øcW–<¿@GçÖYýâx¢ê1aEñNêÏêÚ¹ Â€•Ó±vü‰x,Îa =ŒsXúyv^ŽR:LlŸÜa!v¦?:ì\~½F©¶sà0d­¯ªÇ@"|Ÿ=ºãñ\‡ð¨¯ÃÄ¦ò2³_“Äq"ëàDðH©bW•Xi./Â /²c§Èà¼;o:<Õë.1ôgk|–Æ™ *!!çJƒíÕa–qúÓ^x°ñBzÏ"¬³òÑü1d‡	+w”ÒcÂ’'œèh­Ã€…-Ìa [Ã@{²(c`	b1v.’DÆ„ud§;"‹}!`<6¯á	[¼Züqf‡+úÏaÂŠ›Ï)nòÁ¾ý‘NÏ¥-©–Ð;29¡%fzS>q{úì‘>dõW~kömïwÈè‹¯~€Ž1_Î#Hÿ ½Ã$¯Ö|+ÞóÞ—¡Æ)B¬qàš!_ZŒ=ï˜ûZ*Õ‡uV‰ýÞ1²>à2Ô˜ÊÁÃÿøÇgÃ¬Ð—æ>égøç-××ÁeÇtp­“( Ë$}
+âàGx®ß¡ð
+¿ƒÆÄ¸¿âÅ„lbkIŒØÄW’48;ïÍ9hqÖº>#K¬ê;hék€Zå†µz-û1¡å’%ÓP,¹Ì'É~ˆØdÖy¡1)®ÑåÈé?Õå‰$´hG6&hå{ŒZs>^øS}n²rN¬#SE.WÞkdŽ ÔdœPhíÑA6ÝÅ•G-}ÖºcØJìÙ´Fb¬[]ýBïtöjü¶R#«|uÕÉ«äÌMx T,‚„ÓãÀq±œ\±ZúüèrjëS‡X×rª?°œz}R{8M¯½·Øî¯%üýÌª¹äß¶_ÿÜÂŸ~MßŽ?üúÛÿüÛ¯Ç·ý·XÒ·í¤]_ƒéÃ÷ä¿ÿËßþúöMÇ9±‘¿:¦å@dNljÿÌ×Ú#nâ„˜Y×¯^`QXû5–Œ:8rï Pâú¦AË=êµNFV?Ãò¥¥~úÇX„	«µ{^„7žêu—BVž>TMð{NXba‹öè_dÿÜNÄ""Œ:Š8„É¤¦oÐ˜}§4ÂD£Þ[9VÿAž¹jÎx¨%2vÊÉÝñHêÎ˜äÕ¿/lÍ¸‰+¯¸oêÐdÖY!ßYŒÉ€•rŸÃÚ›ÄñR(iï0a]Ã &gÊlXˆè”úðµÅ^>3ÖY=2Uæºà0±B½³ë¬ô@bºIÇgYwÆ«
+kÁ^§tÐš´~½éyåk9ºßÃRU^ze«3vÚÄ=È˜°zäRŸaçM‡§z=8ú¢µZê}X‹½PC0&¬­ïz³Mz·¼;o:<Õë&ñã–€0êù‡ÎþÃ_ü‡—€SêF|Šà¿œÿ÷5=Éÿýo¿ÿ­ßÈ’aÿ|HþÛ·?¼þÊeÌ£l».œŽe?Ep)Pb˜T¼vu}?’ùÙak–Y×Ô¸c×Dz÷™vfA^ãë{´þ1ÒEXÆ ¯,¶–9/ÆÎ›Ïôz Q.A	ûløªÉÇ~uzÍ–ø[xÇ^[Ÿ½âžbÀB­æòæ•$•ê0XŒÉwS^bgcºdÈº#"_éÖo¨°æŒk–ÃLZ¹Ú®.ÛZc}qX€XŒ­ÅB–Ç˜°êæôFÄ¹GFŠÈ˜”^ÂHÙÝ¥ØÏ˜{º:È‘Ï¸>ÅÖfì\éÈoŒér"ç„Èy“ÿT§çÒÀFSË~[›y‘-3Í)'DÎ›ü§:Ý¥ÅkÆÙuZvRkŠb«Çþ€jä>ÃaöV‹ÒgP^„7žêõ@bÛ{(,ãD¨ŒŠ™Uc+ýÄ$YÕau}Â¤}`^ŒÉBæ–|+u˜°dÌB¶EÉÖÓ¬ÊW×Ã8LXÕÕBÖâ*së¬6ÝYÔaÂ’˜p\>Æ€Eåkµ<ùMŒ±¼‹œ‰`oí0aåÀ½!§ÝÄbiŒ	«Çéô,ÂDïTá6ËF˜•{«yUèÈa¾e:ïÜL`pÆ•È'¡@û,ÆÎ~Á&Ì!D­oX’Öë¬pù;±½¬´]]J`ÖÄ@b*Ñ6dfšã—†±@ê²ÄqXgµÖcÍ°1:—us_Ilñ‰k¸Ã@¶‡îØòf6@!`K”–c‹òÅX¬¼U@kÜr‚^Xò1c§]sâúÂXg¥Ü7’¹æ1zë²8qä7ÚœaÄæÇ?ë¬V£·¸Ã:«Ê£ÌbLXÛ~—˜i<™ínÆ@±ydsÆ:«ÔìG°VÚ“Í§©ý1ÚCÛbì€‚ÌÇ8ò,qo<‚W=c˜}ýK,EÚ#xÆaµÇ[]pXgõ.Ëµ?‡	«ì¾:LXGð}‡Ã€…µá«?†åz‡v9µg¬³FL@ä Ò5Ü-Ê˜°RùX>Æ€…å›—A¢"}é»5Ç2‰óB!éî°Î
+Çm\ì°ÎŠyó#‡	K¢ðÒ˜Þa§]ß£o‰Ã€…_J‡D-8´ÇÞÁa`	²=c`Uöaà!’Ø7:Ò«ßt@Î•†¤1vÚÍC—açMþSHWäPâDpÖ2¯È­Nk^P¤¬ƒª5³ÂÁNÛÃÁ›"XM[èvÍPD-˜r9òÂÉ”ÃN»£Æy1vÞtx¦×#‰-÷kdà VÛPÛaU®lÝgÓa§]\£*á0am›^ J8ì´kqÔ,lÖ‰ØE8´ÇîÆa`	ªŒU‰ÅØ¹¼=¼”¦vâÖ|gé°ÎŠ5{½vZøPf1vZøÐ‡Ú/oÏ‹‹Ts‰ÅHÄúå°ÎÚê¨q0àr°pÀå0ˆ.‡ö0˜bì€‚ÀÓ8ä’û“hù- Pþ¶×›-;-p'³;g¸O¶7"§…a¥Öì0a…è?¬¶f‡DlÍ3Í©n" ZÎX“XŒ™W@š†$=âEMxyT‘Á*1Ó²•!0ÌZ,ÕýBZp[—™ÅØ
+êÈÚ3¶BQ¢Õ=ÖYÇ&Sð Ç€µÁc j–Ç@{¨£K@m÷X•XŒ‡PbH!R/¤ )/‡uVL»k«[—"Y"cÂêÏ€³½¶®N’í,ô£Ã@"Ö	‡öX¿–Àºê0°*±;—7Hb)¼Eeô¥†^5ú	Ç:«¿íÚ£Ã„uø	Ç:ëcã
+­Ê˜°’LyÉCŒ‹¼ÍH¤šÃhOµ1°ÕhÆÀªÄb<¿ï0™!Ó7+ä£	¼•Õ÷íø‡­‡^üÁ÷€Ÿ^úú¯úÓßÞ>K6.Üô[¹I¯øÈu«¾	¬/Pxì´Ýyf1vÚ‰3Í}²;m/¾Ÿ|µ«U€œvÙæú],‡Ã•£¾=â1”–í¡æe;nš­Pv}ÖÊc§]1º{–Çc§ê»#Y;í$C¸üªošxì¯VcÈêÍ«9ÖÀPb;‚“×ÔüÇMó¡{’Ãc§]´bcèi”8.+aíSòšg€exÇa§m »;ì”óˆ£Õ¬O—x¬³Z©ŽƒÈi¶ØËŒaù ÆÌÐºæÉj©;í”³;çyjÍ„œv– ŸÂfMÆ…6glIC‹#‚Zƒ-†@c'Xå1vÎ³¬7"ÀXý!Xúœõí"½Îƒ–<ŽéIðc5b«2‹±ÓN°ç;çIö"‹¥G%¡C­Ñ#Œ¡ÅØ	–‰;í´$éî0b-ï9lY½×®¢NãD'i÷xŒQ{1CÀâV?†Î¾sØiZ©8õBV/}[ßÚy=Œå1vBªG9-yeo_«Ï‹°ÓiðD§Ò–UKè†yaM`5§¼;o:<Õë&ñãºÜÿô£ƒÐÿ?§Gã~ÝHX1yyï;ðê5hÎÃû ]­Pï»¿GÏ;rÍ¨bˆm ¯×ZåÖ÷¶Kµû±Ð?ñš
+†òà‰…,ï+l×ÿ=:RœŽú<és„Ÿùëùìq°'E/²Ÿt^ÈQ£ýî¦g¤3š,)”-ÍP©…$×©§¶ç\Æ>ré×`ƒr[ùäTõÙnB„!S×ÉeÎ,<ÖYA*˜Å˜°ö¾×Ìò;¡´¨9cÂ/¸lcgz²CV7*;ÖÀPbÊúÚ­ÇPû$»Ì¬ýÀÐà=@Ð¢‹Èò
+ÊA½‹G®G-Xk&çð5ißº­.$.1&,YD¹°›OV”à [>–æŒ	Kk!ÔÆˆ6Ï¹”†¾e5GK1†V@›3†]žCä4Àßí·ü5ïC;Â˜°d±Ðù–0aí–ƒJÏ˜°bž-B­ˆ1ÀŒ¡4ô,c¨9ÖÆÐ
+Xã[–Äº›dYm´Ètk‘–Î¼‚ˆ0´…b>„7ùOuºIËZ6ks¹–Ž1ai[;1ÖY¥Ç#‹#2££ïÖlX#–Õ'DPÖKÆ–ÖhID°ôèÆÐ’`íÊ¾UëßýaYÔu’VÌNcD„f/%gLX[ß;³ "Ä O0†ÒÐ«Œ-­±v ‚¥§ZFZklM›´Uckžßd&¬*CH"cÂjõ«×1aB†¬ÀXgµm7‹¶›gšóŒæŒf5ÇºÂZkchÑU{9ÁÀ DÚ#¡$Â„â]kÂ„µí·ñcÒºÝ÷€{ÂPy—0Ôœj
+ahªu„¡5±÷³¾jðØxr,Â„UòÈ$2&¬êuGD-ÝúoÆ„Õw›œE#–y”†fliu,=Ö:ÆÐ’«ö"r‚õˆ0ŒÝŽÛØí¸}q÷Å[€\rÆ„Õ‚ï% !ö6„¡4ô*cKkªîë~<¿·ñ;×aa!dî¿ÐÏyaÂÊ»ï¿&¬rk•V£Í/+8LX-Œ9Ä²¨Ãˆ¥ž!¥‡†šC]qZjÃÐ¢V{	9ÁÀ ¤3ä“Ä˜°î_‡	K¿0`Æ„U÷„<ÂJCï2†šcMÙü—ÞJŒµŽ1´&Öàäì©¿s)sE0]…8RLc%dLXiöž˜aÂÒ,Â„¥­%6XÇÐa­Ž8Y«VÝ9y;|?å0aE¯9"ÂÈe´2ä&¬z·'cÂj£u`éCÖ*]©<<~¡>Y}X™ukc+¬—ˆ£Ÿ‰ñùv:éOô¹IªàÁÎ¨-ÜúÆ„¥½YœCjÔJ}…åÕnVF¤3Žx=„a¤rÂk–´fŒXÐw1F`Þg5Ïòèë>0±À±Ö,Æ„¥µØzKDN°m—¾:{ŒXP÷#iÐŽÚ­™–Ð#+ ‹1´è’x_éÞ¯n£n}»!]“Ð­ÇþªSù-¶xš:ÇœsþÖ<§Ñ|cÛ,Åøõü”ó±+¼(Ç³4WÅ{ºß†št½âV~8Í+ÝúÒ€{½W£ïì%üðvIó¶µxÛ.ù]Ø_ï–ÔÖwU/á2<ešž®aD¥Éï¤}!ÂÈý~»ã&¬Ôÿåd&¬=ómåEØ`m’.mzËcÂŠã”‹ö.#–ìG8–`$Q­:‰‚¡ö©4Û}b-‘j»Yb`hÕþÜéá¬:°åâ ²<L² 9¡VôSoZ¶Ö¶éõ_‹ix¼ÜòxŠXAVÚ•Æ¾’‚½CRN–SMÇÒŽ:Y cÂJò*LëgÐ’²VÎÃOÈ"LX%ÝêcƒuŒt{1ÎBHs¨ÁŒkÛÍÇŒ¡´ÑöYÞêTKl¥Œ¡°.0&¬X¡vLaÂ
+7yÁI›]š¿góü_éî¯½çM=.Þåæ|²gú±½î?†úº×I,S÷2G"=èaoquß³ÕHc…9ÒêÇP¿C‹1bÉHÍ±V–×k¿8´+‹°Á*SÓdœ…£d1ä(Ëä&¬zÜY„	«É»•(a§äu„,‰¥'ŒX`Iµ·Üì–!›Ö&«
+hï°½UäÑí:f´j'Ä†¶‘»ÌŽÕNˆVé@/“xäÙJÉe»Õƒa×í²÷µ%Àd™Á÷wÒêþñ˜/£[çkB%Ÿª<¥‘ 9·-Lw\*Ž°éŸ¢Ã±&yõŽ‡8ˆ#Žw6¯ïÆt…Ç„µËó¨I?§ŒœPŽ~ø:1bÅíÎ¤ýÔ0BZoÅë¼,9Ø² pæ ½1>;™¬M>ÿÀR-Í˜äuÈï]	Œ£É€à²Å±,MêÔšÓ8 N}ØÄzò€-r&Bz&¬¦~\š3&¬:ÞEÝ[Z-Íïm"^ÅñÉ´c}KÊò~ãeŒÞðð˜Vhx¿7ÛÿòòêÉÕÁ–ñTjÛdÚVö£Ûjü–ŽŠÎƒøþÛ29LXaæŒˆ0âÌwWIˆ£Üec)õ&¥fÖ¶Å»¶m~¨W[©!ÉìdŒk*È‘µÌ=6©<BXT"˜ËÑ,@€Q·°¬ËHªýe	'kbçÒðúÔ8Æ1sN 0±NØn,Æ„µOù&ôç‘½?;ô£“ù«]~ædþå›Zý¸–›Ì·Þ6i(Mˆ0‚›Ì"Œí6™wXgÅã6™w˜°Úm2ï°ÁºMæ&¬z›Ì;ŒXkâå0’¸&—Cíašê0´L°†V…)¨Ã–wˆ3v7™'ä„Z“ùkØá&óm¯·Éüek7™75bLò:Üdža´ÛdÞa¨Læ[sÒœ7=Nt2
+šsš.{Eó±ô:#’CÎ÷„“Déècˆãÿ?†öºñ·9 8ÌY=DHïæ¶=X¡Û k e—2&¬n,æ "Œ*È²AUdLX}¥éú½ª""ç*GÙŠ„=F¬¼ÝYV5fÞÐô!­uÅ…(9Ú² pŽæí|ÌæÕôë`ÈYš1a%ùaŒ•±¾é»¤:õMXÛ•ÚöiEµÑ±š¾©½ö”	¬8s78LX¡±V„ cyŸ’´j‘ÃHëUvbi—½&¬±’Å,Â„5VÅX"aƒuŒt¨=aÂªÓ3hÂˆ…ö$Œ$¢g#íÑË„‘%V›rØy«CoÖ+m{„§WËrÔ˜¹¾Äˆ]+¡„€”|¬uP‡¶W[=|}š”[¹ÃÀŠÌ"<Â	ï²ö„QMA;F¬xãDW{Ñ#„Q]Zžäq=úÎU§ú¡ës}ýëFÚ/B,c¨’Ó°ï…ä1xÈ»úÊcÂJc¨’w[Tp˜°ö±nN,Â„Ç‡$&¬EÏ¶rD[i²¶=6XQ‘¹ê`ÛcÄ:léÉa(±ŸQÏNâÀ–æã¬;j>´@‰íf¡5ËWùCÏ‹0ô2I$ì„ÚQ¢-÷…=]Žå¿}£þ‚—ûàÈ¬‰ ^Œ	+CS°cƒ5ýhwÆP¯«i~×ÞÊ÷¨ÇŸÖ2ËËQðÕ×rËì}´o™_	ß2=&¬Í·LÉ¨êð-ÓcÂjÜ2Fõ-Ócƒå[¦Çˆu¬±0c(qÕ-ÍW]c-°Ú‰ÇÐš«n{=C¬À-sy$:ì„Ú±Zf?¿èr:|‹ó˜°Úl](°Á‹(±ñÕË`u‡Öì/SF¬ŒßyÄPâh%,ZÎ\ ¡–CZ‚ÚaæÒ²;Í(aŒqiÎØ`ÍÞ¬À±VËqIlÅËkµ¿ B¥?ÖØš1²$°#¯`= Œ<lZ#B5ÅJÿ`+áª|±>»n¾õ„±›.ë;ú£/|ÿ—üz+½ÈÞX.e¬d×ë?2Ð,ºÖMˆ0rŸ>”j	FS•Rì@£Ã„µÉJIk™1bm7Î–IÚå˜›´-­³ÏcK~ùaéCØ	öB–bû´þî+†ÍqÖY9ˆÔì©ÃK*0åÅ˜°ò1rÏª"ÄØÚ’FJë+ÎÉIj¾[AD1È$s‡ZÂZYŒ-Ï-Yë7z5fk–ž1be_×ÔŠš3zƒ±¥ñòëƒv·Ý¯ä­í#µm7OâõéFÆTï=Ãë£Ç%µ?@Ûô°ïø]Òa="ÂhRŸj‘g '‡°Î*r®?‹`-ÈaÂ’Éð%áØ­3gLXréÂ±ë¬*?X"cÂŠ‡iAí–|$ÙŒ!kXo°š\0XÍÛ¶Äa¤çsÈå¾\k…ãÎ„	«E‘F,ÂDšµ½íìcÂŠÝv5µÅdi]ƒbd1–…YR–¥Am—Ï<†%Gÿ3ÖY×øZv=‘Å˜°ê&µk	c'xqéþƒ{y/Þ~Ò^çËÝŽ¼õó^²9W¸:’d´¿6 =&,‰ƒ›EÖ`{l²V3#’H˜°6ÉÛ6<Œy>Õ¶;=ÖYqœXƒíN+­Ã?Œ‘Ä|€Vˆ-Í×6#hµýè1´æÚ4ôz†X„¡—I"a'ÔŽµå™·~D£‘’„Æ“»¬ ŽÊBL$r®Ž-J±Ê:äÅIDí	#íÁŒXj°*cÂ’€ãŽE˜°Ò~³=cƒÕî¶'LXyÖ6°cÄ«2FÑC„‘öèmÂÈÐ~;ouéÍúµïŸ½°§÷u„Ž1ª51ú:#3lußc(mšöj½chì!Ck‹0ôI$½LÚF5,Á±â]-FÏFujyÇõé;ìÙXúú„Çñ:Â‡Ÿ×ûÝë±ô5XØgåã¬‘@½ IÇ‘ë¬ÐfºXuÞâ0aÉÅ±VºKdLXcŒ}iz,aÂŠS‡y&¬0s?€E²r í	C‰9‹0Ô>Û×ch‰kÌºX„¡Usí	C‹0ô6Jdì„Z’Ë²}”K˜×^ö±ìV#]aÂÚg:d&¬4@è!Æ„•§¦ÛÒž1ÔëcÄÊ ‘0”8ZK\-M5ÅzÏZÛcâ¡Ön,Æ„U÷›DÆNðìÒþ;gë,ò¡·qú”ŸJ¼^A<Â>Ê±É¸²\;‡ÛÖl€±Á'®	íZŠ&ŒX-Û¬Œ1X¯iýZ &LXcÐ|ÂµÑÅê¾qHàÉ!l,Gï2wì‹lÉš0]ŽÞ‹±±Œ<.§ DÆÆ€qÑeiŽÈ8n`LXóú
+Z“1bg‰äeÆK®;ÍÚAyµ¶ ÄÖ58‰[KI~kÈgFÀæœaƒ5ýšÕÚ˜AŒXòØ´c	F›¼µeE­WégÝ¹;]é°Q7‹Ø–X„ÐQcÔBæÛçAíŽJÏ±À’Œ‘4ð
+c¨ùòïû6Î\J<âÇ_JüÝë›T—pëõ:ž•1èÊ4"'\;ŽuÙŽ1f­urÆ@Z=äÁ’71aYg_0‡	Kû¼×û–õyÕVÃ;á
+"²;á’Jdì„¨=c'\ÃDK0vÂU>´*cÌº_]²~/$–gž^ýàºÀ©-¥‡Û¥úÐ¶|»0Ù¶æ.LN„tBÖ°KÛêíÂäÄÀîÒZÝ…É‰ëÂäC½â¦{lVžt«Í-TÝe±Þ¿®½ÆPû@×bCí^h%µ_z}ç‘œRÆ‘œ|´O8™~¼ž;V=v¼ÍmþRåµè~øÔ–¢Ç®¥HïõÇ˜ä5Ž‚‹1aéAçÃŽk8l°Ú80Øq‡XžfGsF¬ºÝYuS–æ^l3ßa¤}.^÷\È
+hQÆÐ¢ÄjóðúòÎ8ì2‘É"¬³Ú8¾p!vXÃaÂõËl¿ÑaÂÒ#½Ñ:9l°ôÈ¹×p±À;Œ‘Dð4cCûæê"h¬}Œ‰EÇ!®£„è	¬£„	kãà:JØ`Éá®£„ka$ka¤=x‡1´Ä–¢³CG¨^¥[­RÆðÖ@È» 1cTSÊANGGKýŒ°×½ê±C¦¥Úï}D‹êX–1aC­²b1&¬q@–Y„	k¶e‰„	«Û½ôl+'@„1ÿÊ=^‰16Xr\ñòÛ:®Å±àêc$.N0¶4oëš!hW>Ck6¸>Âz†X„¡—I"a'ÔŽ—LÆ³è¿4“—Ö>Úz™1a¥Ñ«W¸†À˜°òh…èiÆk´Lô4cÄ‚+2Œ‘D´aCûælŠZ½Ã˜°Æ¡kfv‚'HaÂÚFKš6X£¿&+F,hŒ‘D¸ÜÁiÞ!Œ,£·Ct¾Vcø å BÞE	£šòƒ—Mú™•:ZÅ§\ë~¹@ÙŸŒZÕv¹¶=Rƒdd?áNžalÚ„CX7Ý1..SãgLXãL3uòŒÖ¬$ÐøÖZ Û#ThÆH"tóŒ¡öØÑ3†–ÀFËZµÁN:cË;Ä	âÏ;íˆœP+ì³‡»ø‹5ïo¡—Ã¸°,EP#Æ$¯c'+1"Œ6?;°_ÏêÔìÖiÞúÆd&i¡Æ›%V“î¿®ß”ìÓ3&,¹Üà\ "rªf›kà0&¬9áBiŒXRÓaÌÉ]Ã“>„vºCivÍCÍ±Ga­€u‰±eMªo-2cz ¥1¶<[¿3ÂÛê²ç’ÇçœN{ßí˜ýˆã˜“zá0aÝC8LXÛ-ÖžÃ:«Ìû6(‘1a5ŽƒaÌû?ŒÃaƒÝé4zmÆH"ôÚŒ-Í!È!hŽá0´&„´pz†X„¡—Q"c'ÔÈqÔ2OY^mw*	‘|æÝU¾³h´šO	Xñ»ðúªžÆ%Y—”Gä¼îLÈ©ÑO(„"çŠ¡ÂÂÎ…d1v®Ø.—†·h5;Wœ˜²Ý£ÕLì\1gÊvV31bÝ£Õ@Ð
+Ëý­‚;LM)Lc`	
+ÛÁX•ÂR0fÞa æa’…È¹j…I· %32yyÆ¡ÖDH#ÆNMCVBä\‘iÈÞŒNLCcÓ€´4¢Ã±N„	KC™€¥,L%¹`*©Æ›æŒ	‡ê"ÀXÁI†Àaƒu¢à0(={÷Þ&o· 
+;—H"cƒu¢à0aÅ[‡Z:c Ï rbÝ¿0VÀ°£ú,ÆÀ;\£:eš#µ%>¿X˜®©ùÞÞzÇ6‡m÷ÂÑ{€û@õ–zuD÷ûCoyq›7—ä ñü½ozu~ý–¿îãP¬ë
+>cÂ§ôj´ÝJ	kœô¬1ë^²ÇFøÏAd„+7iŒpIv¼QsÆ„UÇ­¤U~D1,689O˜Nû1î-¡ÞýÎ\"–"˜cÂ’;=¹¦uÉaÂ’'ÇFX_“HêÕÏˆ¦'µö÷bf<\‰‡òñaÀ^žÔµh°ò¢x¸%ÜãáK‘p‡;1‹
+KD„çí=îÄ„%_ýàãáNä„r„{<Ü‰ëwb ÍÇÃiíãá
+%÷ñp'B¼ÇÃEoÀ(ÁÅÃ–"ám-ã”àãáNDs”îñp'†:ˆ‡[Ëî¤Í¹¤c¢ù˜`•ÖR	c’×üB!‹1aé>>xŽ±Á:¦Ý‹q‚š÷Ç«ŠÓ|`ÄªkA…1”vU!³c¨ycE§ùÀÐ
+X‹êkaÂ*^"'xtiþà*Â;/ü·tFÖ¤?ãÊÿ‘K¢y¡_†Ïé\ù'D6ry]ÔvØ¶Œ‹ùëÚ¿Ã„57ÛàÚ¿ÃˆµÝ8[&ipíßa¨9\üwZ .õ;ì»!+×Ñ4û¨9ìlãpN*ðÊ-aÂºd½aÀEr‡‰Äm”B8LXa”šX„	kw×	F%FÍC+ŒOaÄZî†áò¾Ã–æ  ~cé!ˆ€ÃÐ’Ä"½²d!‚ÞE;±V@é;ouçi}*Ñ×&@„‘£Jà0aíû­.1†-YŒa«B‰ŒaEÝÃ–ŽV`ŒX`QÆP"z‡1Ô~y´ÖÆÐ¢Èb½u
+åaªQ€<®Oúõ÷…”¨UCJì½fpH‰×K–µv¸vü.9ØÑSD„aá#ð%%Ä:ë°ð+cÂ²ððÒaÂ²ðÀ"¬{d³ðËkŒ	ËÂG¬%&Æ„¥á#–†¬¶Ž+·}D0‹¶˜e\A,Æ„Ç4bž1&¬0¦ÌmÉvXg…6¦•ýùÞË˜°f …
+Q‰CZ‚1”ˆVeLX3Àzˆ1´xÛac)XCJ ‹°¼Öt±tGd,áÎˆ,ÆxYRª†ì‡ß¨)zƒ1,uÅ¥mÂÐ‚Ä"½Aþ'=»ôF„ê‘•ýG—ÂÕG¹×ñË/ŸÈ¡Æ1Éî»Äc¥¿%ß¿±Øô7”q”Yéï.Ž5°Îª[sD„1¢L”¾	¡‘8V”ïÐ¶âp"rb9[fp±ÚvgµÍX=ï¥’´ Ö±§sGVÉÑ†ˆ ‘Óû)¶s¯“Ñ™Ó1€5²4aÂj’êXËƒˆ£Ž%…ØVdQÆH§fËáØÆ¤xYÑÐ¼¿å.žu.Z^ƒÖÎIuÙ É'ŒÑÕâ¼owo¥ÖùFÜVx¨ñ¼…½u-uDH®ñ(_WÁ*K·ûº–ª,y1¶³¶<.÷d°#VmžSçµ¿2.Å;	¬2µ\;"Œ:Þ‚å˜Â„ÕŽ;‹0aãÚHdØ(9!+ZÉ!XPí¼jACöd{ý†•8ªUÂ–VWÀöl@†}ÆU²=Á5TÂk¼‡:©´kè|Ÿv¸ÒIØ²dŠìØ£'(Â+ÍEõå¯…£À…^ÂHZ…½„ÆuADa\î»fCËg„	k—K©Ì"LXiÒ"y„Z2.0¢æŒa]B+0F¬äë›ZÓr¯0FšÇ:YUÃ§žÙ^OÁ¢?5r!îÔ!Âð§FÆýÔˆÃ:+ÜO8LX÷S#¬Û©‡	ë~jÄaÄ‚Çeƒ?5²r‡tƒ?5¢šây‡%ð|‚ÃÀªxÖÁaææð©‘áO’ùÔˆÖ
+<qu‚îÔH÷S#u÷§F!vjäúà¸S#„ã~jÄa ž©ûÜ/YÒ’Þ˜VØÆ9°cƒ¥O’,[16Xº§a‡	K÷GàñcÆˆ£çÄÈÒàÁbÆ@s<¥á0°µRÆÀ¢T;—'¸Æ&¬æ{ D„¡g\@sÆkž£ +0&¬yºÂöþ
+þ@„¤€g¹Ef%§ú†Xjî÷~nÊ§¾ªõÆŠ_õÇŽ®™üíU-}÷Y÷Wµ&,ÿª!Â¸¿ªå0aùƒ`„œ«äôê_ÕZÈz)Èa >6ˆÖöŽ9"Pr´!¿ªµ¬œæ_ÕÒ÷Þ©6ÿª–"diÆ„å_Õ"D÷Wµ:Q—~w°évÐacÍ÷vÐaƒåýˆ0âí  Ã„ü0`à»òüš’æJ]Ýá_SÒWß©Ó<ükJZRòîá_SÒwæ™å_SR°DÿšÒ…Ü:LX÷×”F,¼1¡­ rbÝA¿wPKL]?cTŸµ»ƒ€ê	–ÝAÀU–æ‘jÝxq0Ô¯µŸx#BXÞB®³
+ýøƒkð]®ô÷mŸ—×9òÖ—=ŽQ/r5%ÃÑ®"Œ8bèB:#ƒqÌ1Ú9Æ„%ÿêÈ:¿Ã±òî9ygiù¸K´.ºuÊ•¼”¥a'ÚX†»c¸.Å–-ÈË¿O*Ñ»ÞæU§÷®Ÿ0o}ý4oÑ[pÁ‚^lcq± Á˜°Š†2YÁ8ÖlçÄ"LXiÃB‰„	kk+'@„¡Gã \cƒ5v‰j`ŒX‚‚1’¸ÖZš7û~B€Œ¡5#„ë`=C,ÂÈË(‘°kõ÷ß‚…Š™¿ÁÃ!¥©Ó|äö²þ¸Òv±æ0aÉhmq~¸Wîï|b¯üºIýy±Õ+_¿÷ÊŒ£r¯ÌÈ`ø^ÙcÂj¾Wö±lQ’f½²Ç@kë•¡’[ë±í…¬…¢_.¤õ@&kkƒö¹Ÿóa§'u+‚1d­þÁ‰Ã÷?ÞëñÖê'?Ž¯ûî¤?’ÑÍh‹ý‚E_A=Â
+ÊXgõ›z’n[ÁVV©waÂJw‰Œ	KÎÄŒøÆ"LXqê /Â„fîX„ë í	‰mƒ°³Œömƒp¸Œ%Ú¡u«¶<3baàm’ÈØ¹jÉ¥é²}®ˆ	«m÷¼Ö1s½ë¬þ×ž1a¥YjÈ˜°òÌ´gLXeæ#V8î¬`yå{ÍaL,Q&­ƒ1¬?U1W›ê§\ÞxÙÓô}õ1·­ÙvèÇjS7Ü:0W›€5‘–aŸ°±ÿÞ<±/cª~Éxª lœˆòNU rB9Ú§*#VÜî¬h§*FÞNU BZoÅë¼,9Ú² ptµiÙYW›ê:Štµ	XAK3&¬$¿×åB„1V–.[¬SŒ¡N-Â©
+ÙÞZþÐõô+cÂ’m3ÔaÌUâ&¬¹ªBÒ¬±ª‚õˆ1aÍ-¬IŒm@I„ºÄØ87²ƒ?Õž»ó±æ¾Xß»¬Ý¿{½wÝ?åýê×CšÚß'èÝñ®Of^ˆ(³ÃÎ& Ñ#+÷ßk‘a´ùrV•iÉbLX£“oûz ×aƒ5b¥îë‰\‡	+Ï‡IÖqQ‡k=¬é0”˜Öc­CíÓz$×ah‰´‘uZ5­i¶¼C@–‡Q"'ÔŠ‡•ã| zù/ä4¼ ^¾z¡Þ@5Ôˆ1aÕÝY	aÌÇ´ÑÞŒ¡Ni[Kî15+KçÄŒ,À˜°JtZ#"Œ6ƒƒ ‡0a38J#l°Žém°8a²‡¶ÍÒØ±#ŒX`ÆP"ÖrÆ„5"÷‘C‰‹uïk®½×­ëï‹Ör7÷úRlº½µËœt"sXéÊ~Ì²rNÏÒqî(oäôVº»¼×éö­K³m”ß{Ø_èØßZ9¤Ê¶÷\ÒÈù„\Þ'ëžî•´‚\ÛÈý¸Þ­b¡‰¼•®Õc~¨9§'é\î(oäôVº»¼WéRî }Ee^ÍËµŽwe«]x´,pH­Z©0—g’8gUãþf*áœKò«4Ä9¶OÒ´Ø\½o×ðòízoé¬¹œž¥ãÜQÞËvíXçMƒgéÚh×—§¦¼cíz"o¥k&sz’ÎåŽòÚ+=ë¼ið¬½e×oÉ4çMÿ­tjOŸÓ³tÕõËyåÏ:o<õÃˆ&ÑJms½6¦2ôä­t©éÎé™8w”7rz+Ý]ÞËtõŽÈzé÷µÅÚ{‹Xž[¥†ñÄ¤â|ž~U!ï%«t}¶-Àœd¿NÅ¬ó¦óS;Ê¥£¾D˜çAé¼¥1o‰Û+ût—]×çœž¥ãÜûwg—+g¯åy¤›¼‘î®çé¢Ìl Ýmilm¾n¯–ÎÚËéY:Îå½lçŽuÞ4xú=î—½ZÉóâzÉyý~f×ø”Ç³o$æ»äìéÕW9§“û´?ßäûÝ‚ï9Ríù‹W¯qÈ7ûžn"oÈ›¹Ÿ+§÷É»§{-oŒF¯O`òŽ±¨O5¿÷Žœqüú.Y÷t¯¥•¢_ù<¿ßê6òVºôõ˜Kõ˜Ó³tœ;Ê9½•î.ïeº#È…øÞ7Ûÿ”/×DÞJ×çIóJåô´¥ÜQÞÈé­twy¯ÓÍ+Ô&¯?…ýžòiº%szÚ¿\¾…¼ÒÓ³Î›OÒÅ6®®”ÐÆ©Ë¦‡ã¶·R]c‘MÒp.ÏRaÎ² ÚÊ¼ñTq H~#×îEšt4¿®p”÷Œ'-Í?\NÏÒ¿®`ÈËùŽc7Þ˜ïÀ|`Îw^Ï#,ÝáçWo¤ãÜQÞëy³Î›O|~|Ýrî+D}SBFD:™Am£Çg{Z;5]ÛKÒëŸ”ÓÓ™å.Q’öqþâ¥<Ç‚tSƒ7ÒÝõ|™n­¡ÙŠ†Ã¤µ‘‰¼±SBvk#¯Ó¹ÜQ^xñ-ó¬ó¦Á³:T“ö¡s6ÓŽ´PS¯fA-d‰¢é8§gé8w”÷rNãX'hð:³Î›æÏÆ0Ùf0u®7›­¼{jºÒ|CÕåô,çÞõ,6Ëy!Ï± ÝÔàtw=_¦Ë¡×BÚßÓ4ÝªŸœÓ³tœ;Ê{Ùë¼iðÖ˜<&¡H²÷}ktpO7·ä%}ÉÐrzŸ¼{º—òjÒ/Ò®·'ç·g^75Íakæ˜ËóYÀÊ%/WÚ™uÞ¤¿±‡°¾…º‡ðújéìÛërzcä¼—ßzÇ:o<ëß{l	‘ö9–×õï<ë–9ÚÌMOxSNo¤ËG°0(§÷¦3='òt@¬÷–/e¹o:Ç):ºß^Í94]?0ä¹œžÍý8w7sz#Ý]ÞëtG‰Þï{{‡]ŽØï>§7Ò8§÷§ÛÛ{üÎ¬w—¯Ä(¯]ïº–ÔÆÁ­‰¼LU›~+)—§³}ÊdÍ|ÞHç¥½Le_©µ§_²7öþ4ÝÚ‹ãœÞøN>÷rïÏ±Î›O¬’t¾ë>ÆcýÔÓ8¥ð|Æ™xfësyÖÆ1ç.ésÛÌ³uûýbÞÍœÓiûte­º=‹r´÷ìYh:Û#q9=«œ;Ê{¹'ãXçMƒžî®ÿüë/Û×m«QRÂ?¿¿„/ÿéúÿ¹{
+¡}ñÿÛ>ùÓ¥B»þY’„Èý¡ô?–
+¦€±äírf™$ò«Uuíå~UMËåƒóœz¢„Ê-ñ=n¿Õ*péíoÿðËÿˆ‡´
+endstream
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+23 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+24 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+25 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+26 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+27 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+28 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+29 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+30 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+31 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+32 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+33 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+34 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+35 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+36 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+37 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+38 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+39 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+40 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+41 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+42 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+43 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+44 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+45 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+46 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+47 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+48 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+49 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+50 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+51 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+52 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+54 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+55 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+56 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+57 0 obj
+<<
+/Filter /FlateDecode
+/Length 23389
+>>
+stream
+xœí½K“l9r¸¯_q—šÅM ³$›”DJ&Ùm²Yô¦^=Óœ‰¤Z’™~½ ásÈ¼Œ¤6ceU•øÂw8ÜqðtüÓÿDÿ/ÇÑó§cý³ÿüùöCúô·óß˜×™ÒøÿÿÏÿÏ«?ýý¿ýa¼”³íÓÿüÎüß›ë8ŽrM®íœ}ª-—ãÓÍRå<^ÎO35®—6Óçüµ™~[ÿ<)KZ4úÛéòVæ¢äTJ«¬ï€2¡T~üÛáòPæOOÐÛÖ@)¨NYMj Ô@;QÝåë5À)­‰æ; LÕ€òãßŠËWÊ35°ZeÕ>»ö¯ÆãO?üöiÖÕu`]XÂ¬ëëÎºº³®¬«B™5XWëjÎºú‡YWwÖ5‚u]`	W°®¬k8ëêÎºZ°®
+eÖ`]¬«9ëz–¼uug]ý¹ÖÕ]ßÕCßÕ¡ïê¡ïêÐwu×wu×wõÐwuè»zè»:ô]Ýõ]ýÃú®îú®ú®}W}W‡¾«»¾«»¾«‡¾«CßÕCßÕ¡ïê®ïzšœuu×wõ'÷]Ýõ]=ô]ú®ú®}Ww}Ww}W}W‡¾«‡¾«CßÕ]ßÕ?¬ïê®ïê¡ïêÐwõÐwuè»ºë»ºë»zè»:ô]=ô]ú®îú®§iÀ[—ë»ú“û®áú®ú®}×}×€¾k¸¾k¸¾k„¾k@ß5Bß5 ï®ïÖw×wÐwè»Fè»ô]Ãõ]Ãõ]#ô]ú®ú®}×p}×Ó4à¬k¸¾k<«ïê©µ]º¦XG=õsë¶§Ñ¶n{ºúÖmÏæ“ëAS¬£ï€2)SùñoÍåkíc¬«'´.M©ÐºzBëšuMÙ]>´.MYMNÔ Z×æÇ¿—ï#¬K[@kÿ!Ö%=£¦†·.êûEù.˜•ðolAšOR­Kú÷¯B™Õ[—üÖ\¾e~€u™ðËh­-À/£Y‰üÖ]>ü2jªyë’Zâ—qó«Ûº,ßG|µ:Z×Ó¾ŒÚj®ïê¡ïêÐwõÐwuè»ºë»ºë»zè»:ô]=ô]ú®îú®Õk«¹¾«‡¾«CßÕCßÕ¡ïê®ïê®ïê¡ïêÐwõÐwuè»ºë»ž<ª×p}×ÓFõÒjÍõ]-ô]ú®ú®}Ws}Ws}W}Wƒ¾«…¾«AßÕ\ßõ+ÒjÍõ]-ô]ú®ú®}Ws}Ws}W}Wƒ¾«…¾«AßÕ\ßõä	m×w=mEB[Íõ]-ô]ú®ú®}Ws}Ws}W}Wƒ¾«…¾«AßÕ\ßõ«©Új®ïj¡ïjÐwµÐw5è»šë»šë»Zè»ô]-ô]ú®æú®'¯¦j¸¾ëy«©³cï/iF~kÞ°ºú5š8ÊKž<fº¤—º¼´BH:_ˆfþr2xþµFé:ºŒW$ÝzÈQëA|w©µæcœk9	aÙé¥çš­¦4Rr»V« ÷6Æüå›“_ÓZÃCµ°Ke=m¾ªÉ-›×íŸ¦M|_{Í®ì¬ ‰!)h«ä‹ÛÀ4ZR~éNëùÊ2Vä:LãâVÐt«!G:GhýTºã›J&¾»•Ùšà<[WZêÖ¦rÞWÙ´MTvMkívÕÀ.Uµ´9«&·l^·ïi%mïrx_*9ú÷Bhi¥F_*Õû’¥Åšwµø]ªzÅæ¬žÃ²!’jô¥T¢/q‡ÜÓ})Þ—4­5Ü9T»TÖÓæ«šÜ²yÝ>Ã—v+©•lm©%mªµm­«=j»¨½ZZ,zçP«ß¥²_l¾ê9»•Ùšà<[WZêÖ¦rÞWÙ´MTvMkívÕÀ.Uµ´9«&·l^·Oð¥Ö½/µ}©õèK­G_šˆó¥fk†bñPªxpÏÙ©Ñ—¦J‚/ÍÆ¾Ôjô¥‰8_²´Ö°F_‚RYO5úÈæuû_‚V+m‰%FÅÚ@ëbÖ.b¯;Í9Äê¡Tòà+ž­¤Hõ¾ºÒRkô%Ð¸ÊV½/YZkW£/A©ª¥}	dóº}G+qTZG¬ƒV†-½fEéÓLÓ·p¦§…^+ÝÛ²2Iÿ<s\IrÅÅd%hzq zMŸB/ùë!…§W•Á(Tf)ëðä]ƒ‘Ë0éoÖÚåvÍØµ/³e/§Ÿrºß»ÐK~M«v,-uãÜZs-}ëFù+…É+ùQþ§ë¦]díÇq±n4}‘ö Û>¨N«.‡¥´®	~?“ÐK~K¬II×«]¦Ë´ÒEø­ò%EåB/¿‹|–å²næ,¬ ÝXZÚ½åv‚´VŽ­fÎE…^ïB/ù5-v³Ó§ÐK~±)ßìÆøëï&¯äGùŸ<g?ŽÁV¼ö¤n˜.K–~¤9Ÿè+Ý—,3]ÙÆ9=gÚGº$‡PÌ9/íxh	–>hfnéÔ¤DÉŸ²pœ&"ƒR¨ŒZÖáÉ¶3çOÏ+ÙÎNj«~QÍYI¦¶ê×8,µìþHL/¿Ïî‘é%ÿNWîs,„^ò·.ü¨|NýüÃæo¿«|IäùŸíW-ñhê¬k4tCäj³Åfúlëk1?¾cíÑ¶6*ƒ)½l¿g‘	ÅIP-ÁÒÄƒr(’Ö`—P†ðœ^9T
+£P)¥_g÷Ì=w*ýjüÕ²ôÅÐ§½g^e§ŸMLó0Në7÷ŠÑ(‡•`éÆ6di±9É?ÿŽÌAÒ+‡È°)TF)ëðdý\WÆÒÔÌtÃhU:ö@Gñ=ÐÑ}dié4mýGÁhsÐhË`{ _‡gë§%²Þ>Ž5*¾!ræÉ»­QI½¬ïö5ÛŠûJ/Ù{j¡èuX^ù›J&ZJ÷&”’sN|¡ä•Z´ÌW~‰4§—ùÙ):VÈl1–®Ü:§Žu.n“Ç:—øÓô
+½ü^ul#ù-ÉŸ4]gßËåéXç~<Ö9ÕZNëÈïEÇ:’åö÷ü^£ò÷ÜÒƒ}¡ªl™m¿²ìY}©jÝä÷&u×ü–®ìK–NRžäï]øQù½ë·\ùëï&ŸäGùŸÞÓPiã@Kó8nõŒ©Ÿ€qà‡Œgú<`¸Ó<Nƒô)ô’ŸÇyZ¾Ž7nyÏÝó}Ðüáê'Û¤|¥vš¿1W<ÎoÐ5»:üF]£ò8Ã~¿Ø‡4¿¥ùµÓYè9¿~¸üý…Rþö»É'ùQþgÛä‘·ÝXZÆÿ½Ñj‡Íz»ØM[ç#pþ0{É„óKËüa§O¡—übR¾ÍŒ¿ý®òJ~”ÿÙº×àáZyei#×É#Ðrðø&Óè«¯_±4yÁã¦ÇyÈøæä1°¦‰åP$I.aZGÝ(Ecd–@~5ù8o¨Á³õ“ynÒVßßI?‚¬‰ÏúVÎ(-f×˜Ö™Ã^xþ#é%¹$‡Pœ<ƒ²$-<VCN)ó)áÉ<$M<X
+£0¹¥_gÏ$Äûm†®iaKoa3ð«`Ï<Óírv‡ó0M«‡YZfØš_gà\þž¡+ýÝä•ü(ÿ}ÑÛü|à½§û¢·cÀ]RðE·ß›­ì¸/:•_ô«û/úUð‹Î)ü¢ëïú×ü(ÿ“í¦ÊHLíÆÒÒîUFnjkmíf3œÝÔ–ÝXZìf§O)o8»‘òÍnŒ¿þnòJ~”ÿé£äÙ{®~wíy'+2gç·fÚ[?*b[å•JÓ¸÷`z¥¨¥R?¤ù-M(‡ çU_Ö¼@K8›pœ¦±2É ¿«„šß×áÙ3óëà=ƒ)6kh#´W0Ó…æ½óËtÒ¼øê{^J/ùÄ{xBqg—¯•°ÓÄƒr(’Nª£”ÐÖ¾ö¹yHšVéYŠM¡Rr	¡Ï>Õst×ÿì4÷)iÿÁýKJÕõ?³D×ÿ¤œ]ÿ³ÓÜÿhZûÍ¯ý—¿ûåo¿Ýõ?Nþ§›ŒzjºÈÈîQs—‘ÜyXŠFz]èåwžíü–>ø»%é5ÊåòºŽ‚…õý—®[(û]ä³ü(ÿ³½ë`«µÝMënËÁ«T¶³ö´ýnVbOÙýÂq·¥u¿ÆÒ²ß¢ùu?F9ì•A)Lf)ëðìoW?óòóºF¹MvÎ³œY+kd:çÈ¼‹|´µÃØæ¹ðy7J¯ïË¨™z£’CJ´ð ŠTÉÁ%Ìù>­Ü(I¯"…Q˜ÜR‚¯Ç³o
+±W›YZlàd/ß_ðååø…ç^~þ¯iýÂ[Z¾Ðš_¿à\¾Yñ—ß·¼œßÉÿì/|öº±´ÔíÊ^7Wñº¹Š×ÍU¼n,-ºÙiY(^7R¾éÆøëïÙëÆÉÿìžÙd“9»ÕUfVW™1œÙé¦ŸÕéfŽHœn,­3
+KËœ[óëœœËßsvÓ¥ünòJ~”ÿƒ¾èºF¸ÓÃ}ÑuP¿¸ºF¸¿ÈÙ}Ñ-¿¥«ÿ¢ËŸå—5@)ßÖ¿þnò%÷Eÿ5Âs8»±´úDÍÎn®Ú¼OÕËÙÍÕŠ³K«OYZ|Bó«ÏpùÛ§”¿þnòJ~”ÿé;£òH*gÞ‡ÐtK4’]§7yÝ=óš\m–¢5¼Kèå÷‘…^ò[:óƒ¤ëüƒËãüóË#üj³•Ÿ„^~ù,?Êÿì¯y´G¯Ñ4vºñw#'Úão|b¦ëi©ŸétÓëï%3½æ·táï”¦Ó%åIþT…•Ï)*_øëï*ŸæGù?hm¹OÅµå>‡è/¸¶Üò Ý#^[æ®-ÛïÜ×Z~K×kË}VŠé%ÿ9„žÊç¬-Ûï&ŸäGùŸ=¾¼'°ŽZ½Ðîž!óó9Çƒ÷¦ãJÃR4þHB-¿_Uè3¦¸t¢Wä¤ºYþ9x¶Ò×ß‹VyËo*©äô’?}×<5ù&É®¹¤/û¯³‘ìëd¿£n)ÚÏB¯gåªÐëY:I™;XZÏ±Iþ!3.ØÌAùÛï*¯äGùŸ½ZznÖ¹Ó<kl—îÕÈ¬òÈ~Öyè^þ.þ¢³NKË¬óØ{7L_ý¬“Êß³Nå¯¿«|šßÉÿìÕÒ&ßO=ÏdiYìò½Õ³öàöY±jû]|Àò[ZÎhZÏh~=«Äåï³LÊ_Wù4?ÊÿlÝÔâuci]Ùí^7-yÝ´Óë¦¯K‹n4mu;½n¸ü­å¯¿«|šå¶nr‘±ì›[Zö½sã±I’}ñr4K-Ù×)à„¿wËH~KË¾¹¥eß[òÏOšÐÍRtj®ÉØF~7ù$?Êÿôó“µÓ×q­>Þ,=‡kg¨­!JÓêck%wÚ¿ªºâÙ
+Ë¾).É!%húÔÏœ’CJ˜ÒqáÁi:C)R(…È,ù±Ï×Ž®×6þ‚reÕ¯ /™YöjiÕOC
+Ý‘ÌR\¾j‡Sè%ÿt(¥T3§ýjÒJ^/ý³usfîùK=E7†\ë´ßÙøKqæJÒTŽ3˜eŸ·‰Çïß¹‡Ü–¢Ò‰^‘$ô’?ÓJ_/ZåÍ¿™\’ÓKþôuãÙ&k_ã¢³‹7DZ¡ýÖNßìëZggJ¾Øœ¦•ÝKè…bp¬	É-)*Ö9ÚÄÒ$ï¨´Jh¥sšJ'îú»Ê¦ù½ôO?Q ÷)Ú,ýäŠÌÚÑ~çû8Óa–w÷µ“Zšvü«äPŠA·¬KÊ!Èœ9sŽª÷<X£ÊƒÓ¤S‘B)TJ-Á×ãé½ÎQÉoí”Ý É´W¶Nó>Óür¬ÔüÞTIQ’„š~-'×EójšKç3ð‚ÔFc:ÍŸ²p“ò9MýŽð7
+•XJð5xúú¯ƒôuÏèâ@EZáõ8ú¢ôëä3×„R¼ž'Ôò{-BO¹-E¥/zEfÇÊåIþÙÑ™Ëç•/üõw•Nó{ùŸm=¥’¿çÆ½¦[å¯+Ý°é«SË™ÎIšûÎ„¿_|+Qó[šÊ'zA¦Ó¼p¿Ou«B/åsš¬M$P
+–Os£ôOßµê•OßP…"4ÂX»H¼'œè¦õÚeâ=aNÓ>ÔàJ‘“ì"K	–&tsH‘9š«Ÿ¬„µ4Á<O!t™÷«FaRJ	¾Ï·™ÁnÄHÊMÆtlß©¶ŽC)¶ ¡—ßå‰å×4s o»"çç`œâQ’ÐËï&³ä÷uxöz`¥ó ë€ˆœ‹3ä*tª­V:o¶n@Ñ9´u\˜GøMÎÅ­ ðûÔ ÓK~M3¢W¤JÊ?²ð“ò9M§SD£P™%¿¯Ã³{è£“tEF†šîk„‘©+ý¦OÑÍ!uíiœð{NRÊm©"55¤_Råîí„²WŠJÞü+K¥ùPæg÷<CÆªnÂÜi|zÈèv­º­yXŠos
+½þ.ë0šßÒzûÆuŽ‰rH	•nÂ(‡ªwoLý]%Ôü¾Ï?Ñ4$Z‰ì˜o¤ÓHõZç)ÝB]ç.Ú¿ç4ŸiO(ªFe“,]dÇÜåõ“•0¿vÂ“yHšÎ4É!*¥–àëñü‘aÆSœÖt—°ïsÜF_Ú}¦`Žì’ìÊ0Åº½Ø¡Iï3©’ƒKÐÊcŸ)P)6Ë,ù±ÏŸ­s¯ŸG²Ù:#%Ó¨T¾¥f®-GR£ÏÕ…Z~—»’[S\:}ç9³ÌÕ…JVúú›´"¼ù7“TrzÉŸí[GçÛ<zVPÒrÒ/|&yÈIÀuÿþ²ô²ù4ð÷œ.ïI~KÛIAEšœôãüMÎjùÍÎ	ªJÁòin”þù§,2Ÿ_?ô”…¤å~ZnWÛ¯r\mŸNžqµý*½àjûNrÊ‚ÓºZ®ùu5Ëß«íÊß~ù,?Êÿìox‰O,‰íf#•··TøDRÏ/|W‚£0pšn/\cA)ÖŒ§@	–&¼:QøDR[5³êU„'ó4ñH’C(DJ+Á×ãZjêwòMPkÈ0p:9]6CúÕ\ßAmaV¹µ~½«d,çvW‹÷”ìk£Ê{¿>Ú¼Ì§Nj9Æ{B°Í±ÓAáJºN™óu^(šþûþrWœ8¾8\ÞSêÙGø¼m>ï²5þPY©žÏ{JF}²~yªû^ýb9·`ï*—Ÿ»±mY²¾Æ;­·ÓAøª=ñ„ºqðÕÙ‚ï”˜J¦€;ìÈéýšàš“&F•ÉÄù¾r¡.·ÉÂê{ËÝåÜ‚^Þå®¥x1¤>©í|Iôýh|Ñú ðCïè‰¡œ]î8ßÙ¿[)<´¦¾½¯8ý}åº’°ì«¼WÇ¾¤›LhV €ã]á;}9´ÉC[ï.×•³Êµí!Úy×W©Vêa[Aö	yOÙC¶ÈÃ»Ýq{BÙý<ä*Oàö®oª.Ûr¹çöž–,•~­lÝˆ eÿ§Jx½wäYÝ–w9* ïÅ%š®LÛV+É'YÉû½ßX/åmsës”øÞÑ§+évW“wõPNtô¶ð³ïÖI(‰ŽLõNSó÷/öå<+œû´k:n¸.Ü]â‚´‘ó{=·lSÃóúþ’g÷|Ôšxë„ŸEãÐ%º(?må|Ÿß„’ lY¾—ßÈv”HuxBKJ»ÝŸwXÞx™=s¦m˜"|•Ø(°ðÒ
+Œ~§Öœ9hÓÈr-é”°_ï)õ\žûìJvsÞ¡ßtÊáµ\-2¯=µ.‡…Îüþ^Ã—´Êæ£vë`ÛS<p]¹Xëz5½ÿ ,åYOðÒÈ‰ã
+çCº»Qråh×;?µZRã¨Ÿ|Góä“4tfå=?$ÅAj£uÉ÷Èí¥¤¨|zèir³”I“vÔµÞ#·/év×ºOhK±ŠÛ]ë¾§ìÄúÞg"ž5Hµ³û´…çõžîËíÝBE8Zñ÷ÛˆîÛÞõÚ…çwÙ_	eŽŒ¨{ªïùhy)Ÿ:D¸æ,š¬ìúZ§:ž"³k³›ñiÇñ>qåÜœüOµŒÐžï‘Øë”¢Uðþÿ{u,ì‰%Ë^X-„wÆŽ'}ÈeI÷˜A+øiûÆïýðÚäÞ]³GŸò.W¡p]´%¯A#tKŒ6ŸÞ5OÔö½ùß‡ñz_É#ÈœžQ®Ó©ÓqyßŠš‰7ŒÛžÞ=F;Oygà*º{~ñx„‘÷(È—ô,/ŠŠ¾9_}¦w&ñÎí«ïUwð—Û]<gæX²>€FÊ®©wÍ‡ÙmRª¦Çy½oýä»íY/…9{W_$¼9½¼k(â$D™ß=3÷:>?,÷œRûÙTùZCàú¾?”BVv>£Ì]
+êu….{Š-<õÑõ»Rƒ¦Ÿac\sÔÅH,sú´þ™åðñ@f¥À6û9M_tÔ±Ft>
+©qEKÒ¡H ¸èyÍ¯)½€¬é¶ŽskÞZ!·‡8(MôÂß(T:Î²Çã,ðh]U54Mæ‹öaM~{NÃjX2j Ô¥ô1‚òqN•ÝžÒ°Ú)o¥0É(7ÊýzíŠ,
+è“–Î™$àC™eç ‰”"ikÁ_éZ•åÔ”<…!éz‘Ì’·^|YJÂr •ùî_Y¦d~µfs\~Ø#+7L_tÑ†ÃÏr«ècÚf­$yFÏ}·ÚNéSšntRòJ«èCÚjÂY5©(/ÊüZÍú±­Â+Ê–N…,7Ÿ—ìðEæÚM„Gv›bP8+Í¯)¹ ¬é4ú§7õ%?<DÑ¹~›¿Qˆt’dµíúEÚ%4M‹®¦Ç&›=öÀ)º¤v•ýë8¨%çNéCš.t—sfj-77½üÆ\õW•ˆs‚¼¯[äeÓ!ax
+B
+¶¿Î g:Æw
+ÎbÏ4pzYO“k­J1gã_RûNÓÈò|fb¥¨dåÍ¿ªdš×Éþz²¡õOðƒ¦{¡ Ô'MA¸uô‘NS/È	ÅÈÙrËßú€§NêÉ5WážÐÊ-ÚWg¥P¹(?JýjÝ®trû¤§ßÌÔ@¿ƒ'ÌïÖ^'úÝ‘Ñï,¥0dô;ÍË^Ï/ˆßmþFÑ·ßyÙ_¯!_ýtÏ((’¨ïNp¾ì‹eð”‚^c»V8E¤X¬t(ÁÒûAAÖs/D!%¬ÐVUèr‰Ã¤0
+‘RKðõx½¾§}í$•¦K¡Ð¯ôõ;¹=å„S,õ:ùë§¿ê÷ŽsÚ·+[ú Ëüí»¸äa„KÛñäoŸþjßºþÉËûú÷¡Ê÷RŸ7°t[vV©üÑÙ9Pñèj£•d³_å«-95%á,]–…JÎÌ½¾”›õ« \õW•ˆs‚¼¯×ê8|Ï!}‘÷¬àò½¶G	ó¼Qð×«Ø×Rò ¥ùÝØ#J{Œ j­˜«ýªqN÷uì²taO
+hzõxóÔw_(áþ­¯œüõ,rý±`JŸÐôêï4'÷…Z®ö•ÊU~5‰('Êûú÷{]¦‚±×N¯ñSo}ì±•> c¯ÞÇ^}=ic¯Òg 4Ýè’¾ä•Ñ•> c/ál¿ªT”e~cdrjaåoH[ãsvûõ‚ö9Í×è³§¸²\f4­¡ü7Â×\v	…æJÿüH¡*¥–àêñz}× 4¿!>(<Þ[OWú-4ÿ!×Xæ)²®msˆV+AÓšßÖ™B.`­à	CóW	O¦Rl
+•RKpõx}ŒvØË@šFþWÚ½ŒØ·YÃuüµî^R2g°4û9§Î	$°¾Í˜«ýzì^ÆËûÅ/‚…Ç·t¶/]]³/‚¤ì‹°µ/[ÁTò_„9Ü°/Â—ì/§öÁ~µ9|†£ÆëÃ®­vzi|2‡¶Ò öÚVS™íÐV;%án-ÝèÂoƒ¶Ò`öÚVÂÕ~ÍÐVNÞ7Æ$ò4ñIo…—XãZ”¦`l;\<§i!÷ŒBƒi~MÛE3C2…´Ò!£›
+iýdü]%Ôü®¯Ï.²--ÏéÖø¢-âÚE'ivÐwNóÕÜé‡<yÂ%ìô,¯=Ž%ä‹æÆ#kØ“B)XFÍ5xÕÿRÊÎÿvzyQâ‡{ÅÃ44¼ú_J­à¯üo§$,¼¤Ù‹8§z˜¨Uÿc®û×þçä}ýÛÐÙK-°»¥}©3‡ü—¯8uÏö•¯å~CsjêÐ§~dì28O‘?w0w1×ý«ô#’ä}Ý&AsÁ’]Ó´bw\Õ­WZ@v[ïK™æ¢›¢dË-k(vNÑjæÒµ<Ãn«}ÊY)L.ÊR¿Þc®ù‘ÛûTdÍ/8úqHË¯½L§NéÕÃñ¼(Øz5q×ž5MW-oS>£Þ9üªð–_MVÉëeµŽ'[4CðU8—}ï~_¡ÛWayüZð«`)‚^ð«À9µß— èÚvÂU~ÝµþÉËûúW!ûZíô’mvMP+a®µšCÀ‚¿b­vJÃ—c­$§È­¡ËµVÂUÍX+'ï£ËËÕj§i¬P+>nó„³üõ„Zí”?¡V’SgtÜæÌU5‰('ÊûÅÞ^çß;Ý¬·×¶ôÊ6ÿ–>Û~í0ÿÞ©ê{{šEkÎŒ½½Í¿•«þª•þÉËûºÖâ-ÐÒdGsl6&¿Íç
+h–´4ÙçT“@ßfÌÕ~-h(ïóï"ûä®ÛÒ…/é¯‡èÄ8Í—,\7¥híª¹_û%«@’[Ó¬ÛÒ­s5
+ A«²¨û’°#Êyÿ®’q^ûõþ>s¶÷%}®-ŸöC³é™oÝ6«ýÅýÞåÌ1çÕ”„Ú¶ô
+ƒ¼óÜJÙ‡Ž’…³þªRq^ù‹ë&;\¶¦{Òu¹°®¡¬9eë&ûWî4§¦4L¶¦éÐšååpZ²£…¯üj2I^”ùõï×à½v-ÈÅaÏÏÑøa£5Æ¶`×”Zßšqøõ:dì$y5Á®é'‡¬¦ü£Q4Øu“
+oûUeÕ¼Nö7v	ù-pµ¦i”Ô)€Ð%ã'	Z½wŒ~4Ñœ–ÒýbMó~/å2~’`Õ6¾b®ö«JD9QÞ7Ö.7ÞiÕŽ‡%Ü´‡‚ãáãÄñ°¥4Ô´®åÑ¨ö(8–0Ó6>«DœÓÉûúÚA—uLÝm´4íZôŠ{(Úv<:­žÚ¯²²*95%ûšæýÎ©{ˆ Úö™«ý*IN÷‘ákei’­^X+	ñlµjkÕ
+ÖÊRÞ¹`­8§Ê-¡­VÌUU‰8'Êûz­ò¯‚hÖ4­ßgYE<du_îŒØÚIî×,ß*Êk)Í¬iZÁ—œ²º/åÚÚ¿ñ•ßM*Ê‹2¿î[EÉ³8†\PéäÊ‡ßÔË”æLV5ŠÊ«V‚¦wˆeEÚEþ£%œuX˜âai>9pRj	®oÕ—ÖàíQAès¢u	f¸C&SZëë(fm– é4Y
+¯³KXçh
+ðà´Ö×Q¨”Z‚«Çëõ=;÷LY‘F«Xë&ÜJõAu‘”¢À‡©à¯™{HÍkéY‘31ç§.VzIˆ‘yË¯&™äõ²¿±^R*_¶Ø×})]VI_:in½/2ûî½gO18h¨• iklv	<"Ø<ô™•-…R¨”Z‚«ÇëõÐƒ+BOÆµ~¶h*˜VííŠ¥i#_€¬}‹ósj(æ4€¼t~J§4Ñ+¡0ù¤_ƒ7ÎUÞŸ€ˆ ‚äƒÚ©eAÌ1îpoj8iÏ‘ÇÝ•14— i7¬ÈÈ,XJH]Â»kT‚nàE
+£P¹µW×[öä¹6„ÎÃœ'íçŸl“rêì:sïåùžæÔ”6$±5Jîã ½$)›R<Óïø«J¥yÜoô¾|~ƒÿ*RhÏ®ÇàS’õ ÍY$JSŸÁ—Z6‡ºÞ%hz V„ÖÅ „#K¸õiœ'R…I)%øz¼>O™FŸû‚§[–LöBkÞv!Ò´’Y9PQtŽb%hÚ‚ùBñD „ÌgüŒ¥yµ´ b2jþŒå¿ú•9dÄ»o¯’þFž‰"A¥ÄmÆy)Å-TðWÞÃÛy%½ÃñÒOnÑ“µÂå&}Ó€ÌÛ~UY5¯“ý]±NqÈ0¨® YËzYBO&“ì º”^óóvø}v¼j+ù5Au¡ÔštÚ{ÞèºìN›F¡2K~_‡×û¡µj^ÜU2Cèé¡™.Â©ÒÈ`_>«2rèI5RŠ&uÑ4mr!„6¤ÁøL
+¥P)µW×ýtù‚íð·ŠÐŽÛ:!Mß«šwèÛÊ>zå²a_²\–ÞAoI|Wr4Ï×’	¯\åW“Iòz©ßÚùä‡±á2ª"ü­¸ÎÚxäQï3êõÕ*ã£k«?ù¶KÐ´…®5$“.v	)!?º%à_U>ÍëjðÆxnŠ¸ÛVŒè>
+2{—e‡ Õ}˜–%˜Q\²/£%\²×b!hú(Me¿ï	Ðv	´Z/KƒÄš×Õà­y÷Z;*ž!Ô+Ðyé™â¨3Jö°@»ÔcÚ¯ÒŸZ^M[(YCšŒ¢(®2†âÛj-ÂÛ~UÉ4¯“ýu»M™¯‰í[†ÈŽ{*UBõóŽ¼Ý›´=ûÔ ëÈ[¡• i[k4DöÜ­:M	<’œªÙR(…J©%¸z¼±Õ/\çÚéÄ{Q{eË.âé:×UøÉ·ý{–ÓC”×Ræ5Ë©:Ã*yu5Kƒ¼Ú	Xâl¿ŠT’e~ãÜ=žˆ¡ZI|viEâuw²À}ÏNÆ÷Ö8~’QðÉÛ]‚¦-T« Ó·xN'%LÏã²…jí:‚)6K¹Kpõx}­™Î3êî€¤Ê‘è‘Ä”ùu™#ì9ôä1Ÿ&<sçÓàüy•åã”ìHJ0°|sÄde&nkãÇ¿±,šoËùz]ÎëÂ)•é¬XŽ<¢uiÖ¥5ÌÇ)­§T&ÍÇòr™ZåÇ¿±,šoËù¥vé®]Fh—í2B»h—áÚ¥»vi¡]´KíÒ ]šk—þíÒ]»ŒÐ.Úe„vÐ.ÃµKwíÒB»4h—Ú¥A»4×.o×…êÛ¿ôà/ü¥éà/ÝùKwþÒƒ¿tð—ü¥ƒ¿tç/ý+ü¥;éÁ_:øKþÒÁ_ºó—îü¥éà/=øKéÎ_¾P®¯ó—ü¥ƒ¿ôà/ü¥;éÎ_zð—þÒƒ¿tð—îü¥…¿tç/=øKéÁ_:øKwþÒ¿ôà/ü¥éà/ÝùËêÂçå¿Œà/üeà/ÃùËpþ2‚¿ð—üe€¿ç/ã+üe8Á_øËþ2À_†ó—áüeà/#øË Î_Þ¬KO½ìºhŠeš©±ëÒÓh».=Í!˜Õe¦.ÌÇ)æ«)–iç[òj™\—Íëóõòåº`»hJeÂv‘ˆcVl—™j˜ÛES*¶‹–©uÁvQY4ßW·KïØ.âÃ¦'òoÑ¡ø¾éW~#Ý[>Nulñá¯ívßßüÚnË·åüB»X]°3=‰¼Ø™~å7ìÇ4Õ±]L&ìÇ´ÌæÛE~Ã~åüR»8éÁ_:øKþÒÁ_ºó—îü¥éà/=øKéÎ_ÞüVj}¿ôà/ü¥éà/ÝùKwþÒƒ¿tð—ü¥ƒ¿tç/_¨K·1­µKþÒÀ_Zð—þÒœ¿4ç/-øKiÁ_øKsþòæØRêÛœ¿´à/ü¥ià/ÍùKsþÒ‚¿4ð—ü¥¿4ç/_¨K·9àn—à/ü¥ià/ÍùKsþÒ‚¿4ð—ü¥¿4ç/oÎÅ´¾Î_Zð—þÒ‚¿4ð—æü¥9iÁ_øKþÒÀ_šó—‡uùžÈ ÷Ã?‘zþt¬öŸ?ß~HŸþvþû“ ¯ÿOñÿTôãŸfÑ(Ú÷äÿÞ\pþ”KËC,™Èê†Övð
+§ÒÖË²Å½#BË7ki—óhën,ö6JWÊºÓ­‡µ²Ô¬¥Ö2˜q^‡«É†H§G@0W§€½XòzÕÎs_ï''_§“_ÓZÃCµ°Ke=m¾ªÉ-›×íŸ¦)~_{µZt;ÔZ©Èµ¢­­uér-ID¨Ö×ñ£Úeö² éVCŽµtê[ŸŽOßT8&én%E¶&8ÏÖ•–ºµ©œ·ÆU6m•]ÓZ»C5°KU-mÎªÉ-›×í{ZIÛ»Þ—JŽ¾TÎèKë¸‘÷¥R½/YZ¬yçP‹ß¥ªWlÎê9,"kËÎûÒ
+Lâ})¥èKëRŽ÷¥tx_Ò´ÖpçP-ìRYO›¯jrËæuû_Ú­¤V²µ¥–´5ªÖ¶µ®ö¨í¢öji±èC­~—Ê~±ùªçìVRdk‚ól]i©[›Êyk\eÓ6QÙ5­µÛ9T»TÕÒæ¬šÜ²yÝ>Á—Ö)^ô%z~ÇùÒº¥â}©õèK­{_Úi¶fÈ!¥ŠW gñ‘‘}‰ž•r¾4#øR«Ñ—&â|ÉÒZÃ}	Je=ÕèK ›×í|	ZI¬´%–k­‹=Z»ˆ½î4[4ä«‡Rùêh¾­¤Hõ¾ºÒRkô%Ð¸ÊV½/YZkW£/A©ª¥}	dóº]­ôw_9%`5ýá‡™w¿Ý#”ó°:¶îçiŠâìÝå
+±Ë¹÷‹zè¯žÈ­õƒ¸¯Ò—ë¥ô#=¬ÇRÌ(ëŽÂçã¥ž³¾Ÿöÿù‡¹x]tè4>˜ûËßýð¯ÿýþñ—ó_ÿËŸZö‘¯ãó¯¥õÏçùËñùÇ‘êç¼‚ëýôKýå(ùÓ™úË˜…üî?”O¿ûç>¯éÇïþ×ÿêŸýñ}úÝ?üð×¿›­ô ª_Í®"Âeöî“®³®*¯c˜l=çÙå èzƒry4Î*‡qX°ƒÒ]‚6z„(F¢Ð©	”1ºâ{Tá?”]¨¥©VoJÅá'¢uEŒË:å"Ôñr)•ÃX.ö¹\4ztÄnöc¥»>»ã–é”	¨É__æÚ–‘U£IŽC÷­Uc.ç:‚&T#*~Ò¦•t™<ÆT'o¥-k¥BŒ¨ªèd·_À¨ŽÔÿ­Òõ¡ŸþŽTM*m™õÆ+]¥oEi ¡¹G’#¶É$?3Ûæq&ÑB=©ÍëE/W3Õzé8IÈB–©^|P ÑA¦òQ%>dÃ¡+w Ü>ÑŸ‰.oüõ,t¨ù©þýÛ¿zÓ½×½*kH•"u°8W’‹½„B}$Ò B’‡K‡Uç[#5
+•ÃôÝzpýTg‹˜£êúdHÄcG¹†Òw”Ëa[ë´MrZ`„´©%ƒä#ªS†€tÚV¨FT\6Ô‘´æ€ºyÌQÜÛÜJJ=P"‡¡Ú“ÃH“š-ÊaØÂÈ±‰äÛòÁ²<FTZR9ŒîÊq"D!V1 …=FTZc°'•ðG;ð˜£Â²†–å0”¾-xlk=Ôf} Íû–AªëàÈæ¡svÇíŽ~<Dò]ÖõÀ®®hWépùwÏ{äø}ã3ºÌ_=z'>ôàÓÇ¯ýÇvæÏí—öëçsŽÄ?ÿô‡T>Q>gýÿð‡çdšJ)÷=øoÿý÷SºÿöçoÿøöH-e	0IGîÖè#S ø:Jú5ì|ÁªŽ³HÀ†J_Ÿù•¬6óSÑ¥7ù¾*bDE—PRmLä±[à5™î¹eh4“‰Çzë§ú™9gº$€y?ù»>òQL&ÕUyKøê›Êa‹ªò…þ9bj¦+UãS±1HÀˆªRP¢q\y—å0’+]²"]vYwTU/ÞÒõ.¡r„ä'¨G27ŽQz™h¬KÊÑctíí(¤›ãÔ6D„Ê¹*·×qìrÆºJ¼Ö|ÚÈ–_iés`%s„Á‡óûœpØ|ƒ/#®CáE/âUY½§ÕÎcDÅ]Ëüÿ¶PÝv¸":f«s‘\ôtŽé­†céeM¾+?Dˆbð“š­Ã8š¯½÷9º¡Qfi|å¯‡XgGÂ+yt\œF¿Ež¢´Ö#F#ÖƒËÎÛ>Æcd¾æš³Î&!
+ž_õ|êó"ãQ´Á®úð}ÄÕúÐCë×ÖÇ˜#^!n¬,‡U¼ò£{é¸´wíù’ÇnüfÐ§µ4ÕwI€°ž¾\ó–Éa,¹ ý°–ñi!óôš×*•ÇˆªÓ£¼eÏ§!Š‹¯f•Ë<F)ôrÊÜ{\EËo; 0†³×9Eîµ.5h­Tg@ˆEâ#çÉžöŒQÉªýaÐFŒƒHðå‹£ê«h³&I³½dvz¥S‚W}à7b7yGŠŽ©_ÕÊòQ¾~—Ê¡ýAÀÕñªr×§‹"FT<ík¦œ•*ó¬ùJÜ2×àùñ•´}!ŠCÞ³kÖ&€è…¡¥Ýã°oBÀˆêâkìsF¢4€§ÄOPÚßaDU¹¬/Õýàžv­¹XË9Œ¨¯Å¯À[ÚrÓ«|Á ï–ëüÀéi‘ß]k-’Â ^";]. «º¶r­Éí§µ›ÇˆjÑïØT£‹L…ž¨o×îFTUJ?¬_Š¢Ö¢+÷V–ÃH®Äký8wYwTçà0±c¯RlQUYËtµ‚©<FT]¦?§FT‚dìõ±€Õ`ËŸÌ]–ÃX_Ô›Ì©~¶²zçKÐ¼kÀÒ3Õ™’ÒÈD»ä;{ÍO&¥Í'B×-×³òZŽÇˆŠ/“µ–ìK0¦j2‘±ÕÍ€ÕXR×zšÎa©WMaýÓ!7Ò¯¿ž§}?FT'¯~nKA„(¾8~ÖcÓ8lQ5	q^É,ÓcD•Ù÷ê~bý½aõ+ñÿXýúÍøÂêW–mÊ½6"›®V8Œ×}º|Hpý1¢²MXir¯i²aiëL€Å%[Ñ¸úå0G…«_ÛÜ2JJQ"‡¡²[ûBŒ´ÉeãÚ ¼Ú˜dëLãµ()Ù­}!vƒÖ,¸úå0G…«_CŽÅ­!†Ò”Ëa[-
+^m”<hOÃFn][ÖŽ`sˆðjÎ½õö;ëßm¾ùŽT£6Þîl¼Ié	tî1¢Ro{Œ¨D´O9*,ËaÈ±`YCéØ±ÇPØ:C­–Z-°ê(¥?h! b+Bk äÖVœŽ»Þì’cK{©Ê+iß¹~–9>…„»žüøÍ¿ÛŸ€¯Ûl=e+j<_˜úûcu_Úqå§Š¬îŒƒ/–_öVtÄxÍ‚çIWÓµ0Dxíƒ÷ù®Þö
+‰ÃˆŠCúÎO÷^½ò¯ÿÐ7›º(]ÿÙSHW1l´°{æ®‚æ\Bå0^Û¡Ž¢Ÿ›¢¸ø9™¼g¡#Mf>È¾V9T&UK¼ÎQ.Ó“Çhg÷àÐ.¸úè1¢Ê|…{½€n»àã]pé
+{ß;ê#ª–¸«¯¶wKah¤_/YàÙ‡8Ñ9ûq4ž\ºšx…wM?m…`v´Í –@ëªÜê{O¶q—µ¬+k-2‡H6c­Kéé¤£ìu)‡U“7‡Ñ Â+W‰7àQŒ¨#|	[¨FT²Ÿ½:r[s¯Û$ÙŠÜëRã²x¶È!þ´,ÄTW§5GŒ×¥’œº9¬e<Fºº²œæiÖ6crÆgŸwðï™óø¾ÂÙ	Ñ
+¤œ¦¨tš‚©<ÆTrZŒú“Õ
+8ZkU=œl³¥Û*Iâyô©k”×
+¿K'EºÎB!
+	P{v[×¯%Ð,¨Øš°Cx5‰»û4Z×’6Âô¬Ìü ìui9t"£ÖÍËa,?0]J‰£ºI¸År@ÝF+<üÎý
+ï«+<€P9‰{÷T÷<W,P(¸ÍÁ% `>÷,Ôc‹j…ÔØ!€¥,‡Ñšyá:±çØ#*9ñ@Wc*^7á J…Sñ\”Ï„þ6 $¹<µ³¶U&UåäÖªÓeºBŒ¨
+†Øë6ˆÅÁÖ³òèj’ÇxÝ‘}àè{Õq#DÁk¨³`)c*:í’íIõo:{²:'š}¯{“OŸ}—ÿüö@§²ÏœdŒ¹¢JË‘-cFìFÇOQ•Ž|#FT²ûì¨FeGú°rÄˆŠv»ÿ{%?l&1 ª–ä0ãF±»r¤®×ÞÊh Ð¦ÇˆŠ÷ß=•Ã•ì£;Ž»íu²Kü+‰NÈ8nˆÜèòl É]Šžw@*-ªöÀÚðY¤A„(ÄRÑJ<FT]#ÍïÖõJŽ–â1 r–â1àèôí1ÞµÇL®]zh—&–Š4#ª¶ÙîlSZ$ÿÆ®‹^£)G~~×õÿ§¿ÿéíÎëê2iRñ–ºÎnL=†•åCªRWÒyðTh<FTEšnÀˆªÉÀ>§0¢©2rtR¥TiSIé)Û÷6`(ýq™™5q<ÐÄaY÷
+~œÇqóØÂ«ÉbHî1¢z …|§…ü@£ùN£Z:¶ŽÇPzliÝ‚1Mw¶v£'‚E¨a»Óg{`íÎþºJ€FT,HŽQ¨5Vë\vƒºÜcH•hak]KÏ8æÍ±òõõÝ2ˆ P›CmU?‚}^ìüºk—ë¾]èô‡£êI½¨²ÚºQåûÖ•uoŸ#*m­Ã>CC¹²ùà7Ÿ”–Gº?â¤ô¿ýõö^‘®Çï“Ÿ§¬ˆº3«Û«ÿîô+ ¸×0ìnÀ9ZY<Ãs¦£÷dÅÏ™zŒ_ û+°6ŽP`)€ '<_ê1”Ï—z5€'L=¶5Yï4	gÎ¥dw.Ýa¸ÛâO¦#†û`íÁ>œL¤? ‚sâ"RUÑÕ–K´Ñš¾”ŽuôR¹Ó±wšPäÕæxÝYðå-8jõÛ‚FTêAÛ‚vƒý	°à€U´`‡ –â-ØJmvGÚ.G-c[pÀP`SÛš¬wš¼o‘·Î+a\,¯]žÐI®qqþÂ¸X/Iè„€Â[49?`ãâHeùJ®7XIE¹#ÃhÌ(Ó÷}Q"bD¥×+N;Œ¨ô(<pôRÕTuSIéµÀ¸Øa(}=`\ì0ÔÄù@çÖéï^£@!käæ1ËÊ!zÜcDõ@ùNùFóFóÝµ™ˆ¡ôØÒ»+ÒqÚÑî®A,(ê³>°¿zg]%@Ž#ªp™Ç#Dqw)(b7¨KÉ=†Tí¶Öµôö€cÛùê´"¨Ô¦ÇP›@Õ`Ÿã»v÷í²‹ìñ*÷:Ïé5î¢p½’ÐÄžªçhO!
+Í¼<FTjÏ[Û#*­hÉcŽ
+Îö{9¶ÛÖ“´Ô‰ZprÜTß~ï‘ž^qòë?ÿæ7oæi4;öY
+Iwê;95Ü‰8{ÃcÖáNß8ŒNŠð˜Îqóœ'ñTƒ,Ž£Ç`d9ðüÇøµƒ.²ìñ<"D!üñìÇ–ä°ÍOÞ ‚Rã¹¡Ü¹‡¡6Ëmn+ÐV(ZæîtŽãè±X‡;{-&÷0>°˜ëÎb®sÝYÌõÀb®;‹,fÜYÌ¸³˜,f<°˜qg1ãÅŒ;‹w3‚ÅŒ3î,æz`1×Å\,æº³˜ëÅ\Ñb¬EÎ¢Å˜ul‹ùÆ.uræ# Ñ¥þõüÒúàöÙÎêñ&ù@¿ªû(îì#bHUPÿJéþÜÜáJ’X†wÐ¦NFG¹¯;^ß8Sk¿N±"‡üK/g­`llg¶­P	Œó´ï~ÀlsÒÓ ÛŽR2ÓxŒ¨¸ñF¹ö—Ç`«wºÄÞàòQqXà}ÆÊ!›"c)€ §Œ¥8¥NÃFcCÀù†€mM¦;M¦­k-ivƒ–Dn#ª$·YACªü€jëJe@*™É‚\Š ­x¶]=†TXV¿Ó„"¨6ÇqgÁ#XðP«ö­XˆŽÑ‚=FT"9Z°ÇˆêÎ‚¯`Á×_Á‚µT´`¡ÔhÁC Mylk2Ýiò¾E6Í}_tö—<uÏOŸñ¹³~U9×ZK¿ y\ÂÎ×šÜÙ³|Œ|)_é‘#_Ê·ºnÏ‘/äk=òäKùÎÈO•ïCâlíß ¾ÖÕèÝ©ÔKæ{s.—fÀŸ8ûzv“Â‰Iž{dgzTõGüËºowÌñÎèt•q2»®"É?iR©þdô÷ˆfùZÎ*ýl¬ÊWH¥¢
+<¨¹þuìL_Ë?Ï¡aî’þÖZÞ4Üåò%µÌ#Î]’!ßXÒìÇèÚì.Éo,)K+ØD|U9÷¿í’÷Ø-¾¤¸ÂÚ?
+ÊÖºŽŸýåçÏµäöù<úõù§_KþÜË?¶_®ÿŽDzš}¾lì¦C·7žÌŽ´1çihÔ§2z·ôª_:9œÐ²ÞÁ-Š±UÒº»Êžõ•î:bDE!8Ö³¨Æ1`[ª³ëáñ÷k½,ò©íÑú›Û¥ÔÆV=¿hdT¡ƒÝë‘á‘EÑJ:Ø¢êµDÅŠÜ4'Dˆ¢ Ð8Œ¨ª´dÖð%CªÝrCŽçQ¿…~èR4ÚeÄÛ¦z¿Ì+]‹ù;yóLë,‚ÍíÖ«eño®…#¶¨æPpéŽÞ»fDÅy²"Çˆê:È2´]<Bò$¶ÀuT¿©<C©‹	‰Råtš… ·ÔÒ®½ÃPê¤÷
+r3†Ø¶±E•/ö¤òQü½CŽ»Aknéßo=òa½ØùæMI´bÚBåãêÙÚZWe©;Óä«°Ž³êØ*)Ÿ—£y¿¦æ7%]¤ÿÐT}KSWc]7Ùze~iý8bD•zð®ˆaYê¥!
+
+á‚Þ±E5Rì"FTíàV7nˆÜ ¶(µÇÕuÄ>!bH¥}‚GÛöªˆ¡ÔÛC#†Øö1Ô&Ry[9z[ø™}M>h8ÙÞN¦\OüMà<‡(zˆiÖó%6 q ý>Ç0n8 ¦ÉÝ"=Ä4GÃu ü®¦æ à±›*@LSý‡ @P_b{ˆi®~GsuOÃÊv¼bš~D™bš«úzo ~ßŽ à³]>@ /èPçÝýtçi ‚6Àv®Éµ35š“!°…]ço™Rë”\§Ô{©à['Õ»$E¾½,Dï²ùö²t½ËRäÛË’™ô.J€¯-éÛ&×'…	¼ßùøÉõy¬ A§Mc5Óf Qdóë~
+®Øž\Ï¡W~‘øÕÛ“ëÙá–—q¹Éµb&Õ9µWŸ=¹þ­Õäú¬µÃÌú\÷¬KwskÅöì•1]{DöìÚsóØžï’ˆ8Ý5™y{®×²ÍÀTÐp^Ån“hÏ®Ñ0#ü€êy³ë1”¯š]ïÖÓù&¶pÄtv}ž+6g‡Ùµ"{néi<¶ç©Ð2Ú3Þsmâ~Æ«È]Òì%†—[0 Z%@jÄ€cZQí‡ç(ÈžÒlðä…ô ±=ÇöTÛslÏÑc{ŽÒ?oŽý!6úUsìsÝeK'Ì±Q[<Ç>Ûòêsìs½ˆ ¡6#¦sl¤yÞûC4õUsìí§:ÛBoŽØž¡‡EÊÚ¾ =/D¯Øžcz*íùªãç =óõ’{lÏ ±oˆPAß1àÞ1<5b °ãˆN•Ç uGAK?µo¹ö‡ü×ÌµaHÈk7nôÍŸpx ›oÛàÓ6{r#JÙì	Œ×#›Ì-@›4W€l®‡ ]gu{Èæž‘æêž†îy!dóà 3B6ŸuGhÓ€Óhó÷Ð–Ùµ »æÐhk0Ð ´[Â·yM¾ÍWãyyËÙõþº¹¤ÎWL€¥TrúÛËYÿÏ´´¡%)òíe¥k‰À²yNtc¼ô¼‚ÍõÏý©}Ð›þœyNFFœW9ªá
+R^»!«†s¼¦m4	3¼–2^úD®5–á®*b“jÅâ*;ß³”µ¢¨O›ë»õdeýå›Ê*m~~&ç+Ÿ¼;zžçü…d·±E5Gh«¾Ò5„‘E1®—TVÚ5ˆR­H$)P1†ÜVx¡3ðc%?Žä>È“ÏuµÍQéX!*º´±Ç&Õô„—Ö<UÀ€êZ3Œê©»~*`KòÔ–SN¤m-xë·ŽñõPCÆPWÓÕƒ¦â(N°1gv™=b(yîéNrÆnwVæµ`–gÚÛTÏó­|åãéÑ›7pÔŽç$çô^3‘ä½†‘m¡SZ»±E5œ£Oå±IE¯ÊäæE‘ÓúÆÍtkjQÛí’¯3Õ`éŠ-ªù%Ê‹MbwqÃ¬<`È­«[ÀPòNOxÉCôaÖ0Ôæ°G}"†-ƒTÃŽ»eôÚžþ¹ÖÂH+Ïµô7Úkû\+üpE_NGÊzx3bK§sŒZ³§
+ØÖüåòÁÈî«fúì/¾ïWl·Íu]“ƒïÛms­Ã‡~k<TcÅÍó_7Å€c_ïløï–b[úiÜ±[hëàjë¥Üê´ ØÖ§¶êó¾mêërìTÇ³rô[‡³px5ëFÝ*çÛ³RÒËê!Ý§eiÎÐÿŒd×|¦wÈ®û¤9¹qì¢™åîq,MÉ.7Œ—3§dÏÄÒ¼)ýÃNÆ­4H¬ê—ÁˆiJñ«ø÷:Üè5@@³Ç®>{ä ÷ØSÐÐï­n< ž·iÚ40Ðm+ÓÑ Ä4£ºÑj€ N{¬ ÐŽT€¿Û85@ØÖ˜;B ï£ê½ÇžìŠ•õÌñ©¸Í¿üðTLuNE·{¸è 3CtˆiRº£ˆ{¨2<ŸÈêÏá¥²¦À!i€dí1Á€Ôøû 3FøìÁh€@Þ=ÔyºÛÌ Ax€ /„n»ñŸ9 Sþ—J“ì!Ž 8®7Éè‘!S÷y:ÀzwÈšG²æÀ1g€6Œ8´yÁx3@&3Œ6=bµÆ±f€L{8†Ð-6ËsŒlÝq™C ¼Þë¬ßgccf-îlìÇ?ÿúû£¿y’£ÏáÍŠ³ßÖ©¬B[–Š¬GÙd÷!b“êZ¡²²§
+Ø¢JG£|³O–UíˆU[×ÉÚzOL*bDu­±âl÷¬üY+<Á
+¨•4,z€€¦•¢&1ãU§ÛˆÁxd¦éOò2õ_ÑäÎæë/èRÚÀéò¾]UÏkc¨isòÖ†§lQÍ6Z¥¯T/¹00¢:×†âzsDÝ8b‹ªÒ«žÊc‹j½9Š\ ‰Ö®PCD€›£ñpsz÷QQ,yß†*gŽôøÞå9
+Ò¯ÍÂ’¼ô‚™"ØÊhÅ+ F#ÑÑl™õïz·bû¨! …ˆÏ@FŒ¨.²hˆ\Žª¶õº–UÓ:f¨¶¨Ö»9PylQ­7T¯ ½ÇˆŠÞ?ñšðP‡E8‚½G¤w-ä1Ð„£òØmkÐqôQ]=ÈŽÈ¦Ø–åÐ Øú8½ÓÎ2‡íjôÞ-T»í|®ý<FT9Ç’r~TŽðU¦×¹ŽDÊý	”ä4é1“Û•³ÛïWå¹ãõuJza»¥cŽÛáò³OÃ]…¯iä—ãþ®wbþýóã/ø ˜q-³cùžýûé8µþóë?¹¯ØUçÿo•òëUøù÷àÚW]õŸ7\÷92¡g°ótÿK"32šÍ	V,!zš	¨Ö³2ü`Œ}´”JrBYµÌ‰‚õHípe	2]É†9ŠAY}d%rð=þßÞaPÖ:¥CË€UNÊòØíN†×äzÀ1ñÝŠº´Ìƒê<è™b/FhÑ”´uÌ$ˆ,ŠÜŽ—Hã±EµÞ¼D4™žŠZ'IŠF>óÅÄšV]/ÝW‹›Gñ¥'|±…Th-3nëý9T:¤î+RJ÷RõÇÖè[7`Ö&ŽhYÇÍc·mÎJ.~ÀZN›³dO%Q]b¿Tmç±E5*?i^°EÕù¹uGå±EÕF¾çÈrm“ªèŒÓcÀÐQy¢	;ˆhègoÂ*gÄ~çzÒ°x†‚ìë†œÎzpTÃ¦ÇÉòâÞÖƒ"h€Š™"ò™Jì¶¨VPª¨<¶¨òéÕŽ ýžè1CéÙ„Äa‹*­V™³…S+ç1 ªôž½#bøaÏ0“­Ó!P{´ó€&•Ç Q_ÉÇZ½/-åêÔ‚/—“>ÛúÖ|Ø**4ƒ€ÝvéŽª—ê¿D¥s„rhcÝv.'•Çˆêèá;ã¡ÛÿWeºç7»Ðæ{GE°~[TëÎ0~	Ø¢šÍG#ª‹‚äâ÷&`‹jŽÏüwË!DQé1T´â€v	3nØ9¤ÆŽ1` h=.]»xìv×RLµž]ÉØÆgã'$‘Ÿƒn;×£’€_í—/€ÛïWåyÀkºŸg“£šø‰^A„êp~Pé,»·¸€QIW½ôìi½¥ª'ÝÇÁÚyè¶s=*	¤ZûQ§/ÉA·;þ¯Éô€ßŠ-ç¿/Š Z£ëÀðÙ[¯áÞ•%Øîaµ,Ôúœ^„/š"Ø[+¶õ>'!5zzÀ ,ŸŒ¨øñY_–Ãnw2¼*×Žuhž¾¼>Œ•¶¨ÎtÁG…©<¶¨ÖÃÉ™ƒ‡ˆ¦ÐÊh#*~Ï?î*ø¸{øa·0?·-8cðhÔQyì¦Í€üÆq¾R?ï#*:sÊrQòÒò–*`Kªqñ«·(»ÇˆêL÷Y.kèq”`VfÎ¨<ÌÐ¨D4©øo‘CŒ¿h>8<ÈŒï€YÝ‘Æ!Ø´ð-õ ½\±­è9ˆ¾°EuÒûážÊcDu”ðÁöÐ¢)ýn¸0¢:y”0 öðCHîlÒc ç:*Aã Çk½Ý\±–]2×„»ÙþkÙŸ^W=¶	B·ëQI»¯qùÏ6·;Þ¯ÊsÇK×úwÝ&Òs˜XDŒv6òK#*~>h#ªAƒ‰u¸CâDlï’`ûE¨À™#ÁÚ#ÒƒV#šØ­ Ð©×|÷­lmñ¨}€*SÜ]ÇÏADC/—{É=FTÓúKÐ‚Çh7¯Ó×N£*×:Ž®¥=Ò;«ñèÁY Ç@§Îš×SlÃi¢_ååò:uÐmçr­ã1¢*=¶Žƒnwü_•éž_*µ¹ïÄHG°>ÄT+²ysT‚ FTEŸ~Ó©mÄˆãlÕä&·¹ÚõúkÂomi­x¼õ'[Z
+|©¨GÇ­ÆK
+G¿Ž9‡>?µœŽGG¿þ²´Ÿ~ù§?OÛÌŸÏ™üüÓùcûœ~þCý¥üaÓç7åµ}–¿ÿõ|éXN:Î#ãöhäú©µ–Ô}&´Î|:àHN€ˆæJG¤Aˆiš?´ ¦™_˜v¥Ù'V£èf•u¨hÓÀÖv€6¯½ê‘-1lh×Ük¡­AGsÎy9ì4Oà<ý” M)9Ò D4¹W·© ¦™,HÐ¦quwÐæÛÌÚ2û–@h×ÝÓ t3…y^1MQf„€fDÐ®;D˜P_Ž‚òŒÖb[ ´h¦|-Ô«æ‚gÐŽÐ^ºY&ÇËALs”»rŽò 8ÌðPžWxžY@ôDv)®%´%ö¥å¾×æd)_ˆáÛN|ÈùÉßþñ…ó“®fVdÒùÆñv¼š#Q`98ÈväNÇµðP\ÀÕzz&*U/áØNÄU¥(ÐB#FT™Zçœ;à0 ªçµwü=ñX\À@z<0Ðôó»Ùyw”2`¤û3
+ÐÍÎ4¸Ã»ív£TÛ9Rí¯jÄ€#|Ÿ#²ãñÜ€ð¨oÀH§g‚mí8ò‰´AAðH©bPV§Xi¡,‡AYN»Ù‰_–Çnw2¼*×=ÇéÚjt“3®†¹í<è¯³rMoÍlœÈ
+!©¶¨ê5â1ä€Õ™ÂQÊˆU*ñxtÀ€
+=,`À½'` ½Ó¨Ç@ŽÊc·­AÇÑcDuÕ ;"›ú"‡€ðØpžÃwlq"³/Ç™vÛù°ýFTùˆ%åãQ9Ø·?’éun[G*%ôŽ‚’P“3¹]9ùxP
+¶Ù#yðZï>&üÖ”9«[ßü"åõª¤;Šž×kêÃ÷£²Æˆ^\jYK`qŠ8*>0gÈS
+ÞóÎu­¥:k	Ø¢â·4‘ê	—¡xFü!ÿæ—×†YëÅüA‡<ÓïÚß.ËÓÁ½N¢ ,“¬)Hºhtg¦Só+üâ‰q="B61†µ$ØÄW’Ä4ÅïÍhÓìu}lN°ª -/¬h×Öê´õçiÚÍàxÑ4kNóI§?Dl2Z!ž÷Jä¿*Ë+œP7$Ó±ƒv9°Ç -±/¡[dþª<w¼j=“ÓM}½jéÙÓà\ÆAL“š[{Mwqå1@[ž½î˜Ž–W1c…‘àu«Ù/¬N§tàw´ž½È³«>CµZ­Þ…pÕrÑ¬8p¾Zbš3…j9hËó½Ë©cMrßË©
+|Çrêüãá4½¯Þâ¸-á/ÿfŽ+Fë¿¦Ï×¬ÙçsÔúy”Ÿ¯Ïí*çñcúå×Ÿèš*Gúˆ=ùïþøç?}ù¦£Llhã¯ËCÔ"2±éë3ßûŠ¸‰bO5S«>@ue¢*s,™uqÕÕ Ç+­MƒQWÔk{ÊÙaDµÎ°|ç:ýcT#ª1îËrØíN†Wåºç˜ÒHVŸ5T=!-–Ü¼FWôŽO´n'b!ŠÎNå4£IÍÚ 1ý
+7‡‘D«·
+T+áZfïù¡äè±ÜåGBPvQYëûâµ™sÜeårT°!¡rØ¢Z¯rF*Ñ€Õ•.ÃÚ;Ž³Ë¢GO@ú€Õ:SfÃz@H¦s_ÇzD¸ëðØc‹jE¦ªÞFZè÷T[TçŽçG>>ëe÷S­Ca#Ùë”Ú’±®³=¯ÜÛÁÍÁ7kjmî›	ØÍ&¾=FT+ri,Ëa·;^•ëGè‹ÚçêÃF^½€*ÂcDu¬]o¯S±\×]Y»ÝÉðª\wŸ·|%¶ó§ÎþÍã‡—€Ïs=ñ!ŒÿxûïszRÿÛŸ¼ýãº‘E7Â~?G$ÿøóO_xÔ–1¯v]8åe?Ep)b˜t¼v5¿§µsÀö"¬§šSã…AY‚¬îó,ž
+Êâ¯ï5ÖÇHa=e<`)Ða{)Ð—å±Û¯Éõ€#]*‚®Ùð´ä«ÌNoØŸÃöÞUúX³W\ÀS¨P*YÞÂ²N
+C¥20•Çè»Ù´«|7¦K†^vDè+=Ö/¹Ç€
+-+`Æ­MßÕe{‡€Ôh/8*íÅBÏÏcDÕ 7"FQWd¤Œ‚@í)Œ”Ý]ÊëŒé´Î’ËáëS^Û»í|®Ý<¦Ë‰¾$Dnwü_•éun #‘rÇÖÅ¦€AYN—3É]IˆÜîø¿*Ó=·<gœK¦­'EÐRÛ~ž×ªÙ÷ƒ²°7QL}†+Ëa·;^•ëÇQV(¬£ ®ŽŠ™VóhëÄ¤ÓjÀÕü„‘`Y£…ÌãŒ^0¢¢1‹ã°½(êÚ1`@…vú€*¥öz˜€Uá½¸êi<¶¨VØô Ñ€Å„óõóP¹úÞ?J;
+^ÞEA°·QÕä{‡Üì&–çæ1¢Zq:#•ÃHî³ÃLêæ0«öVrUèªIÞ2•;70_¹rÎ+5ð¦òØm]°É—§qQŒµaé¤Ø¢J³½O¯ï€ÕyÌ.%y*Á€ãÙ²mÈÌ$Ç/CHçÚu4[Tc¬X3^™Ý¶vëZ9½Æ*´ð€?ô–€ìèy3 C@—È­æ‘é‹±©êÑa*¾å½°"®=v³kNÞ^<¶¨Îº6’½åyärTSãŽ†Ò¨s‡Eqü°E5zŽØ¢êô¨€§òQåžcuãÉz÷ððsT~Nç[T­×8‚På´ùtÀ€£ó?ôà[= ƒ¬qäÙr~¯¶Œaöõo¹5òGh™€-ª’ïl!`‹juYÁÿFT­DQ])ö*´†Të1¬ÐÃìf—½ô[TiY=ÝkÔcDužÄëç1 ÂúÉ%Cà¨ÈZú#PG¹PèdØ¢J×Ý¸8`‹*×#ŽpFT…×év³ë{î[0 Â/eÀ€#ŽÒcï0Ð„Ó½Ç@«¾…-ä8®ŽËÉµî@n;ãæ±›Ý<%9ìvÇÿU™pä+rÈQœµÈ¹ÝiÉEW”b`ZRvFI—ïÜA3Ul Çœ¡X0å
+”…“©€ÝìŽš/Ëc·;^“ëÇQ×52h Ñ¯»¡vÀU›Å†ÏfÀnvqÍ™DÀˆê8hð&°›]‹s®0 B·pÄ."` =v7M8›ðhÕQyì¶[9^¥^~)MìÄFT%ÅÎ2`‹*÷å
+ØÍÂ‡z*Ý,|èCéwkËÅEg9ŽŽÊcÀí+`‹êèlq0à
+Pá€+`À\éa0å!ÐÒ8Z‡\tu@iô|F þ£ô;]zìf;=•ÇnîÓë‘›…auÞ0¢J9~XTèÍŽèÍ3Ém"pVî1Ð¦£ò˜µ
+pÓ¤Wž¤'^U„©Z®nÙÊfm*•}"#…ˆíË‚žÊc;¨£—Þc;%j=b‹ê:hb
+-1 kˆpËŠH61ÐX{Ä@«ŽÊcÐBÈ1)»^H/@º²¶¨òY‚¯Fl_Šô=FTëp¯¯€í«“N÷*lÇ€G´‰€ôh_M ­´ê¨<vÛ­á8¶æ·¨¾Ô0«ç8¡‰Ø¢ZoFQ]qB±Eu%Þ¸B­zŒ¨NšòºòP¹Ööpt–ã1ÞY¡Ç@Î¢=ZuTƒŽßv˜ŒŽé›ô€‘ _*êÛvüÓ±B/~ç{À¯^úúýõÏ_>KÆnÖ­ÜS¯øÐu«µ	¬/PDìf»óžÊc7;q¦¥•Ãn¶¿N¾ÚÕ*@nvÙf¦›…ãRÕ¬oD¹U{g!b(y;®;ÉC-´¢ÏZEìfWŒ&bÏòDìf§ú&rVGÝì$Ãlø¬ošDì­Úi@ÊTCªå^#P1†Ç•¿… äWºî$gµpÙ“»ÙE+Oå1liäÈ—•Ðú²älP­°›mpzØÎ#²õªO—DlQÖ"7»°å[ÙcX?°9! Þ%'œ§ìf§<•ÇnrÞÁy³Cnv–`ÂN¦M!êÜc›j”t0Ô RyìšC~»ÉÙ	/7"@±û‡`íkÕ·‹ô:jòº¤%¡E<¶¨8¶ª§òØÍNø–óØMN2ø–CdS`íAN¨E¡ÔØ"C •Çn 9à°›–t²ÌQíÖØÖ¶Þ
+¸Š2ñ‰N'y.ùâQ{1C@ã#ªuÝ·]Àn¨ÕÙAÀP.¤Zµû[+×Ã<?Ý ×£’6¿VÆKe9ì$xE¦7¸í6V)¡?–…–à1”Ü•å°Û¯ÊuÇñ;ãºÜÿô½ƒÐÿ¿¤Gã~ÝHØ1yùÚw&àÔ9h®Ãû0pN/Ôûî_#gšß)º…rÿÓžI´ºnx®èE½¬ ¾/ÎO:óK…k)Ÿ-ÐÏ›qi½ó¶$·‰úÄÕ>gêÒN¬,â¦dÈír,Š(ÏS Bi}î+-OJã0¦¶iÔ*Ž±Ôcœ:ˆ˜£*‡ú#æ8ær!æ¤§­× =aN M9mU¥á(—"Ü
+RÖ `[S_—Jß·è¥/jFŒÊ¢ÕN¤ú‹~d¶kÕçùf[¾ÎlÓˆf›Ë½Ù• yD³ÍÃ›í¦@>{³eˆ·X¼1†™Û½Ù2æ¨ê½Ù2æ8ž÷f›Ïh¶¹Ü›-cNåÞlsÚDªÚ™£h«Ò»¨ODn`ÂùŒFOnµÊA©t¬»Ç˜ŠÂ'»º{ÌIœÛËÌ„9ª%R†×ÜüCé×ÒhÒ3†Z`közØ~ö$ù “pvÈÑc7hË-ýwv­~H'ñæ™¹H«±“ øÞ¡“@*AZì$÷ 
+DÀÍfú®“\¶µûNB0pÿÖî;	ÁÕ}'!˜ãxßIæ¤¿ï$sZ¸ï$sÚD*65¬cã·1œ¾ÆÆMûQï€€“ "àlŽ“ÇÀq]Ëx:×2sTµÚÙcŽ£ëÂ—ku].X°–¾©îýcŽ6K?hÍ¼6ºz[×ÞµÔL‘uÄðµØ‘jåË…¥¾O©îù]6šz+ß=¿·óié¥D~)Mý˜
+ù½O©îù•ò5õ»ç÷v>)½õÈ^ˆûbý„
+ø}!ŸRÝóë_S¿üv¾¿£ŽÇË1§á”þœôéoç¿ÿðÃŠQ3g×ŸâÿÃW~ò“ÐïÊÿ}¹ÀÕÎ9BüTëìhVõ95úü/©ì»J_÷Íµ”'—)r"‡g•‰šàfÿß´x×Ä
+endstream
+endobj
+58 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+59 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+60 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+61 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+62 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+63 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+64 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+65 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+66 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+67 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+68 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+69 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+70 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+71 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+72 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+73 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+74 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+75 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+76 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+77 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+78 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+79 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+80 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+81 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+82 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+83 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+84 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+85 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+86 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 335.72 398.332 349.397 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U5\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+87 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 372.815 398.102 381.745 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P2\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+88 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 360.284 401.124 378.868 425.148 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 LTC4317\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Dual I2C\057SMBus Address\055Translator\054 DFN\05516\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 I2C Translator 4kV\055ESD Level\055Shifter Hot\055Swap\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137DFN\137QFN\072DFN\05516\0551EP\1373x5mm\137P0\0565mm\137EP1\05666x4\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 DHC Package\073 16\055Lead Plastic DFN \0505mm x 3mm\051 \050see Linear Technology DFN\13716\13705\05508\0551706\056pdf\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 DFN 0\0565\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+89 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 343.076 398.332 356.753 415.7 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U8\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MC3419\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 accelerometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Accelerometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137LGA\072LGA\05512\1372x2mm\137P0\0565mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 LGA12\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 lga land grid array\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+90 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 352.393 390.907 369.047 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U7\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+91 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 348.433 390.907 365.087 416.645 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 U4\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 MMC5603NJ\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 magnetometer\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 Magnetometer 0\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 Package\137BGA\072WLP\0554\1370\05683x0\05683mm\137P0\0564mm\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 WLP\0554\1370\05683x0\05683mm\137P0\0564mm https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047\054 cReturn\072 \047https\072\057\057pdfserv\056maximintegrated\056com\057package\137dwgs\05721\055100107\056PDF\054 https\072\057\057www\056maximintegrated\056com\057en\057app\055notes\057index\056mvp\057id\0571891\047 \175\054 \173 cName\072 \047Keywords \075 WLP\0554\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+92 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 322.415 398.102 331.345 426.01 ]
+/Border [ 16 16 0 ]
+/A <<
+/Type /Action
+/S /JavaScript
+/JS (var aParams \075 \133 \173 cName\072 \047Reference designator \075 P1\047\054 cReturn\072 null \175\054 \173 cName\072 \047Value \075 I\057O\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetfile \075 imu\055stamp\056kicad\137sch\047\054 cReturn\072 null \175\054 \173 cName\072 \047Sheetname \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047exclude\137from\137bom \075 \047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137description \075 Generic connector\054 single row\054 01x05\054 script generated \050kicad\055library\055utils\057schlib\057autogen\057connector\057\051\047\054 cReturn\072 null \175\054 \173 cName\072 \047ki\137keywords \075 connector\047\054 cReturn\072 null \175\054 \173 cName\072 \047Footprint \075 imu\055stamp\072PinHeaderCastellated\1371x05\137P1\05627mm\137Vertical\047\054 cReturn\072 null \175\054 \173 cName\072 \047Description \075 Through hole straight pin header\054 1x05\054 1\05627mm pitch\054 single row\047\054 cReturn\072 null \175\054 \173 cName\072 \047Keywords \075 Through hole pin header THT 1x05 1\05627mm single row\047\054 cReturn\072 null \175\054 \135\073 var cChoice \075 app\056popUpMenuEx\056apply\050 app\054 aParams \051\073 if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 1 \051 \075\075 \047\043\047 \051    this\056pageNum \075 cChoice\056slice\050 1 \051\073 else if\050 cChoice \041\075 null \046\046 cChoice\056substring\050 0\054 4 \051 \075\075 \047http\047 \051    app\056launchURL\050 cChoice \051\073)
+>>
+>>
+endobj
+xref
+0 93
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000119 00000 n 
+0000004319 00000 n 
+0000007774 00000 n 
+0000007823 00000 n 
+0000007920 00000 n 
+0000008025 00000 n 
+0000008127 00000 n 
+0000008236 00000 n 
+0000056977 00000 n 
+0000058159 00000 n 
+0000059748 00000 n 
+0000061321 00000 n 
+0000062504 00000 n 
+0000064122 00000 n 
+0000065740 00000 n 
+0000067411 00000 n 
+0000068593 00000 n 
+0000070182 00000 n 
+0000071755 00000 n 
+0000072938 00000 n 
+0000074556 00000 n 
+0000076174 00000 n 
+0000077845 00000 n 
+0000079027 00000 n 
+0000080616 00000 n 
+0000082189 00000 n 
+0000083372 00000 n 
+0000084990 00000 n 
+0000086608 00000 n 
+0000088279 00000 n 
+0000089461 00000 n 
+0000091050 00000 n 
+0000092623 00000 n 
+0000093806 00000 n 
+0000095424 00000 n 
+0000097042 00000 n 
+0000098713 00000 n 
+0000099895 00000 n 
+0000101484 00000 n 
+0000103057 00000 n 
+0000104240 00000 n 
+0000105858 00000 n 
+0000107476 00000 n 
+0000109147 00000 n 
+0000110329 00000 n 
+0000111918 00000 n 
+0000113491 00000 n 
+0000114674 00000 n 
+0000116292 00000 n 
+0000117910 00000 n 
+0000119581 00000 n 
+0000119679 00000 n 
+0000119785 00000 n 
+0000119888 00000 n 
+0000119998 00000 n 
+0000143462 00000 n 
+0000144644 00000 n 
+0000146233 00000 n 
+0000147806 00000 n 
+0000148989 00000 n 
+0000150607 00000 n 
+0000152225 00000 n 
+0000153896 00000 n 
+0000155078 00000 n 
+0000156667 00000 n 
+0000158240 00000 n 
+0000159423 00000 n 
+0000161041 00000 n 
+0000162659 00000 n 
+0000164330 00000 n 
+0000165512 00000 n 
+0000167101 00000 n 
+0000168674 00000 n 
+0000169857 00000 n 
+0000171475 00000 n 
+0000173093 00000 n 
+0000174764 00000 n 
+0000175946 00000 n 
+0000177535 00000 n 
+0000179108 00000 n 
+0000180291 00000 n 
+0000181909 00000 n 
+0000183527 00000 n 
+0000185198 00000 n 
+0000186380 00000 n 
+0000187969 00000 n 
+0000189542 00000 n 
+0000190725 00000 n 
+0000192343 00000 n 
+0000193961 00000 n 
+trailer
+<<
+/Size 93
+/Root 5 0 R
+/Info 2 0 R
+>>
+startxref
+195632
+%%EOF

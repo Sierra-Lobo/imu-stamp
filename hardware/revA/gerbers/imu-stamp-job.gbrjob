@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.1"
     },
-    "CreationDate": "2023-03-14T15:54:19-04:00"
+    "CreationDate": "2023-05-23T12:13:01-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -35,10 +35,9 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.1016,
-      "PadToTrack": 0.1016,
+      "PadToPad": 0.127,
+      "PadToTrack": 0.127,
       "TrackToTrack": 0.15,
-      "MinLineWidth": 0.15,
       "TrackToRegion": 0.15,
       "RegionToRegion": 0.15
     }
@@ -65,16 +64,6 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "imu-stamp-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "imu-stamp-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "imu-stamp-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
@@ -97,6 +86,11 @@
     {
       "Path": "imu-stamp-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "imu-stamp-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
       "FilePolarity": "Positive"
     }
   ],
